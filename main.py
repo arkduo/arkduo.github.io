@@ -51,6 +51,6 @@ final_xml_content = xml_template.substitute(title=title,
                                             items=items_xml)
 
 # XMLデータをファイルに出力する
-xml_filename = "data\d3watch.xml"
+xml_filename = "data/d3watch.xml"
 with open(xml_filename, "w", encoding="utf-8") as file:
     file.write(final_xml_content)

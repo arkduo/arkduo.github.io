@@ -3,6 +3,7 @@ name: GitHub Actions RSS
 on:
   schedule:
     - cron: '0 */4 * * *'
+  push:
 
 jobs:
   rss-generate:
