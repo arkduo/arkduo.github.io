@@ -1,5 +1,6 @@
 import requests
 from string import Template
+from bs4 import BeautifulSoup
 
 # APIからJSONデータを取得する
 url = 'https://d3watch.gg/index.php?rest_route=/wp/v2/posts'
@@ -33,7 +34,10 @@ items_xml = ''
 for item in json_data:
     title = item['title']['rendered']
     link = item['link']
-    description = item['excerpt']['rendered'].replace("\n", "").replace("\r", "")
+    description = BeautifulSoup(
+        item['excerpt']['rendered'].replace("\n", "").replace("\r", ""),
+        'html.parser'
+        ).get_text()
     guid = item['guid']['rendered']
     pubDate = item['date']
     items_xml += item_template.substitute(title=title,
