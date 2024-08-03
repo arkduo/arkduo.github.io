@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 本日の開発インタビューまとめ－ヒーローBANやマップ投票機能の実装を検討 / 新システム「ロールリミット」をテスト中 / 次回パッチでライフウィーバーの変更を予定 他 (随時更新中)</title>
+            <title>[OW2] 現在のオーバーウォッチ2の推定プレイヤー人口、Steam人口、Twitch視聴率、韓国PC房占有率まとめ</title>
+            <link>https://d3watch.gg/?p=30069</link>
+            <description><![CDATA[ オンラインアクティブプレイヤー数集計サイト「Active Player」によるOW2の8月のアクティブプレイヤー数が公開されました。 Overwatch 2 Live Player Count and Statistic […] ]]></description>
+            <guid>https://d3watch.gg/?p=30069</guid>
+            <pubDate>2024-08-03T10:48:37</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 本日の開発インタビューまとめ－ヒーローBANやマップ投票機能の実装を検討 / 新システム「ロールリミット」をテスト中 / 次回パッチでライフウィーバーの変更を予定 他（追記）</title>
             <link>https://d3watch.gg/?p=30065</link>
             <description><![CDATA[ 本日、OWストリーマーのSVBホストによる、開発ディレクターのアーロン・ケラー氏とリード・ヒーロー・デザイナーのアレク・ドーソン氏のライブインタビューが行われました。 So excited to jump on the  […] ]]></description>
             <guid>https://d3watch.gg/?p=30065</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 本日、ゲーム内ショップが更新され、新たなスキン5体がラインナップに追加されています。 キリコ「ライフガード」バンドル（2800コイン） ライフウィーバー「ライフガード」バンドル（2800コイン） ロードホッグ「ライフガー […] ]]></description>
             <guid>https://d3watch.gg/?p=30034</guid>
             <pubDate>2024-07-31T03:17:08</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] OWCS Koreaステージ2本戦出場の「Metamong」が著作権侵害でチーム名を変更</title>
-            <link>https://d3watch.gg/?p=30031</link>
-            <description><![CDATA[ 先日、前RunawayのMag、Zest、Prophetらによって結成された新チーム「Metamong」が、権利関係の問題からチーム名を「HaeJeokDan」へと変更したことが明らかになりました。 [팀명 변경 안내] […] ]]></description>
-            <guid>https://d3watch.gg/?p=30031</guid>
-            <pubDate>2024-07-30T17:59:25</pubDate>
         </item>
     </channel>
 </rss>
