@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>数日間のブログ休止のおしらせ</title>
+            <link>https://d3watch.gg/?p=30095</link>
+            <description><![CDATA[ 今日から数日間ブログの更新が停止します。再開は早くても8月7日以降の予定です。 ]]></description>
+            <guid>https://d3watch.gg/?p=30095</guid>
+            <pubDate>2024-08-04T07:33:03</pubDate>
+        </item>
+        <item>
             <title>[OW2] トップ500メタ観測－シーズン11後半（2024/8/3）</title>
             <link>https://d3watch.gg/?p=30079</link>
             <description><![CDATA[ 6月21日のシーズン11開幕から本日8月3日までの、各地域各ロールトップ500推移をスコア形式にしたデータのまとめになります。 6/18-8/3のアジア地域推移（全ヒーロー） <概要> アジアではアナとウィン […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 国内を拠点にするesportsチームのZETA DIVISIONが、契約満了にともないタンクのFearlessが退団したことを正式に発表しました。 ⚡ZETA DIVISION – OVERWA […] ]]></description>
             <guid>https://d3watch.gg/?p=30044</guid>
             <pubDate>2024-07-31T20:27:41</pubDate>
-        </item>
-        <item>
-            <title>[OW2]『RAGE SUPER MATCH』にZETA DIVISIONのTENNN選手参戦が決定！</title>
-            <link>https://d3watch.gg/?p=30042</link>
-            <description><![CDATA[ 国内最大級のesportsイベント『RAGE SUPER MATCH Powered by Rakuten Optimism』オーバーウォッチ2部門にZETA DIVISIONのTENNN選手が追加メンバーとして出演する […] ]]></description>
-            <guid>https://d3watch.gg/?p=30042</guid>
-            <pubDate>2024-07-31T20:09:18</pubDate>
         </item>
     </channel>
 </rss>
