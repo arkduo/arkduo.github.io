@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 意図しない「集合」ボイスの仕様について開発から補足</title>
+            <link>https://d3watch.gg/?p=30133</link>
+            <description><![CDATA[ コミュニケーションホイールの「集合」を使うと、「今向かう」や「あなたについていく」といった意図しないボイスラインが出ることについて、開発スタッフのガビン・ウィンター氏からコメントがありました。 Comment byu/T […] ]]></description>
+            <guid>https://d3watch.gg/?p=30133</guid>
+            <pubDate>2024-08-08T09:48:15</pubDate>
+        </item>
+        <item>
+            <title>[OW2] Overbuffにベンチャーのデータが追加、データのサンプルサイズについても補足</title>
+            <link>https://d3watch.gg/?p=30126</link>
+            <description><![CDATA[ 戦績追跡サイトOverbuffのサイトステータスが、ここ数ヶ月続いていた「供給停止」から「通常」に戻ったことが報告されています。 Overbuff – Overwatch 2 StatisticsOverwatch 2  […] ]]></description>
+            <guid>https://d3watch.gg/?p=30126</guid>
+            <pubDate>2024-08-08T07:25:24</pubDate>
+        </item>
+        <item>
             <title>[OW2] DVAにナーフが必要か否かで意見が割れるRedditの反応まとめ</title>
             <link>https://d3watch.gg/?p=30116</link>
             <description><![CDATA[ 継続的なバフにより、現環境トップタンクとの評価もあるDVAにナーフが必要か否かを議論するRedditとその反応をまとめました。 How has dva not been hot fixed? byu/Mako66066  […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 今日から数日間ブログの更新が停止します。再開は早くても8月7日以降の予定です。 ]]></description>
             <guid>https://d3watch.gg/?p=30095</guid>
             <pubDate>2024-08-04T07:33:03</pubDate>
-        </item>
-        <item>
-            <title>[OW2] トップ500メタ観測－シーズン11後半（2024/8/3）</title>
-            <link>https://d3watch.gg/?p=30079</link>
-            <description><![CDATA[ 6月21日のシーズン11開幕から本日8月3日までの、各地域各ロールトップ500推移をスコア形式にしたデータのまとめになります。 6/18-8/3のアジア地域推移（全ヒーロー） <概要> アジアではアナとウィン […] ]]></description>
-            <guid>https://d3watch.gg/?p=30079</guid>
-            <pubDate>2024-08-03T17:26:22</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 現在のオーバーウォッチ2の推定プレイヤー人口、Steam人口、Twitch視聴率、韓国PC房占有率まとめ</title>
-            <link>https://d3watch.gg/?p=30069</link>
-            <description><![CDATA[ オンラインアクティブプレイヤー数集計サイト「Active Player」によるOW2の8月のアクティブプレイヤー数が公開されました。 Overwatch 2 Live Player Count and Statistic […] ]]></description>
-            <guid>https://d3watch.gg/?p=30069</guid>
-            <pubDate>2024-08-03T10:48:37</pubDate>
         </item>
     </channel>
 </rss>
