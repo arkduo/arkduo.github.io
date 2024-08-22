@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] OWCSキャスターがクラッシュモードが抱える問題点を指摘</title>
+            <link>https://d3watch.gg/?p=30441</link>
+            <description><![CDATA[ 正式実装された新モードのクラッシュが抱える問題点について、OWCSキャスターのAVRL氏が指摘しています。 シーズン10でトライアルが実施されたクラッシュは、正式リリースにあたり、最終エリアでポイントがゲージ制になるなど […] ]]></description>
+            <guid>https://d3watch.gg/?p=30441</guid>
+            <pubDate>2024-08-23T04:58:07</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 明日ジュノに小規模な変更を実施予定</title>
+            <link>https://d3watch.gg/?p=30438</link>
+            <description><![CDATA[ 開発リード・ヒーロー・デザイナーのアレク・ドーソン氏から、明日にもジュノに小さな変更を予定していることが明らかにされました。 Juno so far: Quite balanced and trending upward […] ]]></description>
+            <guid>https://d3watch.gg/?p=30438</guid>
+            <pubDate>2024-08-23T02:06:09</pubDate>
+        </item>
+        <item>
             <title>[OW2] クラッシュの出現頻度を減らす変更を実施</title>
             <link>https://d3watch.gg/?p=30435</link>
             <description><![CDATA[ 新ルールとして実装されたクラッシュモードの出現頻度が高すぎるとの指摘に対して、開発レベルデザイナーのライアン・スミス氏からコメントがありました。 Glad to see so many people enjoying S […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 他の記事でまとめきれなかったシーズン12初日の模様や小ネタなどはこちらの雑記で扱っています（随時更新）。 パッチノート、新作＆コラボスキンまとめ、ジュノ日本語VA、新たなTwitch Dropsについては以下の記事を参照 […] ]]></description>
             <guid>https://d3watch.gg/?p=30372</guid>
             <pubDate>2024-08-21T07:29:53</pubDate>
-        </item>
-        <item>
-            <title>[OW2] シーズン12でリリース予定の新スキンまとめ / WoWコラボスキンは「ウィドウメイカー・シルヴァナス」に決定</title>
-            <link>https://d3watch.gg/?p=30362</link>
-            <description><![CDATA[ 画像が多いため表示に時間がかかる場合があります。 本日開幕したシーズン12「ニュー・フロンティアーズ」期間中にリリースされる新作スキンのまとめになります。 Prepare to serve the Horde or fi […] ]]></description>
-            <guid>https://d3watch.gg/?p=30362</guid>
-            <pubDate>2024-08-21T04:41:04</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 本日よりソジョーン「バリスタ」スキンなどが入手できる新たなTwitch Dropsイベントがスタート</title>
-            <link>https://d3watch.gg/?p=30352</link>
-            <description><![CDATA[ 本日より、シーズン12「ニュー・フロンティアーズ」開幕を記念した新たなTwitch Dropsイベントがスタートしています。期間は8月21から31日まで。 Season 12 Twitch Drops are here  […] ]]></description>
-            <guid>https://d3watch.gg/?p=30352</guid>
-            <pubDate>2024-08-21T03:33:28</pubDate>
         </item>
     </channel>
 </rss>
