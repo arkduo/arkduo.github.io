@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] クラッシュの出現頻度を減らす変更を実施</title>
+            <link>https://d3watch.gg/?p=30435</link>
+            <description><![CDATA[ 新ルールとして実装されたクラッシュモードの出現頻度が高すぎるとの指摘に対して、開発レベルデザイナーのライアン・スミス氏からコメントがありました。 Glad to see so many people enjoying S […] ]]></description>
+            <guid>https://d3watch.gg/?p=30435</guid>
+            <pubDate>2024-08-22T23:14:34</pubDate>
+        </item>
+        <item>
             <title>[OW2] OWCS解説陣「ジュノはラッシュ/ポークでニッチな居場所がある」「ジュノにヘッドショットを認めるべき」（追記）</title>
             <link>https://d3watch.gg/?p=30431</link>
             <description><![CDATA[ OWCS解説者としてお馴染みのReinforce氏が、昨日正式リリースされたジュノのファーストインプレッションをポストしています。 Some very early Juno thoughts (I haven&#8217 […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 本日より、シーズン12「ニュー・フロンティアーズ」開幕を記念した新たなTwitch Dropsイベントがスタートしています。期間は8月21から31日まで。 Season 12 Twitch Drops are here  […] ]]></description>
             <guid>https://d3watch.gg/?p=30352</guid>
             <pubDate>2024-08-21T03:33:28</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2024年8月21日配信パッチ内容の​おしらせ－ライフウィーバーの大幅変更など総勢16名に調整</title>
-            <link>https://d3watch.gg/?p=30298</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2024年8月21日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート 新サポートヒーローの「ジュノ」や新マップ「HANAOKA」と「 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30298</guid>
-            <pubDate>2024-08-21T03:15:31</pubDate>
         </item>
     </channel>
 </rss>
