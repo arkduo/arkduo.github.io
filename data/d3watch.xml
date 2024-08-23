@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 既知の不具合－プログレッション関連の不具合を確認</title>
+            <link>https://d3watch.gg/?p=30443</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、プログレッションのアイコンが正しく表示されない問題などが確認されています。 Overwatch 2 Known Issues List – August 20,  […] ]]></description>
+            <guid>https://d3watch.gg/?p=30443</guid>
+            <pubDate>2024-08-23T07:36:59</pubDate>
+        </item>
+        <item>
+            <title>[OWCS] ONCE AGAINのRushヘッドコーチがLFT</title>
+            <link>https://d3watch.gg/?p=30439</link>
+            <description><![CDATA[ 中国チームのONCE AGAINでヘッドコーチを務めていたRushヘッドコーチがLFTを出しています。 LFT ALL 충분한 휴식. 다시 도전https://t.co/nGTLYY0oJA — OW_Rush (He […] ]]></description>
+            <guid>https://d3watch.gg/?p=30439</guid>
+            <pubDate>2024-08-23T05:52:00</pubDate>
+        </item>
+        <item>
             <title>[OW2] OWCSキャスターがクラッシュモードが抱える問題点を指摘</title>
             <link>https://d3watch.gg/?p=30441</link>
             <description><![CDATA[ 正式実装された新モードのクラッシュが抱える問題点について、OWCSキャスターのAVRL氏が指摘しています。 シーズン10でトライアルが実施されたクラッシュは、正式リリースにあたり、最終エリアでポイントがゲージ制になるなど […] ]]></description>
@@ -13,7 +27,7 @@
             <pubDate>2024-08-23T04:58:07</pubDate>
         </item>
         <item>
-            <title>[OW2] 明日ジュノに小規模な変更を実施予定</title>
+            <title>[OW2] 明日ジュノに小規模な調整を実施予定</title>
             <link>https://d3watch.gg/?p=30438</link>
             <description><![CDATA[ 開発リード・ヒーロー・デザイナーのアレク・ドーソン氏から、明日にもジュノに小さな変更を予定していることが明らかにされました。 Juno so far: Quite balanced and trending upward […] ]]></description>
             <guid>https://d3watch.gg/?p=30438</guid>
@@ -60,20 +74,6 @@
             <description><![CDATA[ Reddit有志により、225族をキルできるワンパンコンボをまとめた一覧がポストされています。 (225HP Breakpoints list) Why 250HP => 225HP change is SUCH  […] ]]></description>
             <guid>https://d3watch.gg/?p=30421</guid>
             <pubDate>2024-08-22T03:57:35</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 最新ヒーロー「ジュノ」声優は立花理香さんが担当</title>
-            <link>https://d3watch.gg/?p=30412</link>
-            <description><![CDATA[ 最新サポートヒーロー「ジュノ」の日本語音声は声優の立花理香さんが担当していることが明らかとなりました。 一筋の光を皆に！💫💫 新サポート・ヒーロー「ジュノ」の日本語音声を担当する #立花理 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30412</guid>
-            <pubDate>2024-08-21T12:02:31</pubDate>
-        </item>
-        <item>
-            <title>[OW2] シーズン12初日雑記－Bogur「ジュノはライフィウィーバーよりも弱い」 / プッシュの高台がナーフ / OWCS大会のジュノはプレーオフから使用可能 ほか（随時更新）</title>
-            <link>https://d3watch.gg/?p=30372</link>
-            <description><![CDATA[ 他の記事でまとめきれなかったシーズン12初日の模様や小ネタなどはこちらの雑記で扱っています（随時更新）。 パッチノート、新作＆コラボスキンまとめ、ジュノ日本語VA、新たなTwitch Dropsについては以下の記事を参照 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30372</guid>
-            <pubDate>2024-08-21T07:29:53</pubDate>
         </item>
     </channel>
 </rss>
