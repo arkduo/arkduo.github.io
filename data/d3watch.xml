@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ウィンストンの大ジャンプを妨害できる不具合が見つかる</title>
+            <link>https://d3watch.gg/?p=30461</link>
+            <description><![CDATA[ ウィンストンの大ジャンプが敵の近接メレーでキャンセルされてしまうという不具合が報告されています。 このバグを報告しているのは、タンクメインの配信者として人気のFlatsで、試合中、トレーサーのパンチでリープがキャンセルさ […] ]]></description>
+            <guid>https://d3watch.gg/?p=30461</guid>
+            <pubDate>2024-08-24T04:31:19</pubDate>
+        </item>
+        <item>
             <title>[OW2] 長距離高速移動デッドアイも可能に？－LWの新ペタルを使った小ネタが見つかる</title>
             <link>https://d3watch.gg/?p=30457</link>
             <description><![CDATA[ 先日のアップデートでペタルプラットフォームの仕様が変更になったことで、見せ技に使えるかもしれないちょっとした小技が見つかったようです。 weaver’s of moving petal byu/lifelea […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ コミュニティの間で様々な意見が交わされている昨日のアップデートですが、これに関して、元OWプロコーチSpilo氏のポストが話題となっています。 legitimately getting to the point wher […] ]]></description>
             <guid>https://d3watch.gg/?p=30428</guid>
             <pubDate>2024-08-22T10:10:37</pubDate>
-        </item>
-        <item>
-            <title>[OW2] オーバーウォッチ2のSteam売上がピンクマーシーを抜き過去最高を記録</title>
-            <link>https://d3watch.gg/?p=30423</link>
-            <description><![CDATA[ 8月20日付けのSteamセールスチャートで、オーバーウォッチ2が過去最高の3位を記録したことが明らかとなりました。 Overwatch hits #3 in Sales (Revenue) on Steam (8/20 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30423</guid>
-            <pubDate>2024-08-22T05:14:30</pubDate>
         </item>
     </channel>
 </rss>
