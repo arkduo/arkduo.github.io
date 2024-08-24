@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] ウィンストンの大ジャンプを妨害できる不具合が見つかる</title>
+            <title>[OW2] 2024年8月24日配信パッチ内容の​おしらせ－ジュノ、トレーサー、イラリーに調整</title>
+            <link>https://d3watch.gg/?p=30464</link>
+            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2024年8月24日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート 前日の予告があったジュノに加えて、トレーサーとイラリーにも再調 […] ]]></description>
+            <guid>https://d3watch.gg/?p=30464</guid>
+            <pubDate>2024-08-24T05:40:10</pubDate>
+        </item>
+        <item>
+            <title>[OW2] ウィンストンの大ジャンプを阻止できるバグが見つかる</title>
             <link>https://d3watch.gg/?p=30461</link>
             <description><![CDATA[ ウィンストンの大ジャンプが敵の近接メレーでキャンセルされてしまうという不具合が報告されています。 このバグを報告しているのは、タンクメインの配信者として人気のFlatsで、試合中、トレーサーのパンチでリープがキャンセルさ […] ]]></description>
             <guid>https://d3watch.gg/?p=30461</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 昨日新サポートヒーローのジュノが正式リリースされましたが、彼女の登場によって、今後OW2で最も人気のロールがサポートになるかもしれません。開発エンジニアのモーガン・マドレン氏が以下のようにコメントしています。 Too e […] ]]></description>
             <guid>https://d3watch.gg/?p=30430</guid>
             <pubDate>2024-08-22T14:03:19</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 感情的な調整批判に物申す元OWプロコーチ</title>
-            <link>https://d3watch.gg/?p=30428</link>
-            <description><![CDATA[ コミュニティの間で様々な意見が交わされている昨日のアップデートですが、これに関して、元OWプロコーチSpilo氏のポストが話題となっています。 legitimately getting to the point wher […] ]]></description>
-            <guid>https://d3watch.gg/?p=30428</guid>
-            <pubDate>2024-08-22T10:10:37</pubDate>
         </item>
     </channel>
 </rss>
