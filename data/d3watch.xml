@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[Deadlock] テスト時間外でも対戦可能－Deadlockでサーバー地域を変更する方法</title>
+            <link>https://d3watch.gg/?p=30484</link>
+            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA：citadel_region_override 0 （月曜AM6:00-P […] ]]></description>
+            <guid>https://d3watch.gg/?p=30484</guid>
+            <pubDate>2024-08-26T12:58:37</pubDate>
+        </item>
+        <item>
             <title>[OW2]「ジュノの弱点は数値には現れない」とする意見とRedditの反応まとめ、ジュノOTPで認定後チャンピオンになったプロも</title>
             <link>https://d3watch.gg/?p=30481</link>
             <description><![CDATA[ 昨日のホットフィックスでダメージ量とグライドのCDに若干のバフを得た新サポートのジュノですが、ジュノの弱点は数値には現れない点にあるとするポストとRedditの反応をまとめました。 The reason Juno fee […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、プログレッションのアイコンが正しく表示されない問題などが確認されています。 Overwatch 2 Known Issues List – August 20,  […] ]]></description>
             <guid>https://d3watch.gg/?p=30443</guid>
             <pubDate>2024-08-23T07:36:59</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] ONCE AGAINのRushヘッドコーチがLFT</title>
-            <link>https://d3watch.gg/?p=30439</link>
-            <description><![CDATA[ 中国チームのONCE AGAINでヘッドコーチを務めていたRushヘッドコーチがLFTを出しています。 LFT ALL 충분한 휴식. 다시 도전https://t.co/nGTLYY0oJA — OW_Rush (He […] ]]></description>
-            <guid>https://d3watch.gg/?p=30439</guid>
-            <pubDate>2024-08-23T05:52:00</pubDate>
         </item>
     </channel>
 </rss>
