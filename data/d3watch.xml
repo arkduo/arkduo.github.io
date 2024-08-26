@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OWCS] OWCS KOREA ステージ2の全試合ハイライトまとめ</title>
+            <link>https://d3watch.gg/?p=30486</link>
+            <description><![CDATA[ 昨日グループステージが終了したOWCS KOREA ステージ2ですが、OWCS ASIAのYouTube韓国語公式チャンネルでは、グループステージ全試合のハイライトが公開されています。 以下、全ハイライトを埋め込んでいる […] ]]></description>
+            <guid>https://d3watch.gg/?p=30486</guid>
+            <pubDate>2024-08-26T15:18:04</pubDate>
+        </item>
+        <item>
             <title>[Deadlock] テスト時間外でも対戦可能－Deadlockでサーバー地域を変更する方法</title>
             <link>https://d3watch.gg/?p=30484</link>
-            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA：citadel_region_override 0 （月曜AM6:00-P […] ]]></description>
+            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA：citadel_region_override 0 (月 –  […] ]]></description>
             <guid>https://d3watch.gg/?p=30484</guid>
             <pubDate>2024-08-26T12:58:37</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 先日のアップデートでペタルプラットフォームの仕様が変更になったことで、見せ技に使えるかもしれないちょっとした小技が見つかったようです。 weaver’s of moving petal byu/lifelea […] ]]></description>
             <guid>https://d3watch.gg/?p=30457</guid>
             <pubDate>2024-08-23T15:53:37</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 既知の不具合－プログレッション関連の不具合を確認</title>
-            <link>https://d3watch.gg/?p=30443</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、プログレッションのアイコンが正しく表示されない問題などが確認されています。 Overwatch 2 Known Issues List – August 20,  […] ]]></description>
-            <guid>https://d3watch.gg/?p=30443</guid>
-            <pubDate>2024-08-23T07:36:59</pubDate>
         </item>
     </channel>
 </rss>
