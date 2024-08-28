@@ -71,7 +71,7 @@
         <item>
             <title>[Deadlock] テスト時間外でも対戦可能－Deadlockでサーバー地域を変更する方法</title>
             <link>https://d3watch.gg/?p=30484</link>
-            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA：citadel_region_override 0 (月 –  […] ]]></description>
+            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA： “citadel_region_override 0&#82 […] ]]></description>
             <guid>https://d3watch.gg/?p=30484</guid>
             <pubDate>2024-08-26T12:58:37</pubDate>
         </item>
