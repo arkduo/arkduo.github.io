@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>今年のVCT Championsを制したEDward Gamingのヘッドコーチ、実は元OWプロだったことが判明</title>
+            <link>https://d3watch.gg/?p=30521</link>
+            <description><![CDATA[ 先日の「VALORANT Champions 2024」で見事優勝を果たした中国のEDward Gamingですが、実は同チームのヘッドコーチを務めていたMuggle氏は過去にOWプロチームでプレーしていたことがあるそう […] ]]></description>
+            <guid>https://d3watch.gg/?p=30521</guid>
+            <pubDate>2024-08-29T19:05:23</pubDate>
+        </item>
+        <item>
             <title>[OW2] 一部プレイヤーの認定初戦の推定ランクにバグがあった模様</title>
             <link>https://d3watch.gg/?p=30519</link>
             <description><![CDATA[ 開発エンジニアのモーガン・マドレン氏から、ユーザーの質問に答える形で、マッチメイキングに関する補足説明が2つほどありました。 We look at player stats for this measure since  […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 昨日グループステージが終了したOWCS KOREA ステージ2ですが、OWCS ASIAのYouTube韓国語公式チャンネルでは、グループステージ全試合のハイライトが公開されています。 以下、全ハイライトを埋め込んでいる […] ]]></description>
             <guid>https://d3watch.gg/?p=30486</guid>
             <pubDate>2024-08-26T15:18:04</pubDate>
-        </item>
-        <item>
-            <title>[Deadlock] テスト時間外でも対戦可能－Deadlockでサーバー地域を変更する方法</title>
-            <link>https://d3watch.gg/?p=30484</link>
-            <description><![CDATA[ Deadlockでプレイサーバー（PvP鯖）地域を変更する方法です。 F7キーでコンソールを表示し目的の地域に応じたコマンドを入力します。 NA： “citadel_region_override 0&#82 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30484</guid>
-            <pubDate>2024-08-26T12:58:37</pubDate>
         </item>
     </channel>
 </rss>
