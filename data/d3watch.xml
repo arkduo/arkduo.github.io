@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ブリギッテとラマットラのアーマーにバグが判明、通常よりも多くのダメージを軽減していたことが明らかに</title>
+            <link>https://d3watch.gg/?p=30534</link>
+            <description><![CDATA[ Redditユーザーの検証により、ラマットラとブリギッテのアーマーが不具合により、通常よりも多くダメージを軽減していることが明らかとなりました。 Brig’s Rally armor is bugged, a […] ]]></description>
+            <guid>https://d3watch.gg/?p=30534</guid>
+            <pubDate>2024-08-31T09:06:15</pubDate>
+        </item>
+        <item>
             <title>[OW2] Blizzardが未発表の「FPS RPG」タイトルを開発中か？</title>
             <link>https://d3watch.gg/?p=30529</link>
             <description><![CDATA[ 経歴情報SNSのLinkeInのキャリアプロフィールから、Blizzardが未発表のAAA RPG-FPSタイトルを開発中であることが明らかとなりました。 Wait, Blizz is currently making  […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 情報解禁でTwitch配信がはじまるやいなや、海外で大きな注目を集めているMOBAシューターの「Deadlock」ですが、多くの著名ストリーマーがこのゲームを絶賛する中、元CSプロでおじさんゲーマーの星ことSummitさ […] ]]></description>
             <guid>https://d3watch.gg/?p=30500</guid>
             <pubDate>2024-08-27T09:14:14</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 繰り返されるスマーフによる嫌がらせ行為とRedditの反応まとめ</title>
-            <link>https://d3watch.gg/?p=30492</link>
-            <description><![CDATA[ クラッシュモードに現れた試合を絶対に終わらせないスマーフにより、試合を30分も人質に取られてしまったプレイヤーのポストが話題になっています。 The new Hanaoka map is a griefing night […] ]]></description>
-            <guid>https://d3watch.gg/?p=30492</guid>
-            <pubDate>2024-08-27T07:05:20</pubDate>
         </item>
     </channel>
 </rss>
