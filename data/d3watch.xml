@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] トップ500メタ観測－シーズン12前半（2024/9/6）</title>
+            <link>https://d3watch.gg/?p=30568</link>
+            <description><![CDATA[ 直近1ヶ月の各地域各ロールトップ500推移をスコア形式にしたデータのまとめになります（8/21~9/3はトップ500休止期間）。 今回は有志集計によるトップ500のシーズン12使用率についても記事後半に掲載しています。  […] ]]></description>
+            <guid>https://d3watch.gg/?p=30568</guid>
+            <pubDate>2024-09-07T04:22:39</pubDate>
+        </item>
+        <item>
             <title>[OW2]「一方的な試合に不満の声が大きい低ランクのプレイヤーほどティルトしやすい」 －Spilo氏のワンサイドマッチに対する見解と対処方法まとめ</title>
             <link>https://d3watch.gg/?p=30563</link>
             <description><![CDATA[ オーバーウォッチやチーム対戦ゲームではつきものと言える「ワンサイドゲーム」ですが、元OWプロコーチのSpilo氏の見解とその対処方法が話題となっていたので、長尺ですが、若干難解ともいえる同氏のコメントをわかりやすくまとめ […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 国内を拠点にするEsportsチームのVARRELが、OW部門の新たなコーチとしてYaho氏の就任を発表しました。 ◤ NEW MEMBER ◢ このたびOW部門にコーチとしてYaHo(@ow_yaho)が加入いたしまし […] ]]></description>
             <guid>https://d3watch.gg/?p=30540</guid>
             <pubDate>2024-09-01T19:40:24</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ブリギッテとラマットラのアーマーにバグが判明、通常よりも多くのダメージを軽減していたことが明らかに</title>
-            <link>https://d3watch.gg/?p=30534</link>
-            <description><![CDATA[ Redditユーザーの検証により、ラマットラとブリギッテのアーマーが通常よりも多くのダメージを軽減していたことが明らかとなりました。 Brig’s Rally armor is bugged, again!  […] ]]></description>
-            <guid>https://d3watch.gg/?p=30534</guid>
-            <pubDate>2024-08-31T09:06:15</pubDate>
         </item>
     </channel>
 </rss>
