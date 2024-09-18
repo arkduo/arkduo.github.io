@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] S12ミッドシーズンパッチ初日雑記－不具合修正の名の下に消されたゲンジの高等テク / アッシュの連射に不具合 / アーマーバグが未修正であることが判明 他（随時更新中）</title>
+            <title>[OW2] キャスディのフラッシュバン変更は実際のところナーフなのかバフなのか？</title>
+            <link>https://d3watch.gg/?p=30743</link>
+            <description><![CDATA[ 本日のアップデートでダメージと持続時間が調整されたキャスディのフラッシュバンについて、興味深いポストがあったので簡単に紹介します。 Some math about the flashbang change byu/Tir […] ]]></description>
+            <guid>https://d3watch.gg/?p=30743</guid>
+            <pubDate>2024-09-18T20:02:44</pubDate>
+        </item>
+        <item>
+            <title>[OW2] S12ミッドシーズンパッチ初日雑記－不具合修正の名の下に消されたゲンジの高等テク / アッシュの連射に不具合 / アーマーバグが未修正であることが判明 他</title>
             <link>https://d3watch.gg/?p=30723</link>
-            <description><![CDATA[ 他の記事でまとめきれなかったシーズン12ミッドシーズンパッチ初日の模様や小ネタなどはこちらの雑記で扱っています（随時更新）。 パッチノート、コラボイベント概要、ショップ更新、新たなTwitch Dropsについては、以下 […] ]]></description>
+            <description><![CDATA[ 他の記事でまとめきれなかったシーズン12ミッドシーズンパッチ初日の模様や小ネタなどはこちらの雑記で扱っています。 パッチノート、コラボイベント概要、ショップ更新、新たなTwitch Dropsについては、以下の記事を参照 […] ]]></description>
             <guid>https://d3watch.gg/?p=30723</guid>
             <pubDate>2024-09-18T13:05:34</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、9月18日からオーバーウォッチ2がラインナップに加わるXBOX GAME PASSについての説明がありました。 「オーバーウォッチ 2」がXbox Game Passに登場 X […] ]]></description>
             <guid>https://d3watch.gg/?p=30711</guid>
             <pubDate>2024-09-17T03:32:52</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] OWCS KOREA決勝前にコロナを患っていたProper</title>
-            <link>https://d3watch.gg/?p=30709</link>
-            <description><![CDATA[ 昨日、OWCS KOREAステージ2決勝でZETA DIVISIONを破り、ステージ1に続く同大会連覇を果たしたTEAM FALCONSのProperですが、大会前にコロナを患っていたことが明らかとなりました。 昨日の試 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30709</guid>
-            <pubDate>2024-09-16T03:54:50</pubDate>
         </item>
     </channel>
 </rss>
