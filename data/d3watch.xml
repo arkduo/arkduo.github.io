@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] キャスディのフラッシュバン変更は実際のところナーフなのかバフなのか？</title>
+            <title>[OW2] 昨日のパッチで削除されたゲンジのテクニック「リッジグラブ」が復活へ</title>
+            <link>https://d3watch.gg/?p=30749</link>
+            <description><![CDATA[ 昨日のアップデートで不具合修正の名の下に長年ゲンジメインに愛用されていたテクニック「リッジグラブ（Ledge Grabbing）」が削除されてしまったゲンジですが、この修正自体に不具合があったのか、リード・ヒーロー・デザ […] ]]></description>
+            <guid>https://d3watch.gg/?p=30749</guid>
+            <pubDate>2024-09-19T04:33:11</pubDate>
+        </item>
+        <item>
+            <title>[OW2] キャスディのフラッシュバン変更は実際のところナーフなのかバフなのか？（追記）</title>
             <link>https://d3watch.gg/?p=30743</link>
             <description><![CDATA[ 本日のアップデートでダメージと持続時間が調整されたキャスディのフラッシュバンについて、興味深いポストがあったので簡単に紹介します。 Some math about the flashbang change byu/Tir […] ]]></description>
             <guid>https://d3watch.gg/?p=30743</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 以下のポストは別ゲームのサブからコピペ改変したものであることが判明したので、ネタと思って読んでください。 オーバーウォッチのおかげで法廷で無罪が証明されたというユーザーからちょっと愉快なポストが投稿されました。 Over […] ]]></description>
             <guid>https://d3watch.gg/?p=30713</guid>
             <pubDate>2024-09-17T11:44:39</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 9月18日に「オーバーウォッチ 2」がXBOX GAME PASSに登場、レジェンダリスキン6体とミシックプリズムの豪華特典やサービス利用中は過去3シーズンのショップスキンが使い放題！</title>
-            <link>https://d3watch.gg/?p=30711</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、9月18日からオーバーウォッチ2がラインナップに加わるXBOX GAME PASSについての説明がありました。 「オーバーウォッチ 2」がXbox Game Passに登場 X […] ]]></description>
-            <guid>https://d3watch.gg/?p=30711</guid>
-            <pubDate>2024-09-17T03:32:52</pubDate>
         </item>
     </channel>
 </rss>
