@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 既知の不具合－「コミュニティ企画」モードでDVAが一時使用不可に</title>
+            <link>https://d3watch.gg/?p=30814</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、アニバーサリーイベントの「コミュニティ企画」モードの不具合により、同モードでDVAが一時使用不可能となっています。 Overwatch 2 Known Issues List […] ]]></description>
+            <guid>https://d3watch.gg/?p=30814</guid>
+            <pubDate>2024-09-25T19:56:48</pubDate>
+        </item>
+        <item>
+            <title>[OW2] OWCS ASIA大会のライブ視聴報酬が発表</title>
+            <link>https://d3watch.gg/?p=30812</link>
+            <description><![CDATA[ 今週9月27日に開幕するOWCS ASIA大会のライブ視聴報酬が発表されました。 OWCS ASIA｜視聴報酬のご案内 📅9月27日(土)~29日(日)、10月5日(土) ✦視聴報酬対象配信チャンネル & […] ]]></description>
+            <guid>https://d3watch.gg/?p=30812</guid>
+            <pubDate>2024-09-25T19:39:31</pubDate>
+        </item>
+        <item>
             <title>[OW2] チャンピオン達成難易度に関するアンケートと小規模なナローグループの範囲について開発者が回答</title>
             <link>https://d3watch.gg/?p=30809</link>
             <description><![CDATA[ 本日、マッチメイキングを担当している開発エンジニアのモーガン・マドレン氏が、SNS上でチャンピオンランクの達成難易度に関するアンケートを実施。さらに、小規模なナローグループに関する質問にも答えています。 Champion […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ OWCS JAPANステージ2では、Miku Fan Clubのタンクとして活躍したRomaniが、OWCS NAステージ4に向けて米国のチームに加入したことが明らかとなりました。 Roster Reveal for O […] ]]></description>
             <guid>https://d3watch.gg/?p=30775</guid>
             <pubDate>2024-09-21T07:51:28</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] レジェンドFletaが米国Shikigamiのコーチに就任、前海賊団のSeonjunと前Old OceanのTaejongも加入</title>
-            <link>https://d3watch.gg/?p=30773</link>
-            <description><![CDATA[ 米国を拠点にするOWチームのShikigamiが、前海賊団のSeonjunと前Old OceanのTaejong含めた新たなロスターを発表しました。 As dusk approaches, we rise…  […] ]]></description>
-            <guid>https://d3watch.gg/?p=30773</guid>
-            <pubDate>2024-09-21T06:00:57</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 公式ブログ：ジュノの開発秘話が公開</title>
-            <link>https://d3watch.gg/?p=30767</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、ジュノの開発を振り返る開発秘話と多数のコンセプトアートが公開されています。 火星人類の第一歩に向けて – ジュノの開発を振り返る 既に日本語ページも更新されているの […] ]]></description>
-            <guid>https://d3watch.gg/?p=30767</guid>
-            <pubDate>2024-09-21T05:42:09</pubDate>
         </item>
     </channel>
 </rss>
