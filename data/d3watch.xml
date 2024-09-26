@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 既知の不具合－「コミュニティ企画」モードでDVAが一時使用不可に</title>
+            <title>[OW2] ジャンクラットOTPがまたしてもEUサーバーのトップに君臨、今度は1位と2位を独占</title>
+            <link>https://d3watch.gg/?p=30815</link>
+            <description><![CDATA[ シーズン10でEUサーバーのダメージトップに到達したジャンクラット使いが再びトップに到達。しかも、今回は1位と2位を独占するという快挙を達成しています。 Gurk is rank 1 and 2 on junkrat o […] ]]></description>
+            <guid>https://d3watch.gg/?p=30815</guid>
+            <pubDate>2024-09-26T08:42:45</pubDate>
+        </item>
+        <item>
+            <title>[OW2]【修正完了】 既知の不具合－「コミュニティ企画」モードでDVAが一時使用不可に</title>
             <link>https://d3watch.gg/?p=30814</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、アニバーサリーイベントの「コミュニティ企画」モードの不具合により、同モードでDVAが一時使用不可能となっています。 Overwatch 2 Known Issues List […] ]]></description>
+            <description><![CDATA[ 既に問題は修正され「コミュニティ企画」モードでDVAが再び使用可能となっています。 公式フォーラムの既知の不具合リストが更新され、アニバーサリーイベントの「コミュニティ企画」モードの不具合により、同モードでDVAが一時使 […] ]]></description>
             <guid>https://d3watch.gg/?p=30814</guid>
             <pubDate>2024-09-25T19:56:48</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ シーズン12で実施された半年ぶりのランクリセットから1ヶ月経過しましたが、年2回のランクリセットに対するReddtiの評価と反応をまとめました。 How do you feel about rank resets? by […] ]]></description>
             <guid>https://d3watch.gg/?p=30778</guid>
             <pubDate>2024-09-22T09:47:37</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] 前MFCのRomaniがNAのOWチームに加入</title>
-            <link>https://d3watch.gg/?p=30775</link>
-            <description><![CDATA[ OWCS JAPANステージ2では、Miku Fan Clubのタンクとして活躍したRomaniが、OWCS NAステージ4に向けて米国のチームに加入したことが明らかとなりました。 Roster Reveal for O […] ]]></description>
-            <guid>https://d3watch.gg/?p=30775</guid>
-            <pubDate>2024-09-21T07:51:28</pubDate>
         </item>
     </channel>
 </rss>
