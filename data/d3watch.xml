@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 今週末より新たなランク報酬システム「ドライブ」がスタート</title>
+            <link>https://d3watch.gg/?p=30872</link>
+            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、シーズン12で新たに導入されたランクマッチ報酬「ドライブ」システムについて説明がありました。 Driven To Victory! – Introducing Co […] ]]></description>
+            <guid>https://d3watch.gg/?p=30872</guid>
+            <pubDate>2024-10-03T08:39:43</pubDate>
+        </item>
+        <item>
             <title>[OW2] 既知の不具合－ゴールデン武器が購入できない不具合を確認</title>
             <link>https://d3watch.gg/?p=30871</link>
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、ゴールデン武器が購入できない不具合が確認されているとのことです。 Overwatch 2 Known Issues List -October 1, 2024To th […] ]]></description>
@@ -43,7 +50,7 @@
         <item>
             <title>既知の不具合－Twitch Drops報酬のメイ「フラワーチャイルド」スキンが受け取れない問題について</title>
             <link>https://d3watch.gg/?p=30851</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、Twitch Drops報酬のメイ「フラワーチャイルド」スキンが受け取れない問題について調査中とのことです。 Overwatch 2 Known Issues List –  […] ]]></description>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、Twitch Drops報酬のメイ「フラワーチャイルド」スキンが受け取れない問題について調査中とのことです。 Overwatch 2 Known Issues List -O […] ]]></description>
             <guid>https://d3watch.gg/?p=30851</guid>
             <pubDate>2024-10-01T07:13:34</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 海外大手経済メディア「ブルームバーグ」にも寄稿している著名記者のJason Schreier氏が本日開催したRedditでのAMAにおいて、アクティビジョン・ブリザードがかつてNETFLIX版のオーバーウォッチ製作を検討 […] ]]></description>
             <guid>https://d3watch.gg/?p=30843</guid>
             <pubDate>2024-09-30T05:25:22</pubDate>
-        </item>
-        <item>
-            <title>追記：[OW2] ザリアのバリアに画期的な不具合が見つかる</title>
-            <link>https://d3watch.gg/?p=30839</link>
-            <description><![CDATA[ 元オーバーウォッチプロで人気配信者のKraandopさんが、ラインハルトのチャージに対抗するザリアの画期的なバグを報告しています。 「シフトを長押しするだけで、簡単にチャージのダメージを防げる」 ザリアはバリアを張ること […] ]]></description>
-            <guid>https://d3watch.gg/?p=30839</guid>
-            <pubDate>2024-09-29T14:58:46</pubDate>
         </item>
     </channel>
 </rss>
