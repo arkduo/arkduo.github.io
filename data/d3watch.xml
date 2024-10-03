@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 現在のオーバーウォッチ2の推定プレイヤー人口、Steam人口、Twitch視聴率、韓国PC房占有率まとめ（9月分）</title>
+            <link>https://d3watch.gg/?p=30874</link>
+            <description><![CDATA[ オンラインアクティブプレイヤー数集計サイト「ActivePlayer」によるオーバーウォッチ2の9月の推定アクティブプレイヤー数が公開されました。 Overwatch 2 Live Player Count and St […] ]]></description>
+            <guid>https://d3watch.gg/?p=30874</guid>
+            <pubDate>2024-10-03T12:30:35</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 既知の不具合－「超バランス・オーバーウォッチ」モードでマウガとリーパーが一時使用不可に</title>
+            <link>https://d3watch.gg/?p=30879</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、「超バランス・オーバーウォッチ」モードにて、マウガとリーパーが不具合により一時的に無効となっています。 Overwatch 2 Known Issues List -O […] ]]></description>
+            <guid>https://d3watch.gg/?p=30879</guid>
+            <pubDate>2024-10-03T11:48:25</pubDate>
+        </item>
+        <item>
             <title>[OW2] 今週末より新たなランク報酬システム「ドライブ」がスタート</title>
             <link>https://d3watch.gg/?p=30872</link>
             <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、シーズン12で新たに導入されたランクマッチ報酬「ドライブ」システムについて説明がありました。 Driven To Victory! – Introducing Co […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 前FNATICのLeeJaeGon（韓国、サポート）が自身のSNS上で現役から退くことを明らかにしました。 pic.twitter.com/PZGjFB6Iji — LeeJaeGon (@LeeJaeGon_OW) S […] ]]></description>
             <guid>https://d3watch.gg/?p=30849</guid>
             <pubDate>2024-09-30T18:32:48</pubDate>
-        </item>
-        <item>
-            <title>アクティビジョン・ブリザードがモバイルゲーム部門などで400名のレイオフを実施へ</title>
-            <link>https://d3watch.gg/?p=30846</link>
-            <description><![CDATA[ 海外メディアのリポートによると、アクティビジョン・ブリザードが来月にも400名規模の人員削減を行うことが明らかになりました。 Activision Blizzard laying off 400 workers. The […] ]]></description>
-            <guid>https://d3watch.gg/?p=30846</guid>
-            <pubDate>2024-09-30T06:59:39</pubDate>
-        </item>
-        <item>
-            <title>訂正：[OW2] かつてNETFLIX版のオーバーウォッチが製作されていた？ジェフはOW2専用開発チームの起ち上げを拒否していた？海外著名記者のAMAから判明</title>
-            <link>https://d3watch.gg/?p=30843</link>
-            <description><![CDATA[ 海外大手経済メディア「ブルームバーグ」にも寄稿している著名記者のJason Schreier氏が本日開催したRedditでのAMAにおいて、アクティビジョン・ブリザードがかつてNETFLIX版のオーバーウォッチ製作を検討 […] ]]></description>
-            <guid>https://d3watch.gg/?p=30843</guid>
-            <pubDate>2024-09-30T05:25:22</pubDate>
         </item>
     </channel>
 </rss>
