@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 10月16日開幕「Season 13 : SPELLBINDER」公式トレーラーは11日未明にプレミア公開</title>
+            <title>[OW2] 新報酬システム「ドライブ」実装で懸念される問題</title>
+            <link>https://d3watch.gg/?p=30886</link>
+            <description><![CDATA[ 本日より新たに導入された新報酬システム「ドライブ」ですが、Redditではこの報酬獲得のために故意にランクを落とすなどの下げラン行為が懸念されています。 ドライブはシーズン終盤で導入される報酬システムですが、試合に勝利す […] ]]></description>
+            <guid>https://d3watch.gg/?p=30886</guid>
+            <pubDate>2024-10-05T11:17:51</pubDate>
+        </item>
+        <item>
+            <title>追記：[OW2] 10月16日開幕「Season 13 : SPELLBINDER」公式トレーラーは11日未明にプレミア公開</title>
             <link>https://d3watch.gg/?p=30884</link>
             <description><![CDATA[ 本日、10月16日より新シーズンの「シーズン13：SPELLBINDER」がスタートすることが明らかにされました。合わせて新シーズンのティザートレーラーも公開されています。 Get ready for #Overwatc […] ]]></description>
             <guid>https://d3watch.gg/?p=30884</guid>
@@ -29,7 +36,7 @@
         <item>
             <title>[OW2] 今週末より新たなランク報酬システム「ドライブ」がスタート</title>
             <link>https://d3watch.gg/?p=30872</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、シーズン12で新たに導入されたランクマッチ報酬「ドライブ」システムについて説明がありました。 Driven To Victory! – Introducing Co […] ]]></description>
+            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、シーズン12で新たに導入されたランクマッチ報酬「ドライブ」システムについて説明がありました。 新イベント「ドライブ」がライバル・プレイに登場！ 基本的にはミッドシーズンパッチで […] ]]></description>
             <guid>https://d3watch.gg/?p=30872</guid>
             <pubDate>2024-10-03T08:39:43</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 昨日、著名ゲームライターのJason Schreier氏により、過去のオーバーウォッチ開発の内情が明らかにされたばかりですが、そのSchreier氏がポッドキャストに出演し、OW2開発の現状について手短にコメントしていま […] ]]></description>
             <guid>https://d3watch.gg/?p=30852</guid>
             <pubDate>2024-10-01T11:43:24</pubDate>
-        </item>
-        <item>
-            <title>既知の不具合－Twitch Drops報酬のメイ「フラワーチャイルド」スキンが受け取れない問題について</title>
-            <link>https://d3watch.gg/?p=30851</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、Twitch Drops報酬のメイ「フラワーチャイルド」スキンが受け取れない問題について調査中とのことです。 Overwatch 2 Known Issues List -O […] ]]></description>
-            <guid>https://d3watch.gg/?p=30851</guid>
-            <pubDate>2024-10-01T07:13:34</pubDate>
         </item>
     </channel>
 </rss>
