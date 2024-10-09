@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 既知の不具合－一部チャレンジが反映されない不具合により、報酬のレジェンダリスキン入手が簡単に</title>
+            <link>https://d3watch.gg/?p=30951</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、一部のチャレンジを完了しても反映されない不具合が確認されています。 Overwatch 2 Known Issues List -October 8, 2024To t […] ]]></description>
+            <guid>https://d3watch.gg/?p=30951</guid>
+            <pubDate>2024-10-09T11:50:25</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 著名ゲームライターの最新著書からモバイル版OW開発の噂が再浮上？</title>
+            <link>https://d3watch.gg/?p=30949</link>
+            <description><![CDATA[ 本日、刊行された著名ゲームライター、ジェイソン・シュライアー氏の著書『Play Nice : The Rise, Fall, and Future of Blizzard Entertainment』の記述から、モバイル […] ]]></description>
+            <guid>https://d3watch.gg/?p=30949</guid>
+            <pubDate>2024-10-09T10:16:03</pubDate>
+        </item>
+        <item>
             <title>[OWCS] 10月11日より、ソルジャーのOWCSスキンなどが報酬のTwitch Dropsがスタート</title>
             <link>https://d3watch.gg/?p=30940</link>
             <description><![CDATA[ 日本時間10月11-14日に開催される「OWCS NA/EMEA ステージ4」のプレーオフ~グランドファイナルのTwitch Drops報酬が明らかとなりました。 From plat summer straight in […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 国内を拠点にするEsportsチームのVARRELが、このほどオーバーウォッチ部門で新たな選手の募集を開始しました。 【#OW 部門】メンバー募集のお知らせ OWCS JAPAN 及びその先の海外大会において、共に勝利を […] ]]></description>
             <guid>https://d3watch.gg/?p=30895</guid>
             <pubDate>2024-10-06T19:50:45</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 新報酬システム「ドライブ」実装で懸念される問題</title>
-            <link>https://d3watch.gg/?p=30886</link>
-            <description><![CDATA[ 本日より新たに導入された新報酬システム「ドライブ」ですが、Redditではこの報酬獲得のために故意にランクを落とすなどの下げラン行為が懸念されています。 ドライブはシーズン終盤で導入される報酬システムですが、試合に勝利す […] ]]></description>
-            <guid>https://d3watch.gg/?p=30886</guid>
-            <pubDate>2024-10-05T11:17:51</pubDate>
-        </item>
-        <item>
-            <title>追記：[OW2] 10月16日開幕「Season 13 : SPELLBINDER」公式トレーラーは11日未明にプレミア公開</title>
-            <link>https://d3watch.gg/?p=30884</link>
-            <description><![CDATA[ 本日、10月16日より新シーズンの「シーズン13：SPELLBINDER」がスタートすることが明らかにされました。合わせて新シーズンのティザートレーラーも公開されています。 Get ready for #Overwatc […] ]]></description>
-            <guid>https://d3watch.gg/?p=30884</guid>
-            <pubDate>2024-10-05T09:13:07</pubDate>
         </item>
     </channel>
 </rss>
