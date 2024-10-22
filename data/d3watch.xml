@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ショップ更新情報（10/23）－「ディアブロ」コラボスキンが復活</title>
+            <link>https://d3watch.gg/?p=31268</link>
+            <description><![CDATA[ 本日、ゲーム内ショップが更新され、「ディアブロ」コラボスキン3体の再販がスタートしています。 モイラ「リリス」バンドル（2600コイン） ラインハルト「インペリウス」バンドル（2600コイン） ファラ「イナリウス」バンド […] ]]></description>
+            <guid>https://d3watch.gg/?p=31268</guid>
+            <pubDate>2024-10-23T03:34:10</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 開発が新たなバランスアップデート技術をテスト中</title>
+            <link>https://d3watch.gg/?p=31267</link>
+            <description><![CDATA[ 開発エンジニアのダニエル・ラザ氏から、昨日のソンブラのアップデートに関連した新たなアップデート技術についてコメントがありました。 We’re testing some new Rapid Balance Up […] ]]></description>
+            <guid>https://d3watch.gg/?p=31267</guid>
+            <pubDate>2024-10-23T03:06:54</pubDate>
+        </item>
+        <item>
             <title>[OW2] 多くのプレイヤーが誤解しているブリギッテのインスパイアの仕様</title>
             <link>https://d3watch.gg/?p=31265</link>
             <description><![CDATA[ Redditに投稿された、「多くのプレイヤーがブリギッテのインスパイアの仕様を理解していない」とするとても参考になるポストを紹介します。 Most players don’t understand how B […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ シーズン13の小規模リワークの結果、大幅に弱体化されたことが話題となっているソンブラですが、今回のソンブラ弱体化がもたらすメリットについて、元OWプロ配信者のSamito氏が以下のようにコメントしています。 The be […] ]]></description>
             <guid>https://d3watch.gg/?p=31245</guid>
             <pubDate>2024-10-20T14:24:42</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ラマットラのシールドに機能的な不具合が見つかる</title>
-            <link>https://d3watch.gg/?p=31240</link>
-            <description><![CDATA[ ラマットラのシールドにクールダウンを無視してシールドを再設置可能にする不具合が確認されています。 ML7の配信によると、右クリックを長押ししたまま、シールドの位置を仮り決めした状態でスタンを食らうと、指定した位置にシール […] ]]></description>
-            <guid>https://d3watch.gg/?p=31240</guid>
-            <pubDate>2024-10-19T12:18:25</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 新ソンブラの隠された仕様が判明、開発者の賢すぎる意図が話題に</title>
-            <link>https://d3watch.gg/?p=31238</link>
-            <description><![CDATA[ 新ソンブラのステルスがなにもしていないのに勝手に起動することがあるという奇妙な現象が報告されています。 When afk in the training room Sombra can stealth randomly, […] ]]></description>
-            <guid>https://d3watch.gg/?p=31238</guid>
-            <pubDate>2024-10-19T05:24:02</pubDate>
         </item>
     </channel>
 </rss>
