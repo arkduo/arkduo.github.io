@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ウィルス使用後もステルスが解除されないバグと敵陣リスポーンのバグが見つかる</title>
+            <link>https://d3watch.gg/?p=31341</link>
+            <description><![CDATA[ ソンブラがウィルスで攻撃した後もステルスが解除されないという現象が報告されています。 You can actually throw virus while cloaked as sombra byu/Chata_da_g […] ]]></description>
+            <guid>https://d3watch.gg/?p=31341</guid>
+            <pubDate>2024-11-03T08:14:04</pubDate>
+        </item>
+        <item>
             <title>[OWCS] 本日3日午前3時より『Calling All Heroes Minor 3』大会でTwitch Dropsキャンペーンが開催</title>
             <link>https://d3watch.gg/?p=31339</link>
             <description><![CDATA[ 日本時間11月3~4日に開催される『Calling All Heroes Minor 3』プレーオフ視聴で入手可能なTwitch Drops報酬が明らかとなりました（今日の試合はこのあと午前3時から）。 Calling  […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 2シーズン連続で低すぎるOverbuffのピック率を記録してしまったイラリーの現状に対するRedditの反応をまとめました。 Illari’s very low pick-rates byu/Neo_Raider inC […] ]]></description>
             <guid>https://d3watch.gg/?p=31286</guid>
             <pubDate>2024-10-27T14:11:24</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 来週10月30日にパッチを配信へ、リプレイの保存もお忘れなく</title>
-            <link>https://d3watch.gg/?p=31285</link>
-            <description><![CDATA[ コミュニティマネージャーから来週10月30日に不具合修正パッチが配信されることが明らかにされました。 Replay codes will be wiped on October 29There will be an up […] ]]></description>
-            <guid>https://d3watch.gg/?p=31285</guid>
-            <pubDate>2024-10-25T07:47:13</pubDate>
         </item>
     </channel>
 </rss>
