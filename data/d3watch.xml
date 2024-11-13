@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2]「5v5廃止の予定はない」－今後の6v6調整方針など開発者Q&#038;Aまとめ（随時更新中）</title>
+            <title>[OW2]「OWは最もキャリーの可能性が低いPvP」、「DPSパッシブ維持」、「メイのフリーズは復活しない」など－開発者インタビューのRedditまとめ</title>
+            <link>https://d3watch.gg/?p=31462</link>
+            <description><![CDATA[ 本日、開発ディレクターのアーロン・ケラー氏とバランス調整担当のアレク・ドーソン氏のQ&Aが実施されたので、以下、Redditにポストされたまとめになります。 前記事で紹介したOWCavalryさんのまとめよりも多 […] ]]></description>
+            <guid>https://d3watch.gg/?p=31462</guid>
+            <pubDate>2024-11-13T11:18:32</pubDate>
+        </item>
+        <item>
+            <title>[OW2]「5v5廃止の予定はない」－今後の6v6調整方針など開発者Q&#038;Aまとめ</title>
             <link>https://d3watch.gg/?p=31460</link>
-            <description><![CDATA[ 本日、開発ディレクターのアーロン・ケラー氏とバランス調整担当のアレク・ドーソン氏のQ&Aが実施されたので、以下、OWCavalryさん（＠OWCavalry）のポストを元に、そのまとめを随時更新していきます。 O […] ]]></description>
+            <description><![CDATA[ Redditのまとめポストではより多くの回答がまとめられていたので、そちらのQ&Aまとめも参照してみてください。 [OW2]「OWは最もキャリーの可能性が低いPvP」、「DPSパッシブ維持」、「メイのフリーズは復 […] ]]></description>
             <guid>https://d3watch.gg/?p=31460</guid>
             <pubDate>2024-11-13T07:19:39</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 11月30日に開幕する「Soop Overwatch Cup Season 2 – Korea」にZETA DIVISIONの出場が決定しました。 ／ SOOP Overwatch 2 CUP Season  […] ]]></description>
             <guid>https://d3watch.gg/?p=31413</guid>
             <pubDate>2024-11-11T19:22:12</pubDate>
-        </item>
-        <item>
-            <title>[OW2] トップ500メタ観測 シーズン13前半（2024/11/10）－オリーサ人気が激増、時代は地べたタンクへ</title>
-            <link>https://d3watch.gg/?p=31395</link>
-            <description><![CDATA[ 間もなくシーズン13のミッドシーズンパッチが配信される11月10日時点、直近2ヶ月間の各地域各ロールトップ500推移をスコア形式にしたデータのまとめになります。 9/11~11/9のアジア地域推移（全ヒーロー） < […] ]]></description>
-            <guid>https://d3watch.gg/?p=31395</guid>
-            <pubDate>2024-11-10T13:05:59</pubDate>
         </item>
     </channel>
 </rss>
