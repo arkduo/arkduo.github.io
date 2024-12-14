@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ジュノのULTにダメージボーナス重複バグが見つかる、先日のOWCS Finalsでも同様のバグが発生していた模様</title>
+            <link>https://d3watch.gg/?p=31817</link>
+            <description><![CDATA[ ジュノのULTであるオービタル・レイが一定の条件を満たすと、ダメージボーナスが重複するのではないかとの不具合が報告されています。 Juno Ultimate: Damage boost stacking bug? G78 […] ]]></description>
+            <guid>https://d3watch.gg/?p=31817</guid>
+            <pubDate>2024-12-14T08:10:37</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 既知の不具合―無敵化バグにより「フリーズソー・エリミネーション」モードでマウガがBAN</title>
+            <link>https://d3watch.gg/?p=31816</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、不具合によりマウガが「フリーズソー・エリミネーション」モードで一時利用停止となっています。 Overwatch 2 Known Issues – December 12 […] ]]></description>
+            <guid>https://d3watch.gg/?p=31816</guid>
+            <pubDate>2024-12-14T07:12:09</pubDate>
+        </item>
+        <item>
             <title>[OW2] 過去のOWLレジェンダリスキンのリカラーが新たに判明</title>
             <link>https://d3watch.gg/?p=31787</link>
             <description><![CDATA[ 過去にリリースされたOWLレジェンダリスキンのリカラーバージョンが、間もなくリリースされることがデータ解析により明らかとなりました。 Incoming OWCS/OWL/OWESPORTS Content Cosmic  […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 日本時間12月15~16日に開催される『Calling All Heroes Major 3』プレーオフ視聴で入手可能なTwitch Drops報酬が明らかとなりました。 MEOWS IN CHAT 📣  […] ]]></description>
             <guid>https://d3watch.gg/?p=31750</guid>
             <pubDate>2024-12-12T04:15:42</pubDate>
-        </item>
-        <item>
-            <title>[OW2] シーズン14中にOWが中国全土でのサービスを再開か？新規のメニュー画面から判明</title>
-            <link>https://d3watch.gg/?p=31748</link>
-            <description><![CDATA[ シーズン14で追加された新たなメニュー画面から、今シーズン中にも、中国地域におけるオーバーウォッチのサービスが再開されるのではないかと見られています。 本日のアップデート後に確認できたメニューの背景には、中国語で「欢迎回 […] ]]></description>
-            <guid>https://d3watch.gg/?p=31748</guid>
-            <pubDate>2024-12-11T22:48:47</pubDate>
-        </item>
-        <item>
-            <title>[OW2] シーズン14初日雑記―ハザードが早くも大会デビュー / ハザードの日本語版声優が判明 / ライフウィーバーにステルスナーフ？/ コラボスキンにさらなるヒーローが登場 他</title>
-            <link>https://d3watch.gg/?p=31732</link>
-            <description><![CDATA[ 他の記事でまとめきれなかったシーズン14初日の模様や小ネタなどはこちらの雑記で扱っています（随時更新）。 パッチノート、新作スキンまとめ、新たなTwitch Dropsについては以下の記事を参照してください。 &#821 […] ]]></description>
-            <guid>https://d3watch.gg/?p=31732</guid>
-            <pubDate>2024-12-11T21:05:27</pubDate>
         </item>
     </channel>
 </rss>
