@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[Marvel Rivals] 推奨スペックなのにカクつく症状を劇的に改善する設定（制御フローガード設定）</title>
+            <link>https://d3watch.gg/?p=31849</link>
+            <description><![CDATA[ Marvel Rivalsの推奨スペックを満たしているにも関わらず、ゲーム中に突然カクついたりフレームレートが安定しない場合は、以下のWindows側設定を変更することで劇的に改善する可能性があります。 How I fi […] ]]></description>
+            <guid>https://d3watch.gg/?p=31849</guid>
+            <pubDate>2024-12-17T21:40:25</pubDate>
+        </item>
+        <item>
             <title>[OW2] OWCSキャスター「ソジョーンがマウガをメタから引き摺り下ろした」</title>
             <link>https://d3watch.gg/?p=31847</link>
             <description><![CDATA[ 現在開催中の『Soop Overwatch 2 Cup』において、マウガメタが終焉した理由はソジョーンであるとする、OWCSキャスターのAVRL氏のコメントを紹介します。 尚、ソジョーンはこのコメントの後、本日、弱体化が […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ チャレンジ達成に必要条件となるヒドラマップの出現率が少なすぎる問題が発生している模様 The developers really thought we wouldn’t notice? byu/Jaded-A […] ]]></description>
             <guid>https://d3watch.gg/?p=31819</guid>
             <pubDate>2024-12-14T10:07:17</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ジュノのULTにダメージボーナス重複バグが見つかる、先日のOWCS Finalsでも同様のバグが発生していた模様</title>
-            <link>https://d3watch.gg/?p=31817</link>
-            <description><![CDATA[ ジュノのULTであるオービタル・レイが一定の条件を満たすと、ダメージボーナスが重複するのではないかとの不具合が報告されています。 Juno Ultimate: Damage boost stacking bug? G78 […] ]]></description>
-            <guid>https://d3watch.gg/?p=31817</guid>
-            <pubDate>2024-12-14T08:10:37</pubDate>
         </item>
     </channel>
 </rss>
