@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] OWCSキャスター「ソジョーンがマウガをメタから引き摺り下ろした」</title>
+            <link>https://d3watch.gg/?p=31847</link>
+            <description><![CDATA[ 現在開催中の『Soop Overwatch 2 Cup』において、マウガメタが終焉した理由はソジョーンであるとする、OWCSキャスターのAVRL氏のコメントを紹介します。 尚、ソジョーンはこのコメントの後、本日、弱体化が […] ]]></description>
+            <guid>https://d3watch.gg/?p=31847</guid>
+            <pubDate>2024-12-17T10:11:34</pubDate>
+        </item>
+        <item>
             <title>Marvel Rivals情報（12/17） マウスの加速設定を強制オフにする方法 / 「現時点でロールキュー実装は検討していない」/ ジェフの超キュートな限定スキンが入手可能なXマスイベントが開催</title>
             <link>https://d3watch.gg/?p=31829</link>
             <description><![CDATA[ 随時更新中 Marvel　Rivalsではエイムに支障をきたすかもしれないマウスの加速設定（アクセレーション）が強制的にオンになっているらしく、これをオフにする方法が紹介されています I saw this video o […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ ジュノのULTであるオービタル・レイが一定の条件を満たすと、ダメージボーナスが重複するのではないかとの不具合が報告されています。 Juno Ultimate: Damage boost stacking bug? G78 […] ]]></description>
             <guid>https://d3watch.gg/?p=31817</guid>
             <pubDate>2024-12-14T08:10:37</pubDate>
-        </item>
-        <item>
-            <title>[OW2]【修正完了】既知の不具合―無敵化バグにより「フリーズソー・エリミネーション」モードでマウガがBAN</title>
-            <link>https://d3watch.gg/?p=31816</link>
-            <description><![CDATA[ マウガの不具合に関しては既に修正が完了しています（2024/12/17） 公式フォーラムの既知の不具合リストが更新され、現在、不具合によりマウガが「フリーズソー・エリミネーション」モードで一時利用停止となっています。 O […] ]]></description>
-            <guid>https://d3watch.gg/?p=31816</guid>
-            <pubDate>2024-12-14T07:12:09</pubDate>
         </item>
     </channel>
 </rss>
