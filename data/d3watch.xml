@@ -6,14 +6,21 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>本日の雑記（1/22）―ミッドシーズン関連情報 他</title>
+            <title>マベライ雑記（1/22）―Tim「マーベルの天下はつづくだろう」 / マーベルのマッチング早すぎ問題 / 明日から春節イベントがスタート、スターロードの無料スキンも登場 他</title>
+            <link>https://d3watch.gg/?p=32141</link>
+            <description><![CDATA[ マーベル・ライバルズの早すぎるマッチングがなぜか問題になっている模様 Marvel Rivals queue times are so fast they’re becoming a problem – DexertoT […] ]]></description>
+            <guid>https://d3watch.gg/?p=32141</guid>
+            <pubDate>2025-01-22T11:45:49</pubDate>
+        </item>
+        <item>
+            <title>本日の雑記（1/22）―ミッドシーズン関連情報 / エモートが途中キャンセル可能に / 練習場BOTの体力が250HPにバフ 他</title>
             <link>https://d3watch.gg/?p=32136</link>
-            <description><![CDATA[ 随時更新中 パッチノート、ミッドシーズンのコンテンツまとめ、Twitch Dropsについては以下の記事を参照してください 本日のアップデートでエモートが途中キャンセル可能になりました i didn’t kn […] ]]></description>
+            <description><![CDATA[ 随時更新中 パッチノート、ミッドシーズンのコンテンツまとめ、Twitch Dropsについては以下の記事を参照してください 最新パッチのデータ解析によると、「高品質アップスケーリング」設定に新たなオプションが追加されるよ […] ]]></description>
             <guid>https://d3watch.gg/?p=32136</guid>
             <pubDate>2025-01-22T09:16:38</pubDate>
         </item>
         <item>
-            <title>[OW2] 既知の不具合―クイックとランクの待ち時間が長くなる問題について</title>
+            <title>[OW2] 既知の不具合―ブラックマーケットの割引価格表示の不具合とクイックとランクの待ち時間が長くなる問題について</title>
             <link>https://d3watch.gg/?p=32135</link>
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、ランクマッチとクイックマッチの待ち時間が長くなる問題が確認されています。 Current Issues We are investigating long queue  […] ]]></description>
             <guid>https://d3watch.gg/?p=32135</guid>
@@ -48,9 +55,9 @@
             <pubDate>2025-01-22T05:07:19</pubDate>
         </item>
         <item>
-            <title>[OW2] 2025年1月22日配信パッチ内容のおしらせ―ラマットラ、ウィンストン、ハザード、エコー、トレーサー、アナ、イラリー、アナに調整</title>
+            <title>[OW2] 2025年1月22日配信パッチ内容のおしらせ―ラマットラ、ウィンストン、ハザード、エコー、トレーサー、ジュノ、イラリー、アナに調整</title>
             <link>https://d3watch.gg/?p=32116</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年1月22日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート ハザードが再び弱体化されたほか、ラマットラ、ウィンストン、ハザ […] ]]></description>
+            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年1月22日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート ハザードが再び弱体化されたほか、ラマットラ、ウィンストン、エコ […] ]]></description>
             <guid>https://d3watch.gg/?p=32116</guid>
             <pubDate>2025-01-22T04:00:46</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ ヨーロッパを拠点にするEsportsチームのVirtus.proが、間もなく開幕するOWCS EMEAステージ1本戦に出場するメンバー5名を発表しました。 Kicking off a new Overwatch 2 se […] ]]></description>
             <guid>https://d3watch.gg/?p=32107</guid>
             <pubDate>2025-01-21T04:04:58</pubDate>
-        </item>
-        <item>
-            <title>[OWCS]「ストライキも検討した」―試合配信がさらに減少するOWCS Pacificの現状について99DIVINEが声明を発表</title>
-            <link>https://d3watch.gg/?p=32105</link>
-            <description><![CDATA[ 先日、OWCSステージ1に出場する8チームが発表されPacific地域ですが、今ステージでは同地域のグループステージ配信が行われないことが決定。この状況に対して本戦に出場する99DIVINEから声明が出されています。 p […] ]]></description>
-            <guid>https://d3watch.gg/?p=32105</guid>
-            <pubDate>2025-01-20T19:48:40</pubDate>
         </item>
     </channel>
 </rss>
