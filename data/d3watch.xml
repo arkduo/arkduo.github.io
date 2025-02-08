@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 2025年2月8日配信パッチ内容のおしらせ―真のDPSドゥームが復活</title>
+            <title>[OW2] 既知の不具合―「モスメタ」マーシーのULT回復が適切に機能しない問題</title>
+            <link>https://d3watch.gg/?p=32313</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、「モスメタ」マーシーがULT発動中に回復ビームが適切に連鎖しない不具合などが確認されています。 Overwatch 2 Known Issues – February  […] ]]></description>
+            <guid>https://d3watch.gg/?p=32313</guid>
+            <pubDate>2025-02-08T06:09:17</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 2025年2月8日配信パッチ内容のおしらせ―DPSドゥームに調整</title>
             <link>https://d3watch.gg/?p=32312</link>
             <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年2月8日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch p […] ]]></description>
             <guid>https://d3watch.gg/?p=32312</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 随時更新中 OWCS JPに参戦中のリアルOTP軍団 PLEASE NOT HERO BANに所属するUYOU選手のとんでもないセンシが判明 PLEASE NOT HERO BANのUYOU（旧Belaboo）選手は振り […] ]]></description>
             <guid>https://d3watch.gg/?p=32273</guid>
             <pubDate>2025-02-03T18:30:02</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 「フラッシュポイントはクラッシュよりも人気がある」―開発方針に関するディレクターの回答まとめ</title>
-            <link>https://d3watch.gg/?p=32268</link>
-            <description><![CDATA[ 本日、「ディレクターの視点」が更新され、シーズン15以降の開発方針が明らかにされましたが、これに関して、ディレクターのアーロン・ケラー氏がいくつか質問に答えていたので、そのまとめになります。 Latest Directo […] ]]></description>
-            <guid>https://d3watch.gg/?p=32268</guid>
-            <pubDate>2025-02-01T12:55:54</pubDate>
         </item>
     </channel>
 </rss>
