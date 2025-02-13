@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ライブ配信イベントでの開発者コメントまとめ―リーパーとモイラのリワーク中止｜ペイロードレースをテス中｜新ヒーロー「アクア」はサポート ほか</title>
+            <link>https://d3watch.gg/?p=32361</link>
+            <description><![CDATA[ 本日の「オーバーウォッチ 2：スポットライト」配信イベント中に開発者から出されてコメントをまとめています（新情報が入り次第追記）。 シーズン15以降に実装される「パーク」や新ヒーローなどの新要素やコンテンツについては別途 […] ]]></description>
+            <guid>https://d3watch.gg/?p=32361</guid>
+            <pubDate>2025-02-13T11:30:04</pubDate>
+        </item>
+        <item>
             <title>[OW2] シーズン15で導入されるパークの仕様について</title>
             <link>https://d3watch.gg/?p=32360</link>
             <description><![CDATA[ 本日シーズン15での導入が決まった「パーク」システムですが、ランクマッチおよびクイックマッチに実装されるパークの仕様については以下のとおりです。 All hero Perks in Overwatch 2: All Ma […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、「モスメタ」マーシーがULT発動中に回復ビームが適切に連鎖しない不具合などが確認されています。 Overwatch 2 Known Issues – February  […] ]]></description>
             <guid>https://d3watch.gg/?p=32313</guid>
             <pubDate>2025-02-08T06:09:17</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2025年2月8日配信パッチ内容のおしらせ―DPSドゥームに調整</title>
-            <link>https://d3watch.gg/?p=32312</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年2月8日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch p […] ]]></description>
-            <guid>https://d3watch.gg/?p=32312</guid>
-            <pubDate>2025-02-08T05:05:01</pubDate>
         </item>
     </channel>
 </rss>
