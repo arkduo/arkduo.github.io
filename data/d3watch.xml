@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2]『オーバーウォッチ 2：スポットライト』そのほかの情報まとめ―今後登場予定のスキンまとめ｜新マップ「モロッコ」｜元リーガーが開発チームに加入｜パークはOWCS JP大会に即投入？</title>
+            <title>[OW2] 開発者がヒーローBANの詳細を説明―OTPのターゲットBANは不可、全ランクでBANシステムを実装 ほか</title>
+            <link>https://d3watch.gg/?p=32416</link>
+            <description><![CDATA[ 開発スタッフのガビン・ウィンター氏が本日のライブ配信イベントにて、シーズン16でのランク導入が明らかになったヒーローBANについて詳しく説明していたので、以下、そのまとめになります。 Hero ban details f […] ]]></description>
+            <guid>https://d3watch.gg/?p=32416</guid>
+            <pubDate>2025-02-13T18:36:34</pubDate>
+        </item>
+        <item>
+            <title>[OW2]『オーバーウォッチ 2：スポットライト』そのほかの情報まとめ―新マップが有楽町駅前すぎると話題に｜今後登場予定のスキンまとめ｜新マップ「モロッコ」｜元リーガーが開発チームに加入｜パークはOWCS JP大会に即投入？</title>
             <link>https://d3watch.gg/?p=32363</link>
             <description><![CDATA[ 本日のライブ配信イベント『オーバーウォッチ 2：スポットライト』そのほかの情報はこちらに雑記形式で更新しています（随時更新）。 シーズン15から導入される「パーク」システムや新ヒーローなどの詳細については↓の別途記事を参 […] ]]></description>
             <guid>https://d3watch.gg/?p=32363</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ アッシュがしゃがんだ状態になると頭部へのヘッドショットが無効化されるという不具合が報告されています。 Ashe headshot immunity bug byu/Bloyski inOverwatch Redditユー […] ]]></description>
             <guid>https://d3watch.gg/?p=32324</guid>
             <pubDate>2025-02-11T11:41:21</pubDate>
-        </item>
-        <item>
-            <title>[Marvel Rivals] ムーンナイトの「ULTダメージ2倍」バグは開発が意図したものであったことが判明、その隠された仕様とは？　</title>
-            <link>https://d3watch.gg/?p=32314</link>
-            <description><![CDATA[ 先日、公式記載よりも2倍も多いダメージを与えていることが話題となったムーンナイトの「コンスの拳」ですが（関連記事）、実はこれは開発が意図した仕様であり、このダメージが2倍になる仕組みを解明したポストが話題となっています。 […] ]]></description>
-            <guid>https://d3watch.gg/?p=32314</guid>
-            <pubDate>2025-02-10T12:32:40</pubDate>
         </item>
     </channel>
 </rss>
