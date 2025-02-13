@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2]『オーバーウォッチ 2：スポットライト』そのほかの情報まとめ―今後登場予定のスキンまとめ｜新マップ「モロッコ」｜元リーガーが開発チームに加入｜パークはOWCS JP大会に即投入？</title>
+            <link>https://d3watch.gg/?p=32363</link>
+            <description><![CDATA[ 本日のライブ配信イベント『オーバーウォッチ 2：スポットライト』そのほかの情報はこちらに雑記形式で更新しています（随時更新）。 シーズン15から導入される「パーク」システムや新ヒーローなどの詳細については↓の別途記事を参 […] ]]></description>
+            <guid>https://d3watch.gg/?p=32363</guid>
+            <pubDate>2025-02-13T14:41:08</pubDate>
+        </item>
+        <item>
             <title>[OW2] ライブ配信イベントでの開発者コメントまとめ―リーパーとモイラのリワーク中止｜ペイロードレースをテス中｜新ヒーロー「アクア」はサポート ほか</title>
             <link>https://d3watch.gg/?p=32361</link>
             <description><![CDATA[ 本日の「オーバーウォッチ 2：スポットライト」配信イベント中に開発者から出されてコメントをまとめています（新情報が入り次第追記）。 シーズン15以降に実装される「パーク」や新ヒーローなどの新要素やコンテンツについては別途 […] ]]></description>
@@ -27,9 +34,9 @@
             <pubDate>2025-02-13T06:49:22</pubDate>
         </item>
         <item>
-            <title>[OW2] パークシステムの全ヒーローパークまとめ（翻訳再編集）</title>
+            <title>[OW2] パークシステムの全ヒーローパークまとめ</title>
             <link>https://d3watch.gg/?p=32351</link>
-            <description><![CDATA[ 本日公開された「パーク」システムの全ヒーロー詳細となります。以下は、Dot Esportsの記事を翻訳したものです。 内容が不明なアビリティはソースの原文を参照してください。当初のAI翻訳は人力で再編集しました。 All […] ]]></description>
+            <description><![CDATA[ 本日公開された「パーク」システムの全ヒーロー詳細となります。以下は、Dot Esportsの記事を翻訳したものです。内容が不明瞭なアビリティはソースの原文を参照してください。 All hero Perks in Over […] ]]></description>
             <guid>https://d3watch.gg/?p=32351</guid>
             <pubDate>2025-02-13T05:10:35</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 先日、公式記載よりも2倍も多いダメージを与えていることが話題となったムーンナイトの「コンスの拳」ですが（関連記事）、実はこれは開発が意図した仕様であり、このダメージが2倍になる仕組みを解明したポストが話題となっています。 […] ]]></description>
             <guid>https://d3watch.gg/?p=32314</guid>
             <pubDate>2025-02-10T12:32:40</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 既知の不具合―「モスメタ」マーシーのULT回復が適切に機能しない問題</title>
-            <link>https://d3watch.gg/?p=32313</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、「モスメタ」マーシーがULT発動中に回復ビームが適切に連鎖しない不具合などが確認されています。 Overwatch 2 Known Issues – February  […] ]]></description>
-            <guid>https://d3watch.gg/?p=32313</guid>
-            <pubDate>2025-02-08T06:09:17</pubDate>
         </item>
     </channel>
 </rss>
