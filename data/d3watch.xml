@@ -6,9 +6,23 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] パークシステムの全ヒーローパークまとめ（AI翻訳）</title>
+            <title>[OW2] シーズン15で導入されるパークの仕様について</title>
+            <link>https://d3watch.gg/?p=32360</link>
+            <description><![CDATA[ 本日シーズン15での導入が決まった「パーク」システムですが、ランクマッチおよびクイックマッチに実装されるパークの仕様については以下のとおりです。 All hero Perks in Overwatch 2: All Ma […] ]]></description>
+            <guid>https://d3watch.gg/?p=32360</guid>
+            <pubDate>2025-02-13T09:28:40</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 「オーバーウォッチ 2：スポットライト」総まとめ―「パーク」システム｜2人の新ヒーロー｜ルートボックス復活｜「スタジアム」モード｜ヒーローBAN導入｜LE SSERAFIMコラボ第2弾 ほか</title>
+            <link>https://d3watch.gg/?p=32340</link>
+            <description><![CDATA[ 本日公開された「オーバーウォッチ 2：スポットライト」のまとめ記事が日本語公式ブログより公開されています。 「オーバーウォッチ 2：スポットライト」まとめ – 革新と興奮に満ちた新時代へ新シーズンで導入されるPvPの新要 […] ]]></description>
+            <guid>https://d3watch.gg/?p=32340</guid>
+            <pubDate>2025-02-13T06:49:22</pubDate>
+        </item>
+        <item>
+            <title>[OW2] パークシステムの全ヒーローパークまとめ（翻訳再編集）</title>
             <link>https://d3watch.gg/?p=32351</link>
-            <description><![CDATA[ 本日公開された「パーク」システムの全ヒーロー詳細となります。以下は、Dot Esportsの記事をAIを翻訳したものです。 All hero Perks in Overwatch 2: All Major and Min […] ]]></description>
+            <description><![CDATA[ 本日公開された「パーク」システムの全ヒーロー詳細となります。以下は、Dot Esportsの記事を翻訳したものです。 内容が不明なアビリティはソースの原文を参照してください。当初のAI翻訳は人力で再編集しました。 All […] ]]></description>
             <guid>https://d3watch.gg/?p=32351</guid>
             <pubDate>2025-02-13T05:10:35</pubDate>
         </item>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年2月8日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch p […] ]]></description>
             <guid>https://d3watch.gg/?p=32312</guid>
             <pubDate>2025-02-08T05:05:01</pubDate>
-        </item>
-        <item>
-            <title>追記：オーバーウォッチのライバル「Paladins」がスタジオ大量解雇で開発終了、事実上消滅へ</title>
-            <link>https://d3watch.gg/?p=32309</link>
-            <description><![CDATA[ 「Smite」と「Paladins」の開発スタジオであるHi-Rez Studiosおよびその関連会社が、大幅な人員削減を実施したことが明らかとなりました。 Smite and Paladins dead as Hi-R […] ]]></description>
-            <guid>https://d3watch.gg/?p=32309</guid>
-            <pubDate>2025-02-07T08:52:12</pubDate>
-        </item>
-        <item>
-            <title>[OW2] トールビョーンのレベル3タレットやオリーサのシールドにユニークモデルが登場、来週の『スポットライト』に向けてコミュニティの想像を膨らませる</title>
-            <link>https://d3watch.gg/?p=32306</link>
-            <description><![CDATA[ 初代オーバーウォッチに登場したトールビョーンのレベル3タレットやオリーサ―のシールドデバイスに専用のモデリング用意されたことにより、これらのアビリティがクラシックモード以外でも復活するのではないかと、にわかに注目を集めて […] ]]></description>
-            <guid>https://d3watch.gg/?p=32306</guid>
-            <pubDate>2025-02-07T07:21:04</pubDate>
         </item>
     </channel>
 </rss>
