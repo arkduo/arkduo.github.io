@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>追記：[OW2] ディレクターが復活を遂げるルートボックスの仕様を説明―ダブりなし、購入不可、S15では100個入手可能、現在入手不可能なアイテムも 他</title>
+            <link>https://d3watch.gg/?p=32425</link>
+            <description><![CDATA[ シーズン15で復活することが明らかにされたルートボックスですが、昨日、ディレクターのアーロン・ケラー氏がEmonggさんとの対談でルートボックスの仕様について詳しく説明していたので、以下、そのまとめになります。 Clar […] ]]></description>
+            <guid>https://d3watch.gg/?p=32425</guid>
+            <pubDate>2025-02-14T06:55:15</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 早くも45人目のヒーローの存在が話題に、次なる新ヒーローは大剣持ち？</title>
+            <link>https://d3watch.gg/?p=32420</link>
+            <description><![CDATA[ 昨日の「オーバーウォッチ 2：スポットライト」イベントでは「フレイヤ」と「アクア」という2人の新ヒーローがお披露目されましたが、早くもシーズン20に登場する45人目のヒーローが「大剣を持ったヒーロー」ではないかとの噂が浮 […] ]]></description>
+            <guid>https://d3watch.gg/?p=32420</guid>
+            <pubDate>2025-02-14T05:59:00</pubDate>
+        </item>
+        <item>
             <title>[OW2] 開発者がヒーローBANの詳細を説明―OTPのターゲットBANは不可、全ランクでBANシステムを実装 ほか</title>
             <link>https://d3watch.gg/?p=32416</link>
             <description><![CDATA[ 開発スタッフのガビン・ウィンター氏が本日のライブ配信イベントにて、シーズン16でのランク導入が明らかになったヒーローBANについて詳しく説明していたので、以下、そのまとめになります。 Hero ban details f […] ]]></description>
@@ -20,7 +34,7 @@
             <pubDate>2025-02-13T14:41:08</pubDate>
         </item>
         <item>
-            <title>[OW2] ライブ配信イベントでの開発者コメントまとめ―リーパーとモイラのリワーク中止｜ペイロードレースをテス中｜新ヒーロー「アクア」はサポート ほか</title>
+            <title>追記：[OW2] ライブ配信イベントでの開発者コメントまとめ―リーパーとモイラのリワーク中止｜ペイロードレースをテス中｜新ヒーロー「アクア」はサポート ほか</title>
             <link>https://d3watch.gg/?p=32361</link>
             <description><![CDATA[ 本日の「オーバーウォッチ 2：スポットライト」配信イベント中に開発者から出されてコメントをまとめています（新情報が入り次第追記）。 シーズン15以降に実装される「パーク」や新ヒーローなどの新要素やコンテンツについては別途 […] ]]></description>
             <guid>https://d3watch.gg/?p=32361</guid>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 本日よりスタートしたシーズン14の「ドライブ」イベントですが、前シーズンからポイント数や開催期間にいくつか変更があります。 New Competitive Drive in #Overwatch2 🔷 E […] ]]></description>
             <guid>https://d3watch.gg/?p=32331</guid>
             <pubDate>2025-02-12T10:06:26</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ショップ更新情報（2/12）―昨年のバレンタインスキンが復刻</title>
-            <link>https://d3watch.gg/?p=32327</link>
-            <description><![CDATA[ 本日、ゲーム内ショップが更新され、昨年登場のバレンタインスキンが追加されています。今週初登場のスキンはありません。 幸せのピンク・バンドル（2900コイン） ウィドウメイカー「ローズ・リリー」 ラインハルト「ローズ・ハル […] ]]></description>
-            <guid>https://d3watch.gg/?p=32327</guid>
-            <pubDate>2025-02-12T04:24:32</pubDate>
-        </item>
-        <item>
-            <title>[OW2] アッシュにヘッドショットを無効化するバグが見つかる</title>
-            <link>https://d3watch.gg/?p=32324</link>
-            <description><![CDATA[ アッシュがしゃがんだ状態になると頭部へのヘッドショットが無効化されるという不具合が報告されています。 Ashe headshot immunity bug byu/Bloyski inOverwatch Redditユー […] ]]></description>
-            <guid>https://d3watch.gg/?p=32324</guid>
-            <pubDate>2025-02-11T11:41:21</pubDate>
         </item>
     </channel>
 </rss>
