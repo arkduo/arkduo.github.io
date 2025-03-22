@@ -6,6 +6,27 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ランクマッチの6v6オープンキューにおけるワイドグループの制限について</title>
+            <link>https://d3watch.gg/?p=32779</link>
+            <description><![CDATA[ オーバーウォッチ開発チームから、ランクマッチの6v6オープンキューではワイドグループによるマッチメイキングが利用できないとの説明がありました。 Grouping Up in 6v6 Open Queue Competit […] ]]></description>
+            <guid>https://d3watch.gg/?p=32779</guid>
+            <pubDate>2025-03-22T09:24:58</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 既知の不具合―CS版でフレイヤの「テイク・エイム」のアシストが過剰補正される問題</title>
+            <link>https://d3watch.gg/?p=32778</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、コンソール版でフレイヤの「テイク・エイム」を使用するとエイムアシストが過剰に補正される問題が確認されています。 Overwatch 2 Known Issues – M […] ]]></description>
+            <guid>https://d3watch.gg/?p=32778</guid>
+            <pubDate>2025-03-22T07:29:09</pubDate>
+        </item>
+        <item>
+            <title>本日の雑記（3/22）フレイヤの小ネタ ほか</title>
+            <link>https://d3watch.gg/?p=32776</link>
+            <description><![CDATA[ 随時更新中 ———— 小ネタ Parkour! Parkour! byu/Repulsive-Tennis8253 inOverwatch フレイヤは空中でADSするとかな […] ]]></description>
+            <guid>https://d3watch.gg/?p=32776</guid>
+            <pubDate>2025-03-22T06:59:56</pubDate>
+        </item>
+        <item>
             <title>[OW2] 2025年3月22日配信パッチ内容のおしらせ―最新ヒーロー「フレイヤ」の先行体験がスタート</title>
             <link>https://d3watch.gg/?p=32773</link>
             <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年3月22日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート最新のオーバーウォッチのパッチや、今までの更新履歴を見るover […] ]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、アンランクの6v6モードでパークが利用できない不具合のため、クイックプレイから6v6モードが一時的に削除されています。 Overwatch 2 Known Issues […] ]]></description>
             <guid>https://d3watch.gg/?p=32739</guid>
             <pubDate>2025-03-19T09:50:58</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ジュノの新たなOWCSクラウドファンドスキンが判明 他</title>
-            <link>https://d3watch.gg/?p=32742</link>
-            <description><![CDATA[ 本日配信されたパッチデータから、今後リリースが予定されているジュノの新スキンや大会視聴報酬などが明らかになりました。 S15 Mid-season datamining byu/CF2lter inoverwatch2  […] ]]></description>
-            <guid>https://d3watch.gg/?p=32742</guid>
-            <pubDate>2025-03-19T07:41:10</pubDate>
-        </item>
-        <item>
-            <title>[OW2] Discord クエストでライフウィーバー「氷の預言者」スキンを手に入れよう</title>
-            <link>https://d3watch.gg/?p=32733</link>
-            <description><![CDATA[ Discordにてシーズン15 ミッドシーズンパッチ配信を記念したDiscord クエストが開催されています。 このクエストを完了することでライフウィーバー用「氷の預言者」スキンを無料で手に入れることができます。 クエス […] ]]></description>
-            <guid>https://d3watch.gg/?p=32733</guid>
-            <pubDate>2025-03-19T04:52:39</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ショップ更新情報（3/19）LE SSERAFIMコラボスキン第2弾が登場―10体ウルトラバンドルは9900コイン</title>
-            <link>https://d3watch.gg/?p=32720</link>
-            <description><![CDATA[ 本日、ゲーム内ショップが更新され、「オーバーウォッチ 2 x LE SSERAFIM」コラボスキン第2弾がラインナップに追加されています。 LE SSERAFIM FEARLESSメガバンドル（6900コイン） マーシー […] ]]></description>
-            <guid>https://d3watch.gg/?p=32720</guid>
-            <pubDate>2025-03-19T04:01:19</pubDate>
         </item>
     </channel>
 </rss>
