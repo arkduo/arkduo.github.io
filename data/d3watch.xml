@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 昨日のパッチでジュノがサイレントバフされていたことが判明</title>
+            <link>https://d3watch.gg/?p=32804</link>
+            <description><![CDATA[ 昨日のバランス調整パッチで、ジュノがこっそりバフされていたことが明らかになりました。 While not mentioned in the #Overwatch2 Hotfix, Juno's ultimate  […] ]]></description>
+            <guid>https://d3watch.gg/?p=32804</guid>
+            <pubDate>2025-03-27T03:57:26</pubDate>
+        </item>
+        <item>
             <title>[OWCS]「Team Falconsから引き抜くとしたら…」はやっぱりあの選手？―Crazy RaccoonのMoonヘッドコーチとIllusionさんの対談まとめ</title>
             <link>https://d3watch.gg/?p=32801</link>
             <description><![CDATA[ 昨日、Crazy Raccoonのパートナークリエイターに就任したIllusionさんの配信にて、CRのMoonヘッドコーチのインタビューがとりおこなわれたので、以下、その対談のまとめになります。 < &#8216 […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ オーバーウォッチ開発チームから、ランクマッチの6v6オープンキューではワイドグループによるマッチメイキングが利用できないとの説明がありました。 Grouping Up in 6v6 Open Queue Competit […] ]]></description>
             <guid>https://d3watch.gg/?p=32779</guid>
             <pubDate>2025-03-22T09:24:58</pubDate>
-        </item>
-        <item>
-            <title>追記 [OW2] 既知の不具合―CS版でフレイヤの「テイク・エイム」のエイムアシストが無効に</title>
-            <link>https://d3watch.gg/?p=32778</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、コンソール版でフレイヤの「テイク・エイム」を使用するとエイムアシストが過剰に補正される問題が確認されたため、同アビリティにみアシストが無効化されています。 Overwa […] ]]></description>
-            <guid>https://d3watch.gg/?p=32778</guid>
-            <pubDate>2025-03-22T07:29:09</pubDate>
         </item>
     </channel>
 </rss>
