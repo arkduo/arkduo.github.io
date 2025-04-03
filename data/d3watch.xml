@@ -6,18 +6,25 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2]【修正完了】既知の不具合―「超ノーマル・オーバーウォッチ」モードでボールが一時無効</title>
+            <link>https://d3watch.gg/?p=32892</link>
+            <description><![CDATA[ さきほど不具合が修正され「超ノーマル・オーバーウォッチ」でレッキング・ボールが再び利用となっています。 Ball is back in the arcade game mode byu/WildDragonfly2 in […] ]]></description>
+            <guid>https://d3watch.gg/?p=32892</guid>
+            <pubDate>2025-04-03T09:56:13</pubDate>
+        </item>
+        <item>
+            <title>[OWCS] ロスターの動き（4/3）Gen. GのTopdragonが退団｜WAYのWhoruに移籍の噂 ほか</title>
+            <link>https://d3watch.gg/?p=32895</link>
+            <description><![CDATA[ EMEAを拠点にするGen. Gが所属するTopdragon（韓国）退団を発表しました , @TOPDRAGON_OW Today, we have mutually parted ways with TOPDRAGON […] ]]></description>
+            <guid>https://d3watch.gg/?p=32895</guid>
+            <pubDate>2025-04-03T06:45:29</pubDate>
+        </item>
+        <item>
             <title>[OWCS] 公式ルールが一部改正、最小ロスター登録数が5名から6名に変更</title>
             <link>https://d3watch.gg/?p=32894</link>
             <description><![CDATA[ OWCS公式ルールが改定され、ロスター登録に必要なプレイヤー登録数がこれまでの5人から6人に変更されたようです（5名＋リザーブ1名）。 Rules update for stage 2 byu/CaptRavage in […] ]]></description>
             <guid>https://d3watch.gg/?p=32894</guid>
             <pubDate>2025-04-02T07:39:06</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 既知の不具合―「超ノーマル・オーバーウォッチ」モードでボールが一時無効</title>
-            <link>https://d3watch.gg/?p=32892</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、「超ノーマル・オーバーウォッチ」モードでレッキング・ボールの不具合が確認されたため、一時的に同モードで無効になっています。 Overwatch 2 Known Issu […] ]]></description>
-            <guid>https://d3watch.gg/?p=32892</guid>
-            <pubDate>2025-04-02T06:32:13</pubDate>
         </item>
         <item>
             <title>追記 [OWCS] 日本語配信も決定！メイやウィドウメイカーの大会スキンなど 『OWCS CHAMPIONS CLASH』の豪華視聴報酬が判明</title>
@@ -67,13 +74,6 @@
             <description><![CDATA[ ———— 本日行われるOWCS CHINAのグループステージ最終戦「ROC Esports 対 BLADE」戦がにわかにファンの間で注目を集めています。 DISASTER  […] ]]></description>
             <guid>https://d3watch.gg/?p=32864</guid>
             <pubDate>2025-03-30T10:26:46</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] EMEAのGen. GがEUトップヒットスキャン加入を発表</title>
-            <link>https://d3watch.gg/?p=32861</link>
-            <description><![CDATA[ OWCS EMEAにパートナーチームとして参加している韓国拠点のGen. Gが、新たに前Team PepsのXzodyalが加入したことを正式に発表しました。 We’ve got our sights set […] ]]></description>
-            <guid>https://d3watch.gg/?p=32861</guid>
-            <pubDate>2025-03-30T08:42:17</pubDate>
         </item>
     </channel>
 </rss>
