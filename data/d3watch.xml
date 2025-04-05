@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ランクモードに重大なエクスプロイトが発覚</title>
+            <link>https://d3watch.gg/?p=32904</link>
+            <description><![CDATA[ 海外メディアDexertoのリポートによると、6v6のランクモードで重大なエクスプロイトが発見され、修正が遅れた場合、今後大きな問題に繋がる可能性もあるとのこと。 Game-breaking Overwatch 2 ex […] ]]></description>
+            <guid>https://d3watch.gg/?p=32904</guid>
+            <pubDate>2025-04-05T06:46:45</pubDate>
+        </item>
+        <item>
+            <title>[OW2] オーバーウォッチの世界観構築に大きく寄与した元アートディレクターのBill Petras氏が逝去</title>
+            <link>https://d3watch.gg/?p=32900</link>
+            <description><![CDATA[ 長年Bllizzard Entertainmentでアートディレクターを務めていた、Bill Petras氏が逝去されていたことが明らかとなりました。 Bill Petras, Overwatch Art Directo […] ]]></description>
+            <guid>https://d3watch.gg/?p=32900</guid>
+            <pubDate>2025-04-05T05:41:24</pubDate>
+        </item>
+        <item>
             <title>[OWCS] ロスターの動き（4/4）PNHBに前LazuliのNeivis選手が加入</title>
             <link>https://d3watch.gg/?p=32899</link>
             <description><![CDATA[ 国内を拠点にするオーバーウォッチチームのPlease Not Hero Banが、新たに前LazuliのNevis選手が加入したことを発表しました PNHBに新しい選手が加入！！ 新しいフレックスサポート、@neivis […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにて最新のアップデートが「アーケードモード」にのみ適用され、2025年4月2日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート最新のオーバーウォッチのパッチや […] ]]></description>
             <guid>https://d3watch.gg/?p=32872</guid>
             <pubDate>2025-04-02T03:03:16</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] 韓国のVECにScarlettやSengAnほかOWCS JP経験者が多数参加</title>
-            <link>https://d3watch.gg/?p=32875</link>
-            <description><![CDATA[ 韓国を拠点にするEsportsチームのVECが、5日開幕の「SOOP OVERWATCH 2 CUP」に出場するロスターメンバーを発表しました。 [ ] ⚔️@Zesin36 (99D Loa […] ]]></description>
-            <guid>https://d3watch.gg/?p=32875</guid>
-            <pubDate>2025-04-01T15:10:27</pubDate>
-        </item>
-        <item>
-            <title>[OWCS]「GalaaのジュノはChiyoと同等かそれ以上」―EMEA1位のVirtus. Proヘッドコーチが今季の選手獲得プロセスを明かす</title>
-            <link>https://d3watch.gg/?p=32873</link>
-            <description><![CDATA[ OWCS EMEA1位として今月開催の「SOOP OW2　CUP」招待出場が決まっているVirus. proですが、同チームの韓国人ヘッドコーチSMASH氏が、今季選手をリクルートした際のプロセスを明らかにし、ファンの関 […] ]]></description>
-            <guid>https://d3watch.gg/?p=32873</guid>
-            <pubDate>2025-04-01T08:05:16</pubDate>
         </item>
     </channel>
 </rss>
