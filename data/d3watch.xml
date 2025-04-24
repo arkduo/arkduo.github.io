@@ -6,18 +6,32 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 2025年4月24日配信パッチ内容のおしらせ―DVA、ゲンジ、ホッグ、シグマ、ゼニヤッタに不具合の修正</title>
+            <link>https://d3watch.gg/?p=33091</link>
+            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年4月24日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch  […] ]]></description>
+            <guid>https://d3watch.gg/?p=33091</guid>
+            <pubDate>2025-04-24T08:26:48</pubDate>
+        </item>
+        <item>
+            <title>[OW2] スタジアムモードの改善と今後のアップデート方針について</title>
+            <link>https://d3watch.gg/?p=33090</link>
+            <description><![CDATA[ 本日、公式からスタジアムで発生している問題の改善とアップデートに関する報告があったので、以下、そのまとめになります。 We want Stadium to be the best game mode it can be, […] ]]></description>
+            <guid>https://d3watch.gg/?p=33090</guid>
+            <pubDate>2025-04-24T07:54:50</pubDate>
+        </item>
+        <item>
+            <title>追記 [OW2] 既知の不具合―不具合によりゲンジの「ハジキロボ」が無効に</title>
+            <link>https://d3watch.gg/?p=33085</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、スタジアムのゲンジのパワー「ハジキロボ」に不具合が確認されたため、利用停止になっています。 Overwatch 2 Known Issues – April 22, 2 […] ]]></description>
+            <guid>https://d3watch.gg/?p=33085</guid>
+            <pubDate>2025-04-24T06:53:17</pubDate>
+        </item>
+        <item>
             <title>[OW2] シーズン16雑記―「フレイヤ」日本語声優は島田愛野さんが担当｜コラボスキン4体のアートが判明｜シグマ、ゼニ、キャスのパークにサイレントバフ｜メイのパークに失望する元OWLコーチ ほか</title>
             <link>https://d3watch.gg/?p=33046</link>
             <description><![CDATA[ 他の記事でまとめきれなかったシーズン16初日の模様や小ネタなどはこちらの雑記で扱っています。 ポストの埋め込み数が多くなってくると表示まで少し時間がかかる場合があります。うまく表示されない場合はリロードしてみてください（ […] ]]></description>
             <guid>https://d3watch.gg/?p=33046</guid>
             <pubDate>2025-04-23T13:31:39</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 既知の不具合―通報機能の問題とリプレイが停止しない不具合 他</title>
-            <link>https://d3watch.gg/?p=33085</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、いくつかの不具合が確認されています。いずれもゲームプレイへの直接的な影響のない不具合です。 Overwatch 2 Known Issues – April 22, 2 […] ]]></description>
-            <guid>https://d3watch.gg/?p=33085</guid>
-            <pubDate>2025-04-23T11:03:17</pubDate>
         </item>
         <item>
             <title>[OW2] 本日よりシンメトラの新スキン「アイス・プリンセス」が貰えるTwitch Dropsがスタート</title>
@@ -60,20 +74,6 @@
             <description><![CDATA[ Hanbinから事実認識について誤りがあったとして、声明文について訂正および事実誤認に対する謝罪がありました。詳細についてはページ最下部を参照してください。 Team FalconsのHanbinが昨日のOWCS CHA […] ]]></description>
             <guid>https://d3watch.gg/?p=33034</guid>
             <pubDate>2025-04-21T07:19:58</pubDate>
-        </item>
-        <item>
-            <title>[OWCS]「OWCS CHAMPIONS CLASH 2025」はCrazy Raccoonが王座奪還、2度目の世界王者に輝く</title>
-            <link>https://d3watch.gg/?p=33029</link>
-            <description><![CDATA[ 本日、中国・杭州にて開催された「OWCS CHAMPIONS CLASH 2025」グランドファイナルが行われ、Crazy Raccoonがスコア4-2でTeam Falconsを下し、昨年のOWCS MAJOR以来とな […] ]]></description>
-            <guid>https://d3watch.gg/?p=33029</guid>
-            <pubDate>2025-04-20T21:20:52</pubDate>
-        </item>
-        <item>
-            <title>[OW2]「スタジアム」開発のきっかけはディレクターの息子さん？将来的にTPS視点が通常モードに追加される可能性も―Flatsによる開発者インタビューまとめ</title>
-            <link>https://d3watch.gg/?p=33027</link>
-            <description><![CDATA[ ゲームディレクターのアーロン・ケラー氏と開発デザイナーのディラン・スナイダー氏が、OWコンテンツクリエイターのFlatsの配信に登場。正式リリース目前となった「スタジアム」モードについてのインタビューを受けていたので、以 […] ]]></description>
-            <guid>https://d3watch.gg/?p=33027</guid>
-            <pubDate>2025-04-20T10:35:53</pubDate>
         </item>
     </channel>
 </rss>
