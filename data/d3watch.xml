@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] アーマーに致命的な不具合が見つかる―ショットガンのダメージが想定以上に入るバグ</title>
+            <link>https://d3watch.gg/?p=33151</link>
+            <description><![CDATA[ 先日のアップデート以降、アーマーの仕様に致命的なバグがあるのではないかとの報告が相次いでいます。 blizzard, pls fix armor. I am losing elo to the reaper guy by […] ]]></description>
+            <guid>https://d3watch.gg/?p=33151</guid>
+            <pubDate>2025-04-27T16:02:24</pubDate>
+        </item>
+        <item>
             <title>追記 [OW2] 既知の不具合―フレイヤのバランス調整が反映されていない問題について</title>
             <link>https://d3watch.gg/?p=33085</link>
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、先日のホットフィックスで発表されたフレイヤの調整が反映されていない問題について。 Overwatch 2 Known Issues – April 26, 2025To th […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年4月24日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch  […] ]]></description>
             <guid>https://d3watch.gg/?p=33091</guid>
             <pubDate>2025-04-24T08:26:48</pubDate>
-        </item>
-        <item>
-            <title>[OW2] スタジアムモードの改善と今後のアップデート方針について</title>
-            <link>https://d3watch.gg/?p=33090</link>
-            <description><![CDATA[ 本日、公式からスタジアムで発生している問題の改善とアップデートに関する報告があったので、以下、そのまとめになります。 We want Stadium to be the best game mode it can be, […] ]]></description>
-            <guid>https://d3watch.gg/?p=33090</guid>
-            <pubDate>2025-04-24T07:54:50</pubDate>
         </item>
     </channel>
 </rss>
