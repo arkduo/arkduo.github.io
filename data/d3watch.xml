@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] スタジアムでラウンド開始前からULTがチャージ可能なバグが見つかる</title>
+            <link>https://d3watch.gg/?p=33228</link>
+            <description><![CDATA[ スタジアムモードでラウンド開始前からULTチャージを溜められるというバグが報告されています。 There’s an exploit you can do in Stadium that allows you  […] ]]></description>
+            <guid>https://d3watch.gg/?p=33228</guid>
+            <pubDate>2025-05-05T06:29:52</pubDate>
+        </item>
+        <item>
+            <title>[OW2] LE SSERAFIMに続くKPOPコラボの可能性が浮上？</title>
+            <link>https://d3watch.gg/?p=33225</link>
+            <description><![CDATA[ LE SSERAFIMに続くKPOPコラボとして、人気KPOPグループのTOMORROW X TOGETHER（TXT）が登場する説を唱えるOW情報発信アカウントのNaeriさんのポストが注目を集めています。 Overw […] ]]></description>
+            <guid>https://d3watch.gg/?p=33225</guid>
+            <pubDate>2025-05-05T05:19:36</pubDate>
+        </item>
+        <item>
             <title>[OWCS] ロスターの動き（5/4）NA王者NTMRが新ロスターを発表｜Twisted MindsがSimpleを獲得｜ベテランKellexがAl Qadsiahに加入</title>
             <link>https://d3watch.gg/?p=33223</link>
             <description><![CDATA[ 北米を拠点にするNTMRが、OWCS NAステージ2に向けて新たなロスターを発表しました。 In the stillness of time, Nightmares take shape. The fog has cle […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 本日、公式ブログが更新され、スタジアムモードの今後の展望を明らかにするロードマップが公開されました。 ディレクターの視点 – 「スタジアム」の過去、現在、そして未来ゲーム・ディレクターのアーロン・ケラーが、スタジアムの開 […] ]]></description>
             <guid>https://d3watch.gg/?p=33207</guid>
             <pubDate>2025-05-02T07:36:37</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2025年5月1日配信パッチ内容のおしらせ―スタジアムのジュノ、ソルジャー、リーパー、ザリアほか10名に調整</title>
-            <link>https://d3watch.gg/?p=33169</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年5月1日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch p […] ]]></description>
-            <guid>https://d3watch.gg/?p=33169</guid>
-            <pubDate>2025-05-02T06:11:16</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] ROCがJinmuとSpectra加入を発表｜北米王者のNTMRがロスター全員の退団を正式に発表</title>
-            <link>https://d3watch.gg/?p=33203</link>
-            <description><![CDATA[ サウジアラビアを拠点とするROC Esportsが新たなメンバーとしてJinmuとSpectraの2名が加入したことを発表しました。 Oh you thought we were done..?🤭 Not […] ]]></description>
-            <guid>https://d3watch.gg/?p=33203</guid>
-            <pubDate>2025-05-02T05:33:58</pubDate>
         </item>
     </channel>
 </rss>
