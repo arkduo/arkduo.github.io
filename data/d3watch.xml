@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 既知の不具合―オープンキューのランクが戦績に反映されない問題とマーシーの蘇生バグについて</title>
+            <link>https://d3watch.gg/?p=33277</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、オープンキューのランクが戦績に反映されない問題とマーシーの蘇生に不具合が確認されています。 Overwatch 2 Known Issues – May 1, 2025To  […] ]]></description>
+            <guid>https://d3watch.gg/?p=33277</guid>
+            <pubDate>2025-05-08T04:40:20</pubDate>
+        </item>
+        <item>
             <title>[OWCS] ロスターの動き（5/7）名門Team LiquidがZeruhh獲得を発表｜Heesungのサウジ行きが決定｜ONSIDE GAMINGがAlt Tabロスターを獲得 ほか</title>
             <link>https://d3watch.gg/?p=33274</link>
             <description><![CDATA[ 北米を拠点にするTeam Liquidが、OWCS NAステージ2に向けて前NTMRのZeruhh加入を発表しました。 When you see the killfeed light up… it’s already t […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ OWCS KOREA 2025は、5月9日に開幕するステージ2本戦出場9チームが決定しました。 📢 ROSTER ANNOUNCEMENT｜OWCS KOREA 2025 Stage 2 OWCS KOR […] ]]></description>
             <guid>https://d3watch.gg/?p=33231</guid>
             <pubDate>2025-05-05T17:49:35</pubDate>
-        </item>
-        <item>
-            <title>[OW2] スタジアムでラウンド開始前からULTがチャージ可能なバグが見つかる</title>
-            <link>https://d3watch.gg/?p=33228</link>
-            <description><![CDATA[ スタジアムモードでラウンド開始前からULTチャージを溜められるというバグが報告されています。 There’s an exploit you can do in Stadium that allows you  […] ]]></description>
-            <guid>https://d3watch.gg/?p=33228</guid>
-            <pubDate>2025-05-05T06:29:52</pubDate>
         </item>
     </channel>
 </rss>
