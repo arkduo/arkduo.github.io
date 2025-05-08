@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] コンソール版スタジアムのパフォーマンスを改善するパッチが適用</title>
+            <link>https://d3watch.gg/?p=33279</link>
+            <description><![CDATA[ 昨日配信されたアップデートでは、パッチノートには記載されていませんでしたが、スタジアムでコンソール版のパフォーマンスを改善する変更が適用されていたとのこと。 Hey console players🎮- w […] ]]></description>
+            <guid>https://d3watch.gg/?p=33279</guid>
+            <pubDate>2025-05-08T07:00:18</pubDate>
+        </item>
+        <item>
+            <title>[OWCS] 韓国チームNew Eraの2選手に日本チーム行きが浮上</title>
+            <link>https://d3watch.gg/?p=33278</link>
+            <description><![CDATA[ OWCS KOREAステージ1出場を果たしたものの、ロスター大幅変更により本戦シードを失い、先日のオープン予選で惜しくも敗退したNew Eraの2選手に日本チーム行きの噂が浮上しています。 Two DPS players […] ]]></description>
+            <guid>https://d3watch.gg/?p=33278</guid>
+            <pubDate>2025-05-08T06:37:04</pubDate>
+        </item>
+        <item>
             <title>[OW2] 既知の不具合―オープンキューのランクが戦績に反映されない問題とマーシーの蘇生バグについて</title>
             <link>https://d3watch.gg/?p=33277</link>
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、オープンキューのランクが戦績に反映されない問題とマーシーの蘇生に不具合が確認されています。 Overwatch 2 Known Issues – May 1, 2025To  […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 本日、ディレクターのアーロン・ケラー氏からいくつかX上でコメントがあったのでその簡単なまとめになります。 🚨 Quick update on the Stadium Roadmap: The two ne […] ]]></description>
             <guid>https://d3watch.gg/?p=33239</guid>
             <pubDate>2025-05-06T09:22:10</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] ZETA DIVISIONがAlphaYiのサポートロールへのコンバートを発表</title>
-            <link>https://d3watch.gg/?p=33237</link>
-            <description><![CDATA[ 国内を拠点にするプロゲーミングオーガニゼーションのZETA DIVISONが、OWCS KOREAステージ2に向けて所属するAlphaYiがダメージロールからサポートロールへとコンバートすることを明らかにしました。 この […] ]]></description>
-            <guid>https://d3watch.gg/?p=33237</guid>
-            <pubDate>2025-05-05T21:52:11</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] OWCS KOREA 2025ステージ2本戦出場9チームが決定</title>
-            <link>https://d3watch.gg/?p=33231</link>
-            <description><![CDATA[ OWCS KOREA 2025は、5月9日に開幕するステージ2本戦出場9チームが決定しました。 📢 ROSTER ANNOUNCEMENT｜OWCS KOREA 2025 Stage 2 OWCS KOR […] ]]></description>
-            <guid>https://d3watch.gg/?p=33231</guid>
-            <pubDate>2025-05-05T17:49:35</pubDate>
         </item>
     </channel>
 </rss>
