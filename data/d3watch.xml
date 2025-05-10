@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] 既知の不具合―ドライブシグネチャーが表示されない問題</title>
+            <link>https://d3watch.gg/?p=33277</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、一部プレイヤーにドライブシグネチャーが表示されない問題が確認されています。 Overwatch 2 Known Issues – May 7, 2025To the hero […] ]]></description>
+            <guid>https://d3watch.gg/?p=33277</guid>
+            <pubDate>2025-05-10T08:40:20</pubDate>
+        </item>
+        <item>
+            <title>[OW2] オーバーウォッチ開発チームが労働組合を結成、開発スタッフ約200人が加入</title>
+            <link>https://d3watch.gg/?p=33318</link>
+            <description><![CDATA[ オーバーウォッチ開発スタッフ約200名が労働組合を結成したことが、海外メディア「Kotaku」が共有したプレスリリースにより明らかになりました。 Blizzard’s Overwatch Team Just Unioni […] ]]></description>
+            <guid>https://d3watch.gg/?p=33318</guid>
+            <pubDate>2025-05-10T05:21:18</pubDate>
+        </item>
+        <item>
             <title>[OW2] スタジアムモードの各ヒーローの使用率と勝率が判明</title>
             <link>https://d3watch.gg/?p=33314</link>
             <description><![CDATA[ 本日、公式ブログ「ディレクターの視点」が更新され、プレイヤーデータがバランス調整にどのような影響を与えているかについて説明がありました。記事中ではバランス調整後の各ヒーローの使用率と勝率も明らかにされています。 Dire […] ]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 国内を拠点にするOverwatchチームのNyam Gamingが、OWCS JAPANステージ2に参加する最終ロスターを発表しました。 🆖NG's Roster for OWCS JP Stag […] ]]></description>
             <guid>https://d3watch.gg/?p=33283</guid>
             <pubDate>2025-05-08T18:29:30</pubDate>
-        </item>
-        <item>
-            <title>[OW2] OWCS大会スプレー、アイコン、ネームカードなどが入手可能な新たなTwitch Dropsがスタート</title>
-            <link>https://d3watch.gg/?p=33248</link>
-            <description><![CDATA[ 明日5月9日からスプレー、アイコン、ネームカードなどが入手できる新たなTwitch Dropsキャンペーンがスタートします。 OWCS ASIA｜視聴報酬のご案内 📅5月9日~6月15日 ✦視聴報酬対象配 […] ]]></description>
-            <guid>https://d3watch.gg/?p=33248</guid>
-            <pubDate>2025-05-08T15:06:52</pubDate>
-        </item>
-        <item>
-            <title>[OW2] コンソール版スタジアムのパフォーマンスを改善するパッチが適用</title>
-            <link>https://d3watch.gg/?p=33279</link>
-            <description><![CDATA[ 昨日配信されたアップデートでは、パッチノートには記載されていませんでしたが、スタジアムでコンソール版のパフォーマンスを改善する変更が適用されていたとのこと。 Hey console players🎮- w […] ]]></description>
-            <guid>https://d3watch.gg/?p=33279</guid>
-            <pubDate>2025-05-08T07:00:18</pubDate>
         </item>
     </channel>
 </rss>
