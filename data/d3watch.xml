@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>数日間のブログ休止のお知らせ</title>
+            <link>https://d3watch.gg/?p=33661</link>
+            <description><![CDATA[ 諸事情によりブログの更新とXポストを数日間休止します。 元々予定していないかった緊急の用件が管理人と副管理人に別件で入ってしまったので、一応の目処として数日間ということになりますが、早ければミッドシーズンパッチには間に合 […] ]]></description>
+            <guid>https://d3watch.gg/?p=33661</guid>
+            <pubDate>2025-05-19T20:47:58</pubDate>
+        </item>
+        <item>
             <title>[OW2] メタを席巻するフレイヤ、火力以外の問題点を議論するRedditの反応まとめ</title>
             <link>https://d3watch.gg/?p=33652</link>
             <description><![CDATA[ ランクだけでなく最近の競技シーンでもメタを圧倒しているフレイヤの問題点は、単なる高い火力だけではないとするRedditの議論とその反応まとめになります。 Freja’s movment abilities are abs […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ OWCS EMEAに参戦している韓国拠点のGen.Gは、前VARRELのYaHOコーチが新たなアシスタントコーチに就任したことを発表しました。 No slowing down for Gen.G Overwatch &# […] ]]></description>
             <guid>https://d3watch.gg/?p=33322</guid>
             <pubDate>2025-05-10T10:54:45</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 既知の不具合―ドライブシグネチャーが表示されない問題</title>
-            <link>https://d3watch.gg/?p=33277</link>
-            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、一部プレイヤーにドライブシグネチャーが表示されない問題が確認されています。 Overwatch 2 Known Issues – May 9, 2025To the hero […] ]]></description>
-            <guid>https://d3watch.gg/?p=33277</guid>
-            <pubDate>2025-05-10T08:40:20</pubDate>
         </item>
     </channel>
 </rss>
