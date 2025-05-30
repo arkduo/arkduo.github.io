@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>訂正 [OW2] 2025年5月30日配信パッチ内容のおしらせ―通常フレイヤとスタジアムの複数ヒーローに変更調整</title>
+            <link>https://d3watch.gg/?p=33732</link>
+            <description><![CDATA[ メイの項目に誤って過去のパッチノートの記述を引用していたので修正しました（その他パワー名の誤記も修正）。 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年5月30日付けのパッチノートが公開され […] ]]></description>
+            <guid>https://d3watch.gg/?p=33732</guid>
+            <pubDate>2025-05-30T07:03:48</pubDate>
+        </item>
+        <item>
             <title>[OW2] 5月31日よりソルジャーの新スキンが入手可能なプライドイベントがスタート、公式小説にはソルジャーの元恋人「ヴィンセント」も登場</title>
             <link>https://d3watch.gg/?p=33755</link>
             <description><![CDATA[ 5月31日より、LGBTの祭典「プライド月間」を祝したイベントがオーバーウォッチ2でも開催されます。 プライド月間をみんなでお祝いしよう！あのLGBTQ+コミュニティの応援月間が今年も「オーバーウォッチ 2」に到来！新た […] ]]></description>
@@ -43,7 +50,7 @@
         <item>
             <title>[OW2] 公式によるBANデータが公開―BAN率トップは圧倒的にソンブラ 他</title>
             <link>https://d3watch.gg/?p=33726</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、新たなブログシリース「1週間を振り返る」がスタートしています。 1週間を振り返る：ヒーローBAN新シリーズ「1週間を振り返る」第1弾では、ヒーローBANの動向を特集。定番のよう […] ]]></description>
+            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、新たなブログシリース「1週間を振り返る」がスタートしています。 403 Forbiddenoverwatch.blizzard.com このシリーズでは、今後ゲームに関する様々 […] ]]></description>
             <guid>https://d3watch.gg/?p=33726</guid>
             <pubDate>2025-05-24T05:39:38</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、地形によって敵へのピンが失敗することがある問題などが確認されています（太字は最新の不具合）。 Overwatch 2 Known Issues – May 23, 2025T […] ]]></description>
             <guid>https://d3watch.gg/?p=33710</guid>
             <pubDate>2025-05-23T07:57:30</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2025年5月23日配信パッチ内容のおしらせ―スタジアムのランク進捗度変更とジュノ「オールスター」スキンがシーズン17終了まで入手可能に</title>
-            <link>https://d3watch.gg/?p=33720</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年5月23日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch  […] ]]></description>
-            <guid>https://d3watch.gg/?p=33720</guid>
-            <pubDate>2025-05-23T07:20:56</pubDate>
         </item>
     </channel>
 </rss>
