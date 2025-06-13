@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 現在ランクマッチでドゥームフィストが一時使用停止中</title>
+            <title>[OW2] 元OWLコーチによるサポートの定義と「メイン/フレックス」がメタの定石になる理由</title>
+            <link>https://d3watch.gg/?p=33837</link>
+            <description><![CDATA[ 元OWLコーチのSpilo氏による、メインサポートとフレックスサポートの定義と、数多くのメタにおいて、メイン/フレックス構成が定石とされる理由についてのポストを紹介します。 the definition of main  […] ]]></description>
+            <guid>https://d3watch.gg/?p=33837</guid>
+            <pubDate>2025-06-13T09:14:18</pubDate>
+        </item>
+        <item>
+            <title>[OW2]【修正完了】現在ランクマッチでドゥームフィストが一時使用停止中</title>
             <link>https://d3watch.gg/?p=33835</link>
-            <description><![CDATA[ 現在ランクマッチにおいて、ドゥームフィストが一時的に使用停止になっていることが明らかになりました。 Why is doomfist disabled in comp? byu/squid_head_ inOverwatc […] ]]></description>
+            <description><![CDATA[ 現在は不具合が修正されランクで再び利用可能になりました。既知の不具合リストからも消えています。 Doomfist is no longer locked in Competitive Play byu/sl0fs ind […] ]]></description>
             <guid>https://d3watch.gg/?p=33835</guid>
             <pubDate>2025-06-12T10:05:01</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 6月7日から3日間で最大9個のトレジャーボックスが入手可能な週末限定イベント「JUNKRAT’S HUNT」が開催されます。 Junkrat’s on the hunt for more Loot and h […] ]]></description>
             <guid>https://d3watch.gg/?p=33786</guid>
             <pubDate>2025-06-06T07:35:36</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2025年6月4日配信パッチ内容のおしらせ―スタジアムのマッチメイキングの不具合などが修正</title>
-            <link>https://d3watch.gg/?p=33770</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年6月4日付けのパッチノートが公開されています。 オーバーウォッチ パッチノート最新のオーバーウォッチのパッチや、今までの更新履歴を見るoverw […] ]]></description>
-            <guid>https://d3watch.gg/?p=33770</guid>
-            <pubDate>2025-06-04T03:30:08</pubDate>
         </item>
     </channel>
 </rss>
