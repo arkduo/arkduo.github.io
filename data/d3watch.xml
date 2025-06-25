@@ -6,9 +6,23 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] 2025年6月25日配信パッチ内容のおしらせ―JQ、ザリア、バスティオン、トレーサー、ベンチャー、LW、ルシオ、モイラら総勢15名に変更</title>
+            <title>[OW2] ショップ更新（6/25）「オーバーウォッチ・アカデミー」シリーズが登場</title>
+            <link>https://d3watch.gg/?p=33975</link>
+            <description><![CDATA[ 本日、ゲーム内ショップが更新され、「オーバーウォッチ・アカデミー」やアルティメット・バトルパスなど、新たなアイテムがラインナップに追加されています。 オーバーウォッチ・アカデミー・メガバンドル – 5,900コイン ジュ […] ]]></description>
+            <guid>https://d3watch.gg/?p=33975</guid>
+            <pubDate>2025-06-25T07:40:28</pubDate>
+        </item>
+        <item>
+            <title>[OW2]【修正完了】4つのパークが同時取得可能なバグが見つかる</title>
+            <link>https://d3watch.gg/?p=33979</link>
+            <description><![CDATA[ 現在こちらで確認した限りでは不具合は修正されているようです。 現在、シーズン17アップデート以降、4つのパークが同時に取得できてしまう不具合が報告されています。 現在4つのパークをすべて同時に装備できてしまうバグがあると […] ]]></description>
+            <guid>https://d3watch.gg/?p=33979</guid>
+            <pubDate>2025-06-25T07:20:09</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 2025年6月25日配信パッチ内容のおしらせ―JQ、ザリア、バスティオン、トレーサー、ベンチャー、LW、ルシオ、モイラら総勢15名に変更 ほか</title>
             <link>https://d3watch.gg/?p=33810</link>
-            <description><![CDATA[ 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年6月25日付けのパッチノートが公開されています。 Overwatch Patch NotesRead the latest Overwatch  […] ]]></description>
+            <description><![CDATA[ 今日は英語版パッチノートの分量が多く日本語公式のパッチノートも公開されてないので誤字脱字や誤訳が多いかもしれませんがご了承ねがいます。 本日、オーバーウォッチ2はライブサーバーにアップデートが適用され、2025年6月25 […] ]]></description>
             <guid>https://d3watch.gg/?p=33810</guid>
             <pubDate>2025-06-25T03:35:07</pubDate>
         </item>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 来週6月25日の開幕が迫る「シーズン17：Powered Up!」で追加される新マップ「AATLIS」、新機能「マップ投票」、DVAのミシックスキンなど、新シーズンの多彩なコンテンツを紹介する公式ブログが更新されました。 […] ]]></description>
             <guid>https://d3watch.gg/?p=33858</guid>
             <pubDate>2025-06-18T02:21:30</pubDate>
-        </item>
-        <item>
-            <title>追記 [OW2] シーズン17公式トレーラーが公開―DVaの新ミシック「ホンライ」｜新たなコラボが判明｜新ヒーロ「WUYANG」先行プレイ ほか</title>
-            <link>https://d3watch.gg/?p=33857</link>
-            <description><![CDATA[ 来週6月25日に開幕する「シーズン17：Powered Up!」のローンチトレーラーが公開され、同シーズンで追加される新たなコンテンツが明らかとなりました。 以下、DVAの新ミシック「ホンライ」、リーパーの新ミシック武器 […] ]]></description>
-            <guid>https://d3watch.gg/?p=33857</guid>
-            <pubDate>2025-06-18T02:00:34</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 2025年5月分のチーター処分件数が発表</title>
-            <link>https://d3watch.gg/?p=33855</link>
-            <description><![CDATA[ 本日、Blizzard Koreaから、オーバーウォッチ2における不正ツール使用者の処分件数が発表され、2025年5月分は1万4,195件の不正アカウントが処分されたことが明らかになりました。 今年1月分以来久々の発表と […] ]]></description>
-            <guid>https://d3watch.gg/?p=33855</guid>
-            <pubDate>2025-06-17T12:39:53</pubDate>
         </item>
     </channel>
 </rss>
