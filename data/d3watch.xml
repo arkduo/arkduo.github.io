@@ -6,7 +6,14 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] チャット欄の文字色変更とヒーローや絵文字をチャットに表示する方法まとめ</title>
+            <title>[OW2] 開発がドライブ・シグネチャーを永久保存できない理由を説明</title>
+            <link>https://d3watch.gg/?p=34369</link>
+            <description><![CDATA[ ドライブイベントで入手可能なシグネチャーが、なぜ永久に所有できないのか？について、開発チームのギャビン・ウィンター氏がその理由を説明しています。 Season 17 Competitive Drive byu/Botro […] ]]></description>
+            <guid>https://d3watch.gg/?p=34369</guid>
+            <pubDate>2025-07-24T17:38:19</pubDate>
+        </item>
+        <item>
+            <title>追記2 [OW2] チャット欄の文字色変更とヒーローや絵文字をチャットに表示する方法まとめ</title>
             <link>https://d3watch.gg/?p=34357</link>
             <description><![CDATA[ 先日のアップデート以降、チャット欄のテキストカラーの変更や、ヒーロー、絵文字、シンボルをチャットに表示する方法が見つかったのでそのまとめになります。 この裏技は開発が意図した仕様ではないと思われるので、今後早い時期に修正 […] ]]></description>
             <guid>https://d3watch.gg/?p=34357</guid>
@@ -22,7 +29,7 @@
         <item>
             <title>[OW2] チャット欄のテキストカラー変更と絵文字を使用する裏技が見つかる</title>
             <link>https://d3watch.gg/?p=34353</link>
-            <description><![CDATA[ チャット欄の文字色、絵文字、アイコンなどの表示方法については、↓の記事でまとめてるのでそちらを参照してください。 [OW2] チャット欄の文字色変更とヒーローや絵文字をチャットに表示する方法まとめ先日のアップデート以降、 […] ]]></description>
+            <description><![CDATA[ チャット欄の文字色、絵文字、アイコンなどの表示方法については、↓の記事でまとめてるのでそちらを参照してください。 追記2 [OW2] チャット欄の文字色変更とヒーローや絵文字をチャットに表示する方法まとめ先日のアップデー […] ]]></description>
             <guid>https://d3watch.gg/?p=34353</guid>
             <pubDate>2025-07-23T10:45:08</pubDate>
         </item>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 本日行われた「Midseason Championship｜Esports World Cup – Last Chance Qualifier」は、グランドファイナルでTeam Falconsが3-0でZET […] ]]></description>
             <guid>https://d3watch.gg/?p=34290</guid>
             <pubDate>2025-07-20T04:28:03</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 最新のランク分布図が公開―マッチメイキングの仕組みやMMRの仕様についても詳しく解説</title>
-            <link>https://d3watch.gg/?p=34288</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、とかく複雑で誤解されがちなOW2におけるマッチメイキングの仕組みとMMRの仕様について、詳しく書かれています。また、最新のランク分布図も公開されています。 1週間を振り返る：マ […] ]]></description>
-            <guid>https://d3watch.gg/?p=34288</guid>
-            <pubDate>2025-07-19T04:22:04</pubDate>
         </item>
     </channel>
 </rss>
