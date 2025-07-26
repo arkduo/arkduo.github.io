@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ダメージ軽減の仕様にバグ？ブロック以外でもダメージ軽減50％の上限を突破していた模様</title>
+            <link>https://d3watch.gg/?p=34386</link>
+            <description><![CDATA[ 現在ダメージ軽減の仕様にバグがあるのではないかとの検証報告がRedditにポストされています。 Blocking isn’t broken, armour is… It recently stop […] ]]></description>
+            <guid>https://d3watch.gg/?p=34386</guid>
+            <pubDate>2025-07-26T08:23:38</pubDate>
+        </item>
+        <item>
             <title>[OW2] 近日中に「開発者アップデート」が公開へ、多忙を極める開発チームの近況報告</title>
             <link>https://d3watch.gg/?p=34384</link>
             <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、ソーシャル、PR、コミュニティ部門で構成される「オーバーウォッチ・コミュニケーション・チーム」による挨拶が掲載されています。 1週間を振り返る：「OW」コミュニケーション・チー […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ T1に所属するD0nghakが削除したツィートから、RedditではMagの次の移籍先が噂として浮上しているようです。 Donghak’s deleted tweet byu/HeadNo4379 inCom […] ]]></description>
             <guid>https://d3watch.gg/?p=34345</guid>
             <pubDate>2025-07-23T07:56:50</pubDate>
-        </item>
-        <item>
-            <title>[OW2] シーズン17 ミッドシーズンの見どころまとめ―「ウーヤン」の先行プレイは8月15日からスタート ほか</title>
-            <link>https://d3watch.gg/?p=34323</link>
-            <description><![CDATA[ 本日、スタートしたシーズン17 ミッドシーズンで追加されるコンテンツの見どころを紹介する公式ブログが更新されました。 Season 17 Hits with a Midseason SurgeFight in the f […] ]]></description>
-            <guid>https://d3watch.gg/?p=34323</guid>
-            <pubDate>2025-07-23T04:37:33</pubDate>
         </item>
     </channel>
 </rss>
