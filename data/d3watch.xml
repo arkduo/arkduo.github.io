@@ -6,7 +6,7 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] ダメージ軽減の仕様にバグ？ブロック以外でもダメージ軽減50％の上限を突破していた模様</title>
+            <title>[OW2] ダメージ軽減にバグ発生？軽減率の上限を突破する不具合が見つかる</title>
             <link>https://d3watch.gg/?p=34386</link>
             <description><![CDATA[ 現在、ダメージ軽減の仕様にバグがあるのではないかとの検証報告がRedditにポストされ、注目を集めています。 Blocking isn’t broken, armour is… It recent […] ]]></description>
             <guid>https://d3watch.gg/?p=34386</guid>
