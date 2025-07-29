@@ -6,6 +6,27 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>追記 [おしらせ] 当ブログのXアカウント凍結について</title>
+            <link>https://d3watch.gg/?p=34410</link>
+            <description><![CDATA[ 現在当ブログのXアカウントの年齢認証にエラーが出てしまったためにアカウントが凍結されてしまいました。 単純にこちら側の操作ミスで、外部からのハッキングや不正アクセスなどがあったわけではないです。 凍結後すぐに年齢確認用フ […] ]]></description>
+            <guid>https://d3watch.gg/?p=34410</guid>
+            <pubDate>2025-07-29T08:29:48</pubDate>
+        </item>
+        <item>
+            <title>[OW2] エスコートにおける「先攻有利」を示すデータが注目を集める</title>
+            <link>https://d3watch.gg/?p=34427</link>
+            <description><![CDATA[ オーバーウォッチにおける「攻撃側（先攻め）有利」との仮説を検証すべく、過去のOWL試合データをもとにした分析結果がRedditで注目を集めています。 Statistical analysis of attackers&# […] ]]></description>
+            <guid>https://d3watch.gg/?p=34427</guid>
+            <pubDate>2025-07-29T07:05:18</pubDate>
+        </item>
+        <item>
+            <title>本日の雑記（7/29）スタジアムのオリーサにCD増加バグが発生中 ほか</title>
+            <link>https://d3watch.gg/?p=34423</link>
+            <description><![CDATA[ 随時更新中 スタジアムのオリーサには、ジャベリンのクールダウン短縮アイテムを装備すると、何故かCDが真逆に増えてしまうバグがある模様 Orisa has a glitch in stadium where cool do […] ]]></description>
+            <guid>https://d3watch.gg/?p=34423</guid>
+            <pubDate>2025-07-29T05:32:15</pubDate>
+        </item>
+        <item>
             <title>[OW2] ザリアのビームがペイロードを貫通するバグが見つかる</title>
             <link>https://d3watch.gg/?p=34424</link>
             <description><![CDATA[ ミッドシーズンパッチ以降、ザリアの「エネルギー・ランス」パークに新たな不具合が報告されています。 zarya can shoot through the payload and push bot when she has […] ]]></description>
@@ -25,13 +46,6 @@
             <description><![CDATA[ 最終更新 8月20日からドイツのケルンで開催される『Gamescom 2025』にオーバーウォッチ2が出展されることが明らかになりました It’s starting to feel like that gam […] ]]></description>
             <guid>https://d3watch.gg/?p=34412</guid>
             <pubDate>2025-07-28T22:54:46</pubDate>
-        </item>
-        <item>
-            <title>追記 [おしらせ] 当ブログのXアカウント凍結について</title>
-            <link>https://d3watch.gg/?p=34410</link>
-            <description><![CDATA[ 現在当ブログのXアカウントの年齢認証にエラーが出てしまったためにアカウントが凍結されてしまいました。 単純にこちら側の操作ミスで、外部からのハッキングや不正アクセスなどがあったわけではないです。 凍結後すぐに年齢確認用フ […] ]]></description>
-            <guid>https://d3watch.gg/?p=34410</guid>
-            <pubDate>2025-07-28T18:32:48</pubDate>
         </item>
         <item>
             <title>[OWCS] EWCの予想メタやスクリムで印象に残ったチームについて―Crazy Raccoon Moonコーチの大会直前インタビュー</title>
@@ -60,20 +74,6 @@
             <description><![CDATA[ Blizzardが一部のユーザーに送付した公式アンケートの内容から、今後実現するかもしれないコラボレーション企画が浮上しています。 Possible future collabs byu/pinktimemachine  […] ]]></description>
             <guid>https://d3watch.gg/?p=34392</guid>
             <pubDate>2025-07-27T05:28:06</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ダメージ軽減にバグ発生？軽減率の上限を突破する不具合が見つかる</title>
-            <link>https://d3watch.gg/?p=34386</link>
-            <description><![CDATA[ 現在、ダメージ軽減の仕様にバグがあるのではないかとの検証報告がRedditにポストされ、注目を集めています。 Blocking isn’t broken, armour is… It recent […] ]]></description>
-            <guid>https://d3watch.gg/?p=34386</guid>
-            <pubDate>2025-07-26T08:23:38</pubDate>
-        </item>
-        <item>
-            <title>[OW2] 近日中に「開発者アップデート」が公開へ、多忙を極める開発チームの近況報告</title>
-            <link>https://d3watch.gg/?p=34384</link>
-            <description><![CDATA[ 本日、オーバーウォッチ公式ブログが更新され、ソーシャル、PR、コミュニティ部門で構成される「オーバーウォッチ・コミュニケーション・チーム」による挨拶が掲載されています。 1週間を振り返る：「OW」コミュニケーション・チー […] ]]></description>
-            <guid>https://d3watch.gg/?p=34384</guid>
-            <pubDate>2025-07-26T03:44:35</pubDate>
         </item>
     </channel>
 </rss>
