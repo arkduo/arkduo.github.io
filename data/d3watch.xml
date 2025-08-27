@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ボール、ハザード、ベンチャーの致命的なバグが修正－現時点で修正されたアップデート後の不具合まとめ</title>
+            <link>https://d3watch.gg/?p=35170</link>
+            <description><![CDATA[ シーズン18アップデート後に複数報告されていた致命的な不具合の修正が完了したので、以下そのまとめになります。 Overwatch 2 Known Issues – August 26, 2025To the heroes […] ]]></description>
+            <guid>https://d3watch.gg/?p=35170</guid>
+            <pubDate>2025-08-28T05:06:06</pubDate>
+        </item>
+        <item>
+            <title>[OW2]【修正完了】レッキング・ボールが不具合により一時削除</title>
+            <link>https://d3watch.gg/?p=35160</link>
+            <description><![CDATA[ 現在は不具合が修正され再び利用可能になっています。 本日のアップデートでレッキング・ボールに不具合が見つかったため、現在ゲームから一時的に削除されています。 It looks like Wrecking Ball has […] ]]></description>
+            <guid>https://d3watch.gg/?p=35160</guid>
+            <pubDate>2025-08-28T04:55:10</pubDate>
+        </item>
+        <item>
             <title>[OW2] シーズン18初日情報まとめ－黄金のプレイヤーカード｜トレボ大量放出｜ボールが一時削除｜Steam同接が爆増｜Twitch Drops ほか</title>
             <link>https://d3watch.gg/?p=35151</link>
             <description><![CDATA[ シーズン18初日の模様や小ネタ/小技などの最新情報は、こちらの記事で雑記形式でまとめていきます。随時更新しているので、一部内容が重複する場合があります。 パッチノート、ショップスキン情報についは以下のページを参照してくだ […] ]]></description>
@@ -15,7 +29,7 @@
         <item>
             <title>[OW2] シーズン18の致命的な不具合まとめ－ホッグ、ウィドウ、DV.A、メイ、エコー、ボール、ベンチャー、キャスディ、ハザード</title>
             <link>https://d3watch.gg/?p=35165</link>
-            <description><![CDATA[ 本日のアップデート後にいくつか致命的な不具合が報告されているので、以下、そのまとめになります。 現時点ではロードホッグ、ウィドウメイカー、DVA、メイ、エコー、レッキング・ボール、ベンチャー、キャスディ、ハザードに、新パ […] ]]></description>
+            <description><![CDATA[ 現在はここで紹介したいくつかのバグは既に修正が完了しています。 [OW2] ボール、ハザード、ベンチャーの致命的なバグが修正－現時点で修正されたアップデート後の不具合まとめシーズン18アップデート後に複数報告されていた致 […] ]]></description>
             <guid>https://d3watch.gg/?p=35165</guid>
             <pubDate>2025-08-27T18:07:45</pubDate>
         </item>
@@ -25,13 +39,6 @@
             <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、多数の不具合が確認されています。 Overwatch 2 Known Issues – August 26, 2025To the heroes of Overwatc […] ]]></description>
             <guid>https://d3watch.gg/?p=35168</guid>
             <pubDate>2025-08-27T16:59:10</pubDate>
-        </item>
-        <item>
-            <title>[OW2] レッキング・ボールが不具合により一時削除</title>
-            <link>https://d3watch.gg/?p=35160</link>
-            <description><![CDATA[ 本日のアップデートでレッキング・ボールに不具合が見つかったため、現在ゲームから一時的に削除されています。 It looks like Wrecking Ball has been disabled pic.twitter […] ]]></description>
-            <guid>https://d3watch.gg/?p=35160</guid>
-            <pubDate>2025-08-27T06:13:10</pubDate>
         </item>
         <item>
             <title>ショップ更新（8/27）「プールサイド」シリーズが登場、「カウボーイ・ビバップ」スキンも復刻</title>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 最終更新 本日より、いよいよ「OWCS JAPANステージ3」が開幕。11月の世界大会『WORLD FINALS』に向けて、今年最後のOWCS JP大会になります 【日本語配信】OWCS JAPAN 2025 Stage […] ]]></description>
             <guid>https://d3watch.gg/?p=35091</guid>
             <pubDate>2025-08-25T17:36:43</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] LIP選手の序盤休養についてMoonコーチが説明</title>
-            <link>https://d3watch.gg/?p=35036</link>
-            <description><![CDATA[ 先ほど、OWCS KOREAステージ3第2週まで休養することが明らかにされた、Crazy RaccoonのLIP選手について、Moonコーチから説明があったので、以下、その日本語訳となります。 립선수는 스테이지2를 치 […] ]]></description>
-            <guid>https://d3watch.gg/?p=35036</guid>
-            <pubDate>2025-08-24T21:43:42</pubDate>
         </item>
     </channel>
 </rss>
