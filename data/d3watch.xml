@@ -6,18 +6,25 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>[OW2] シーズン18の致命的な不具合まとめ－メイ、エコー、ボール、ベンチャー、キャスディ、ハザード</title>
+            <title>[OW2] シーズン18の致命的な不具合まとめ－ウィドウ、DV.A、メイ、エコー、ボール、ベンチャー、キャスディ、ハザード</title>
             <link>https://d3watch.gg/?p=35165</link>
-            <description><![CDATA[ 本日のアップデート後にいくつか致命的な不具合が報告されているので、判明次第で順次追加しています。 随時更新中 メイ Mei Deep Freeze perk bug S18 byu/perdyqueue inCompet […] ]]></description>
+            <description><![CDATA[ 本日のアップデート後にいくつか致命的な不具合が報告されているので、判明次第で順次追加しています。 随時更新中 ウィドウのスコーチャージバグ ウィドウメイカーの新マイナーパーク「スナイパーの本能」（フック使用後スコープチャ […] ]]></description>
             <guid>https://d3watch.gg/?p=35165</guid>
-            <pubDate>2025-08-27T09:41:45</pubDate>
+            <pubDate>2025-08-27T12:57:45</pubDate>
         </item>
         <item>
             <title>[OW2] シーズン18初日情報まとめ－トレボ大量放出｜ボールが一時削除｜Steam同接が爆増｜Twitch Drops ほか</title>
             <link>https://d3watch.gg/?p=35151</link>
             <description><![CDATA[ シーズン18初日の模様や小ネタ/小技などの最新情報は、こちらの記事で雑記形式でまとめていきます。随時更新しているので、一部内容が重複する場合があります。 パッチノート、ショップスキン情報についは以下のページを参照してくだ […] ]]></description>
             <guid>https://d3watch.gg/?p=35151</guid>
-            <pubDate>2025-08-27T09:21:08</pubDate>
+            <pubDate>2025-08-27T12:26:08</pubDate>
+        </item>
+        <item>
+            <title>[OW2] 既知の不具合－ユニバーサルエモートが装備できない問題｜プログレッションレベルが正しく表示されない問題 ほか</title>
+            <link>https://d3watch.gg/?p=35168</link>
+            <description><![CDATA[ 公式フォーラムの既知の不具合リストが更新され、現在、多数の不具合が確認されています。 Overwatch 2 Known Issues – August 26, 2025To the heroes of Overwatc […] ]]></description>
+            <guid>https://d3watch.gg/?p=35168</guid>
+            <pubDate>2025-08-27T10:59:10</pubDate>
         </item>
         <item>
             <title>[OW2] レッキング・ボールが不具合により一時削除</title>
@@ -27,7 +34,7 @@
             <pubDate>2025-08-27T06:13:10</pubDate>
         </item>
         <item>
-            <title>ショップ更新（8/27）「プールサイド」シリーズが登場、「カウボーイ・ビ・バップ」スキンも復刻</title>
+            <title>ショップ更新（8/27）「プールサイド」シリーズが登場、「カウボーイ・ビバップ」スキンも復刻</title>
             <link>https://d3watch.gg/?p=35120</link>
             <description><![CDATA[ 本日、ゲーム内ショップが更新され、「」やアルティメット・バトルパスなど、新たなアイテムがラインナップに追加されています。 プールサイド・メガバンドル – 5,900コイン マーシー用「プールサイド」 ラインハルト用「プー […] ]]></description>
             <guid>https://d3watch.gg/?p=35120</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 先ほど、OWCS KOREAステージ3第2週まで休養することが明らかにされた、Crazy RaccoonのLIP選手について、Moonコーチから説明があったので、以下、その日本語訳となります。 립선수는 스테이지2를 치 […] ]]></description>
             <guid>https://d3watch.gg/?p=35036</guid>
             <pubDate>2025-08-24T21:43:42</pubDate>
-        </item>
-        <item>
-            <title>本日の雑記（8/23）LIPがステージ3第2週まで欠場｜ラマットラにさらなるナーフが判明｜ペルソナ5コラボはキリコが確定？ほか</title>
-            <link>https://d3watch.gg/?p=34996</link>
-            <description><![CDATA[ 最終更新 Crazy RaccoonのLIP選手が、OWCS KRステージ3第2週まで休養をとることが明らかになりました 📢팬 미팅 및 LIP선수 휴식 관련 공지📢 📢 […] ]]></description>
-            <guid>https://d3watch.gg/?p=34996</guid>
-            <pubDate>2025-08-24T18:13:01</pubDate>
         </item>
     </channel>
 </rss>
