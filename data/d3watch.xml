@@ -6,11 +6,18 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>本日の雑記（8/28）ソジョーンのULT崩壊バグ｜「noob」発言で永久BANされたユーザーが話題に｜ルシオ新パークの小ネタ</title>
+            <title>本日の雑記（8/28）ソジョーンのULT崩壊バグ｜アーマーバグ修正前後の比較｜「noob」発言で永久BANされたユーザーが話題に ほか</title>
             <link>https://d3watch.gg/?p=35173</link>
-            <description><![CDATA[ 随時更新中 一部で報告されていたDVAの「無限フュージョン・エイム」バグは、視覚的なバグで、バグ発動時の拡散抑制効果は発生していないとのこと Dva bug with her new perk byu/Swindler- […] ]]></description>
+            <description><![CDATA[ 随時更新中 Redditのポストによると、現在のロードホッグの勝率は、ライフウィーバー実装当時の勝率よりも低いらしい Roadhog has a lower win rate in qp and comp now tha […] ]]></description>
             <guid>https://d3watch.gg/?p=35173</guid>
-            <pubDate>2025-08-28T11:05:21</pubDate>
+            <pubDate>2025-08-28T15:30:21</pubDate>
+        </item>
+        <item>
+            <title>[OWCS] Crazy RaccoonのLIP選手が休養についてコメント</title>
+            <link>https://d3watch.gg/?p=35181</link>
+            <description><![CDATA[ OWCS KOREAステージ3の第2週まで休養することが決まっているCrazy RaccoonのLIP選手ですが、先日の配信で自身の休養について言及。以下はRedditにポストされた、そのコメントの内容です。 Lip a […] ]]></description>
+            <guid>https://d3watch.gg/?p=35181</guid>
+            <pubDate>2025-08-28T13:47:18</pubDate>
         </item>
         <item>
             <title>[OW2] 既知の不具合－グループ退出時の不具合やPS5のタッチパッドの不具合 ほか</title>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 中国を拠点にするEsportsチームのWeibo Gamingが、所属するLiGeの退団を発表しました。 先日のEsports World Cupでは、グループステージ敗退という不本意な成績に終わったOnce Again […] ]]></description>
             <guid>https://d3watch.gg/?p=35117</guid>
             <pubDate>2025-08-26T22:46:55</pubDate>
-        </item>
-        <item>
-            <title>本日の雑記（8/26）NBAスターの限定報酬が登場｜S18バトルパス・プレビュー｜新たなヒーローの存在が示唆？ ほか</title>
-            <link>https://d3watch.gg/?p=35104</link>
-            <description><![CDATA[ 最終更新 間もなく開幕するシーズン18 バトルパスの報酬内容のプレビューが一部公開されました Blizzard China (NetEase) has showcased some of the Season 18 Ba […] ]]></description>
-            <guid>https://d3watch.gg/?p=35104</guid>
-            <pubDate>2025-08-26T21:56:18</pubDate>
         </item>
     </channel>
 </rss>
