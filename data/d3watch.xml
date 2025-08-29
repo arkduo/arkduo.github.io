@@ -6,11 +6,18 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OWCS] 中国のROC EsportsがDiyaとTaejong退団を正式に発表</title>
+            <link>https://d3watch.gg/?p=35201</link>
+            <description><![CDATA[ サウジアラビアからOWCS CHINAに参加するEsportsチームのROC Esportsが、所属するDiyaとTaejong退団を正式に発表しました。 Farewell and best wishes to our  […] ]]></description>
+            <guid>https://d3watch.gg/?p=35201</guid>
+            <pubDate>2025-08-29T22:44:54</pubDate>
+        </item>
+        <item>
             <title>本日の雑記（8/29）ベンチャーにサイレントナーフ｜ランク上位層の増加について｜ライフウィーバーのULTバグ｜ボールに新たなバグ ほか</title>
             <link>https://d3watch.gg/?p=35193</link>
-            <description><![CDATA[ 随時更新中 アップデート後、ベンチャーのパッシブ（アビリティ使用でシールド+30）がひそかに弱体化されていたとの報告が Undocumented Venture Nerf (And Newly Added Bug) by […] ]]></description>
+            <description><![CDATA[ 随時更新中 正式リリース後のウーヤンの確定コンボは果たして強いのか？をだぶるずさんが検証 【検証】ウーヤンワンコンは果たして強いのか？ pic.twitter.com/IunlPsOIBy — だぶるずﾉがぶ […] ]]></description>
             <guid>https://d3watch.gg/?p=35193</guid>
-            <pubDate>2025-08-29T21:01:32</pubDate>
+            <pubDate>2025-08-29T21:39:32</pubDate>
         </item>
         <item>
             <title>[OW2] 2025年8月29日配信パッチ内容のおしらせ－キャスディ、ホッグ、ソジョーン、ジュノほかの不具合が修正</title>
@@ -67,13 +74,6 @@
             <description><![CDATA[ シーズン18アップデート後に複数報告されていた致命的な不具合の修正が完了したので、以下そのまとめになります。 Overwatch 2 Known Issues – August 28, 2025To the heroes […] ]]></description>
             <guid>https://d3watch.gg/?p=35170</guid>
             <pubDate>2025-08-28T05:06:06</pubDate>
-        </item>
-        <item>
-            <title>[OW2]【修正完了】レッキング・ボールが不具合により一時削除</title>
-            <link>https://d3watch.gg/?p=35160</link>
-            <description><![CDATA[ 現在は不具合が修正され再び利用可能になっています。 本日のアップデートでレッキング・ボールに不具合が見つかったため、現在ゲームから一時的に削除されています。 It looks like Wrecking Ball has […] ]]></description>
-            <guid>https://d3watch.gg/?p=35160</guid>
-            <pubDate>2025-08-28T04:55:10</pubDate>
         </item>
     </channel>
 </rss>
