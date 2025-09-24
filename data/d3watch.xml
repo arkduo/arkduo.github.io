@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] ウーヤンの回復ビームの射程距離を大幅に伸ばすバグがML7により発見される</title>
+            <link>https://d3watch.gg/?p=35585</link>
+            <description><![CDATA[ ウーヤンの回復ビームの射程距離を大幅に広げるバグが、人気サポート配信者のML7により発見報告されています。 ウーヤンの回復ビーム「養神泉」の射程距離は本来20メートルですが、ビームを繋いだあとに近接メレーを繰り出すことで […] ]]></description>
+            <guid>https://d3watch.gg/?p=35585</guid>
+            <pubDate>2025-09-24T09:26:47</pubDate>
+        </item>
+        <item>
             <title>ショップ更新（9/24）「ミュージック・フェスティバル」スキンが登場</title>
             <link>https://d3watch.gg/?p=35550</link>
             <description><![CDATA[ 本日、ゲーム内ショップが更新され、「ミュージック・フェスティバル」シリーズがラインナップに追加されています。 ミュージック・フェスティバル・メガバンドル – 5,900コイン ジュノ用「ミュージック・フェスティバル」 ア […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 一部で問題となっていた、勝利後にヒーローのスキルレートが下がってしまうという症状について、開発チームのGavin Winter氏から説明がありました。 why did I lose SR on my lower rank […] ]]></description>
             <guid>https://d3watch.gg/?p=35506</guid>
             <pubDate>2025-09-18T04:13:18</pubDate>
-        </item>
-        <item>
-            <title>S18ミッドシーズン雑記－AATLISが一時削除｜ブリギッテのトレーサー確殺コンボが復活｜コラボに「ペルソナ」の名称が使われない理由｜調整内容に不満のSpiloさん ほか</title>
-            <link>https://d3watch.gg/?p=35495</link>
-            <description><![CDATA[ 最終更新 訂正：ライフウィーバー「吸血伯爵」スキンは、アニバーサリー2025イベント第3週の報酬と書いてましたが、第1週の間違いです。 シーズン18ミッドシーズン初日の模様や小ネタ/小技などの最新情報は、こちらの記事で雑 […] ]]></description>
-            <guid>https://d3watch.gg/?p=35495</guid>
-            <pubDate>2025-09-17T16:18:52</pubDate>
         </item>
     </channel>
 </rss>
