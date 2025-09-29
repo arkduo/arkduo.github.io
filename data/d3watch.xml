@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>[OW2] S18の新たなバグが見つかる、メイに複数のバグが発生中</title>
+            <link>https://d3watch.gg/?p=35664</link>
+            <description><![CDATA[ シーズン18の新たなバグが見つかり、メイに関するバグだけで3つ報告されています。 ブリザードの凍結時間減少バグ Mei’s Blizzard is bugged in S18 pic.twitter.com/ […] ]]></description>
+            <guid>https://d3watch.gg/?p=35664</guid>
+            <pubDate>2025-09-29T08:33:23</pubDate>
+        </item>
+        <item>
             <title>[OWCS] NAのExtinctionが永久BAN処分を受けた所属選手を追放</title>
             <link>https://d3watch.gg/?p=35663</link>
             <description><![CDATA[ OWCS NAステージ3に参加しているExtinctionが、本日行われるGeekay Esports戦を前に、所属するnvmをロスターから放出したことが明らかとなりました。 📝 Extinction player Ev […] ]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[ 最終更新 養神泉の小ネタ応用編 別記事で紹介した養神泉の射程距離と持続時間延長小ネタの応用編 ウーヤン近接延長テク、回復量は落ちるけど距離も伸びるし顔出す時間減らせるし実戦で使える pic.twitter.com/IPy […] ]]></description>
             <guid>https://d3watch.gg/?p=35587</guid>
             <pubDate>2025-09-24T22:07:48</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ウーヤンの回復ビームの射程距離を大幅に伸ばすバグが見つかる</title>
-            <link>https://d3watch.gg/?p=35585</link>
-            <description><![CDATA[ ウーヤンの回復ビームの射程距離を大幅に広げるバグが、人気サポート配信者のML7により発見報告されています。 ウーヤンの回復ビーム「養神泉」の射程距離は本来20メートルですが、ビームを繋いだまま（長押し）近接メレーを繰り出 […] ]]></description>
-            <guid>https://d3watch.gg/?p=35585</guid>
-            <pubDate>2025-09-24T09:26:47</pubDate>
         </item>
     </channel>
 </rss>
