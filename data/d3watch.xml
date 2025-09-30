@@ -6,9 +6,23 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>本日の雑記（10/1）LazuliのSchwi選手が現役引退を表明｜アニバーサリー第3週イベント｜メイ関連のバグ検証</title>
+            <link>https://d3watch.gg/?p=35698</link>
+            <description><![CDATA[ 随時更新中 メイン関連のバグ検証 先日お伝えしたメイ関連のバグをOW兵法研究部のないあん氏が検証した結果がこちら メイのブリザード解凍バグは「ブリザードを被弾するまでに1度もメイン射撃(凍結スプレー)を被弾しなかった」こ […] ]]></description>
+            <guid>https://d3watch.gg/?p=35698</guid>
+            <pubDate>2025-10-01T05:15:20</pubDate>
+        </item>
+        <item>
+            <title>[OW2] ショップ更新（10/1）ストリートウェアとOWLソラリス・コレクションが登場、OWLスキンは単体購入不可</title>
+            <link>https://d3watch.gg/?p=35678</link>
+            <description><![CDATA[ 本日、ゲーム内ショップが更新され、「ストリートウェア」シリーズと「ソラリスOWLメガバンドル」がラインナップに追加されています。 ストリートウェア・メガバンドル – 4,500コイン フレイヤ用「ストリートウェア」 ソン […] ]]></description>
+            <guid>https://d3watch.gg/?p=35678</guid>
+            <pubDate>2025-10-01T03:33:35</pubDate>
+        </item>
+        <item>
             <title>本日の雑記（9/30）VARRELとREJECTが決勝＆RtWF進出を確定（リプレイコード）｜ゼニヤッタのホバー小ネタ｜ZZZのゼニヤッタすぎる新キャラが話題に</title>
             <link>https://d3watch.gg/?p=35671</link>
-            <description><![CDATA[ 随時更新中 VARRELとREJECTが決勝＆RtWF進出を確定 OWCS JAPANステージ3はプレーオフ準決勝が終了し、前ステージに続きVARRELとREJECTが決勝に進出。実質3ステージ連続での同一カードになりま […] ]]></description>
+            <description><![CDATA[ 最終更新 VARRELとREJECTが決勝＆RtWF進出を確定 OWCS JAPANステージ3はプレーオフ準決勝が終了し、前ステージに続きVARRELとREJECTが決勝に進出。実質3ステージ連続での同一カードになります […] ]]></description>
             <guid>https://d3watch.gg/?p=35671</guid>
             <pubDate>2025-09-30T22:09:03</pubDate>
         </item>
@@ -60,20 +74,6 @@
             <description><![CDATA[ 最終更新 ヒーローの得意不得意マップ早見表 マップごとに各ヒーローのパフォーマンス概要をひとまとめにした有志集計のお役立ちデータ（ランク全体） Hero Map Performance byu/Scyther99 inO […] ]]></description>
             <guid>https://d3watch.gg/?p=35615</guid>
             <pubDate>2025-09-26T14:30:06</pubDate>
-        </item>
-        <item>
-            <title>[OW2] ミラーウォッチのヒーローアビリティまとめ</title>
-            <link>https://d3watch.gg/?p=35616</link>
-            <description><![CDATA[ アニバーサリーイベントで復活した「ミラーウォッチ」モードに登場するヒーローのアビリティまとめです。 このモードではヒーローたちの立場や人格が入れ替わっているほか、アビリティもまったく新しいものに変わっています。 善悪が反 […] ]]></description>
-            <guid>https://d3watch.gg/?p=35616</guid>
-            <pubDate>2025-09-26T06:26:45</pubDate>
-        </item>
-        <item>
-            <title>[OWCS] 名門O2 Blastがアカデミーチームのロスターを発表－無名の若手主体ながら注目の選手も</title>
-            <link>https://d3watch.gg/?p=35611</link>
-            <description><![CDATA[ 韓国を拠点にする名門OverwatchチームのO2 Blastが、アカデミーチームのロスター7名を発表しました。 [Official Announcement] 2025 오투 아카데미 로스터를 공개합니다. 열정과  […] ]]></description>
-            <guid>https://d3watch.gg/?p=35611</guid>
-            <pubDate>2025-09-25T05:46:55</pubDate>
         </item>
     </channel>
 </rss>
