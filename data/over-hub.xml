@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>over-hub</title>
+        <link>https://over-hub.com/</link>
+        <description></description>
+        <language>ja</language>
+        <item>
+            <title>【OWガイド】3大チーム構成を解説 — ダイブ・ラッシュ・ポーク</title>
+            <link>https://over-hub.com/articles/strategy-team-compositions/</link>
+            <description><![CDATA[ オーバーウォッチの3大チーム構成「ダイブ・ラッシュ・ポーク」を解説します。それぞれの基本概念、採用されやすいヒーロー、そして「三すくみ」の相性理論まで、チーム戦の基礎知識を体系的にまとめました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.27</pubDate>
+        </item>
+        <item>
+            <title>【OW】ヒーロー別 DPS・HPS・ライフ 一覧比較表 ＆ ランキング</title>
+            <link>https://over-hub.com/articles/hero-comparison/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.26</pubDate>
+        </item>
+        <item>
+            <title>【OW】2026年2月26日 パッチノート – 不具合修正アップデート（ドミナ、ファラ、6v6）</title>
+            <link>https://over-hub.com/articles/2026-02-26-bugfixes/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.26</pubDate>
+        </item>
+        <item>
+            <title>【OW】2026年2月25日パッチノート – ジェットパック・キャット、ヴェンデッタ等のバランス調整・不具合修正</title>
+            <link>https://over-hub.com/articles/2026-02-25/</link>
+            <description><![CDATA[ 2026年2月25日配信のオーバーウォッチ（OW）パッチノート詳細。ジェットパック・キャット、ヴェンデッタ、エムレ、アンラン等のバランス調整に加え、多数の不具合修正が行われました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.25</pubDate>
+        </item>
+        <item>
+            <title>[速報] モバイル版オーバーウォッチ『Overwatch Rush』が正式発表！</title>
+            <link>https://over-hub.com/articles/overwatch-rush-announcement/</link>
+            <description><![CDATA[ Blizzard Entertainmentは、モバイル向け完全新作ヒーロー・シューター『Overwatch Rush（オーバーウォッチ・ラッシュ）』を発表しました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.25</pubDate>
+        </item>
+        <item>
+            <title>【OW初心者ガイド】初心者が意識すべき基本のTIPS・立ち回り</title>
+            <link>https://over-hub.com/articles/tips-for-beginners/</link>
+            <description><![CDATA[ Overwatchを始めたばかりの初心者向けに、最新環境（50ヒーロー・サブロール等）で勝率を上げるために意識すべき実践的なポイントを解説します。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.24</pubDate>
+        </item>
+        <item>
+            <title>【朗報】「Overwatch」かつてない盛り上がり！シーズン1の2週目ユーザー数が初週を突破</title>
+            <link>https://over-hub.com/articles/season1-active-users-record/</link>
+            <description><![CDATA[ 「Overwatch」公式Xにて、シーズン1「征服の道」の2週目アクティブユーザー数がリリース初週を上回ったことが発表されました。サービス開始以来初の快挙となり、過去最大の盛り上がりを見せています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.24</pubDate>
+        </item>
+        <item>
+            <title>【OW】「5v5はもう廃止するべき？」海外フォーラムで5v5 vs 6v6論争が再び白熱</title>
+            <link>https://over-hub.com/articles/5v5-needs-to-go/</link>
+            <description><![CDATA[ 公式フォーラムで「5v5 Needs to Go（5v5は廃止すべき）」というスレッドが立ち、5v5派と6v6派による激しい議論が交わされています。海外の反応をまとめました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.24</pubDate>
+        </item>
+        <item>
+            <title>【OW】シーズン2新ヒーローは女性DPS！開発者が配信で言及した今後のアプデ情報まとめ</title>
+            <link>https://over-hub.com/articles/dev-stream-summary-2026-02/</link>
+            <description><![CDATA[ 開発者Alec Dawson氏がDeemzies氏の配信で言及した、Overwatchの今後のアップデート予定をまとめました。新ヒーロー情報、ヒーロー調整、マップ関連の変更など。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.21</pubDate>
+        </item>
+        <item>
+            <title>【公式ブログ】ウィークリーリコール「サブロールコール！」OWサブロール全10種を開発チームが解説</title>
+            <link>https://over-hub.com/articles/weekly-recall-sub-role-call/</link>
+            <description><![CDATA[ オーバーウォッチ公式ブログ「ウィークリーリコール」のサブロール特集記事が公開！各ロールのサブロール（全10種）の紹介やパッシブの活用方法、今後の調整方針などを開発チームが解説しています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.21</pubDate>
+        </item>
+        <item>
+            <title>【OW】最新パッチノート（2026年2月19日）– トールビョーン、レッキング・ボール等のバグ修正</title>
+            <link>https://over-hub.com/articles/2026-02-19/</link>
+            <description><![CDATA[ 2026年2月19日配信のオーバーウォッチ（OW）最新パッチノート詳細。トールビョーン、レッキング・ボール等のバグ修正。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.19</pubDate>
+        </item>
+        <item>
+            <title>【OW】「征服の道」イベント不具合に伴う補填報酬とパス要件緩和について</title>
+            <link>https://over-hub.com/articles/talon-conquest-update/</link>
+            <description><![CDATA[ 「征服への道」イベントの不具合に関する公式発表まとめ。対象プレイヤーへの補填報酬詳細と、イベントパス完了要件の変更について。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.18</pubDate>
+        </item>
+    </channel>
+</rss>
