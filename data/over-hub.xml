@@ -6,6 +6,27 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「ヒットスキャンがゲームを壊している？」海外フォーラムで議論が勃発</title>
+            <link>https://over-hub.com/articles/hitscans-ruin-the-game/</link>
+            <description><![CDATA[ 公式フォーラムで「ヒットスキャンがゲームを台無しにしている」というスレッドが立ち、即着弾ヒーローの制圧力と近接ヒーローついて多くのコメントが寄せられています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.01</pubDate>
+        </item>
+        <item>
+            <title>【OW】ヒーロー別ステータス一覧比較表＆ランキング | DPS・HPS・ライフ・アルティメットなど</title>
+            <link>https://over-hub.com/articles/hero-comparison/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>更新2026.03.01</pubDate>
+        </item>
+        <item>
+            <title>「ジェットパック・キャット」実装までの軌跡：開発チームが語る舞台裏</title>
+            <link>https://over-hub.com/articles/jetpack-cat-development-history/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.02.28</pubDate>
+        </item>
+        <item>
             <title>【OWガイド】3大チーム構成を解説 — ダイブ・ラッシュ・ポーク</title>
             <link>https://over-hub.com/articles/strategy-team-compositions/</link>
             <description><![CDATA[ オーバーウォッチの3大チーム構成「ダイブ・ラッシュ・ポーク」を解説します。それぞれの基本概念、採用されやすいヒーロー、そして「三すくみ」の相性理論まで、チーム戦の基礎知識を体系的にまとめました。 ]]></description>
@@ -13,16 +34,9 @@
             <pubDate>2026.02.27</pubDate>
         </item>
         <item>
-            <title>【OW】ヒーロー別 DPS・HPS・ライフ 一覧比較表 ＆ ランキング</title>
-            <link>https://over-hub.com/articles/hero-comparison/</link>
-            <description><![CDATA[  ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.26</pubDate>
-        </item>
-        <item>
             <title>【OW】2026年2月26日 パッチノート – 不具合修正アップデート（ドミナ、ファラ、6v6）</title>
             <link>https://over-hub.com/articles/2026-02-26-bugfixes/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 2026年2月26日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。ドミナのビーム・ダメージ計算やファラのパーク、6v6モードにおけるタンクの耐性などに関する不具合が修正されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.26</pubDate>
         </item>
@@ -74,20 +88,6 @@
             <description><![CDATA[ オーバーウォッチ公式ブログ「ウィークリーリコール」のサブロール特集記事が公開！各ロールのサブロール（全10種）の紹介やパッシブの活用方法、今後の調整方針などを開発チームが解説しています。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.21</pubDate>
-        </item>
-        <item>
-            <title>【OW】最新パッチノート（2026年2月19日）– トールビョーン、レッキング・ボール等のバグ修正</title>
-            <link>https://over-hub.com/articles/2026-02-19/</link>
-            <description><![CDATA[ 2026年2月19日配信のオーバーウォッチ（OW）最新パッチノート詳細。トールビョーン、レッキング・ボール等のバグ修正。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.19</pubDate>
-        </item>
-        <item>
-            <title>【OW】「征服の道」イベント不具合に伴う補填報酬とパス要件緩和について</title>
-            <link>https://over-hub.com/articles/talon-conquest-update/</link>
-            <description><![CDATA[ 「征服への道」イベントの不具合に関する公式発表まとめ。対象プレイヤーへの補填報酬詳細と、イベントパス完了要件の変更について。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.18</pubDate>
         </item>
     </channel>
 </rss>
