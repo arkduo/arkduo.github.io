@@ -6,23 +6,37 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>『オーバーウォッチ』×『ニーア オートマタ』コラボが3月11日(水)より開催！ 2Bキリコや9Sウーヤンが登場</title>
+            <link>https://over-hub.com/articles/nier-automata-collab/</link>
+            <description><![CDATA[ 「オーバーウォッチ 2」と「ニーア オートマタ（NieR:Automata）」のコラボイベントが3月11日より開催決定！2Bをモチーフにしたキリコや、9S姿のウーヤンなど限定スキンが登場します。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.06</pubDate>
+        </item>
+        <item>
+            <title>ミズキのストーリー「鎖」公開！キリコの父・山神敏郎との別れを描く</title>
+            <link>https://over-hub.com/articles/mizuki-story-cursebreaker/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.06</pubDate>
+        </item>
+        <item>
             <title>【OW】「ヒットスキャンがゲームを壊している？」海外フォーラムで議論が勃発</title>
             <link>https://over-hub.com/articles/hitscans-ruin-the-game/</link>
-            <description><![CDATA[ 公式フォーラムで「ヒットスキャンがゲームを台無しにしている」というスレッドが立ち、即着弾ヒーローの制圧力と近接ヒーローついて多くのコメントが寄せられています。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.01</pubDate>
         </item>
         <item>
             <title>【OW】ヒーロー別ステータス一覧比較表＆ランキング | DPS・HPS・ライフ・アルティメットなど</title>
             <link>https://over-hub.com/articles/hero-comparison/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチ(Overwatch)全ヒーローのDPS・HPS・合計ライフ・アルティメット情報などを一覧表で比較！ヒーロー間の比較にご活用ください。 ]]></description>
             <guid></guid>
             <pubDate>更新2026.03.01</pubDate>
         </item>
         <item>
             <title>「ジェットパック・キャット」実装までの軌跡：開発チームが語る舞台裏</title>
             <link>https://over-hub.com/articles/jetpack-cat-development-history/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 公式コラムで明かされた、新ヒーロー「ジェットパック・キャット（フィーカ）」の10年にわたる開発秘話を簡潔にまとめました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.28</pubDate>
         </item>
@@ -74,20 +88,6 @@
             <description><![CDATA[ 公式フォーラムで「5v5 Needs to Go（5v5は廃止すべき）」というスレッドが立ち、5v5派と6v6派による激しい議論が交わされています。海外の反応をまとめました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.24</pubDate>
-        </item>
-        <item>
-            <title>【OW】シーズン2新ヒーローは女性DPS！開発者が配信で言及した今後のアプデ情報まとめ</title>
-            <link>https://over-hub.com/articles/dev-stream-summary-2026-02/</link>
-            <description><![CDATA[ 開発者Alec Dawson氏がDeemzies氏の配信で言及した、Overwatchの今後のアップデート予定をまとめました。新ヒーロー情報、ヒーロー調整、マップ関連の変更など。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.21</pubDate>
-        </item>
-        <item>
-            <title>【公式ブログ】ウィークリーリコール「サブロールコール！」OWサブロール全10種を開発チームが解説</title>
-            <link>https://over-hub.com/articles/weekly-recall-sub-role-call/</link>
-            <description><![CDATA[ オーバーウォッチ公式ブログ「ウィークリーリコール」のサブロール特集記事が公開！各ロールのサブロール（全10種）の紹介やパッシブの活用方法、今後の調整方針などを開発チームが解説しています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.21</pubDate>
         </item>
     </channel>
 </rss>
