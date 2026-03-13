@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】2026年3月13日 パッチノート – 緊急修正（ジェットパック・キャット、ノックバック）</title>
+            <link>https://over-hub.com/articles/2026-03-13-hotfix/</link>
+            <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.13</pubDate>
+        </item>
+        <item>
             <title>既知の不具合リスト (2026年3月12日更新)</title>
             <link>https://over-hub.com/articles/2026-03-12-known-issues/</link>
-            <description><![CDATA[ 2026年3月12日時点でのオーバーウォッチの既知の不具合リスト。ノックバック減衰の問題、SHGYRQモード利用不可、スタジアム報酬説明の誤記など。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.12</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>まだまだ続く新時代の興奮――シーズン1ミッドシーズン 公式まとめ</title>
             <link>https://over-hub.com/articles/season1-midseason/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ シーズン1ミッドシーズンの最新情報まとめ。ニーアオートマタコラボ、エイプリルフールイベント「超オーバーウォッチ」、新ミシックスキン、限定モードなど盛りだくさんの内容を解説。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.11</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ オーバーウォッチの3大チーム構成「ダイブ・ラッシュ・ポーク」を解説します。それぞれの基本概念、採用されやすいヒーロー、そして「三すくみ」の相性理論まで、チーム戦の基礎知識を体系的にまとめました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.27</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年2月26日 パッチノート – 不具合修正アップデート（ドミナ、ファラ、6v6）</title>
-            <link>https://over-hub.com/articles/2026-02-26-bugfixes/</link>
-            <description><![CDATA[ 2026年2月26日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。ドミナのビーム・ダメージ計算やファラのパーク、6v6モードにおけるタンクの耐性などに関する不具合が修正されました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.26</pubDate>
         </item>
     </channel>
 </rss>
