@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>公式ブログの更新スケジュールが変更へ――「毎週」から「半定期」に移行</title>
+            <link>https://over-hub.com/articles/2026-03-20-dev-blog-schedule/</link>
+            <description><![CDATA[ オーバーウォッチ公式が開発ブログ「ディレクターの視点」シリーズの更新方針を変更。毎週更新から半定期的な公開へシフトし、品質重視の体制を取ることが発表された。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.20</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年3月13日 パッチノート – 緊急修正（ジェットパック・キャット、ノックバック）</title>
             <link>https://over-hub.com/articles/2026-03-13-hotfix/</link>
-            <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.13</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>シーズン1 ヒーローバランス調整まとめ</title>
             <link>https://over-hub.com/articles/hero-balance-summary/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチ シーズン1のパッチノート情報を元にした、シーズン内で調整されたヒーローのバランス調整一覧。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.11</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 公式コラムで明かされた、新ヒーロー「ジェットパック・キャット（フィーカ）」の10年にわたる開発秘話を簡潔にまとめました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.28</pubDate>
-        </item>
-        <item>
-            <title>【OWガイド】3大チーム構成を解説 — ダイブ・ラッシュ・ポーク</title>
-            <link>https://over-hub.com/articles/strategy-team-compositions/</link>
-            <description><![CDATA[ オーバーウォッチの3大チーム構成「ダイブ・ラッシュ・ポーク」を解説します。それぞれの基本概念、採用されやすいヒーロー、そして「三すくみ」の相性理論まで、チーム戦の基礎知識を体系的にまとめました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.27</pubDate>
         </item>
     </channel>
 </rss>
