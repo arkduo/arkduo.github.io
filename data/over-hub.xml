@@ -6,23 +6,37 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「ゲンジの風切りリセットはキルのみにすべき？」海外フォーラムで大論争</title>
+            <link>https://over-hub.com/articles/genji-dash-reset-debate/</link>
+            <description><![CDATA[ ゲンジの風切りがアシストでもリセットされる仕様に異議を唱えたスレッドが大激論に。賛成派・反対派の本音をまとめました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.25</pubDate>
+        </item>
+        <item>
+            <title>【OW】「なんでVCで話さないの？」海外フォーラムで共感の嵐</title>
+            <link>https://over-hub.com/articles/why-not-talking-in-vc/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.25</pubDate>
+        </item>
+        <item>
             <title>【OW】コントローラー感度・エイムアシスト設定まとめ</title>
             <link>https://over-hub.com/articles/controller-settings/</link>
-            <description><![CDATA[ オーバーウォッチのコントローラー向け感度・エイムアシスト設定を解説。ゲーム内に説明がない項目も含め、各設定が実際にどういった効果をもたらすのかをまとめています。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.24</pubDate>
         </item>
         <item>
             <title>公式ブログの更新スケジュールが変更へ――「毎週」から「半定期」に移行</title>
             <link>https://over-hub.com/articles/2026-03-20-dev-blog-schedule/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチ公式が開発ブログ「ディレクターの視点」シリーズの更新方針を変更。毎週更新から半定期的な公開へシフトし、品質重視の体制を取ることが発表された。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.20</pubDate>
         </item>
         <item>
             <title>【OW】2026年3月13日 パッチノート – 緊急修正（ジェットパック・キャット、ノックバック）</title>
             <link>https://over-hub.com/articles/2026-03-13-hotfix/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.13</pubDate>
         </item>
@@ -74,20 +88,6 @@
             <description><![CDATA[ 公式XとYouTubeで新ヒーロー・ミズキのショートストーリー「鎖」が公開。ハシモト組に囚われた名匠・山神敏郎との師弟関係、そしてカネザカへの旅立ちが描かれています。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.06</pubDate>
-        </item>
-        <item>
-            <title>【OW】「ヒットスキャンがゲームを壊している？」海外フォーラムで議論が勃発</title>
-            <link>https://over-hub.com/articles/hitscans-ruin-the-game/</link>
-            <description><![CDATA[ 公式フォーラムで「ヒットスキャンがゲームを台無しにしている」というスレッドが立ち、即着弾ヒーローの制圧力と近接ヒーローついて多くのコメントが寄せられています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.01</pubDate>
-        </item>
-        <item>
-            <title>【OW】ヒーロー別ステータス一覧比較表＆ランキング | DPS・HPS・ライフ・アルティメットなど</title>
-            <link>https://over-hub.com/articles/hero-comparison/</link>
-            <description><![CDATA[ オーバーウォッチ(Overwatch)全ヒーローのDPS・HPS・合計ライフ・アルティメット情報などを一覧表で比較！ヒーロー間の比較にご活用ください。 ]]></description>
-            <guid></guid>
-            <pubDate>更新2026.03.01</pubDate>
         </item>
     </channel>
 </rss>
