@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「マッチングが改善されないのは擁護するから？」</title>
+            <link>https://over-hub.com/articles/matchmaker-horrendous/</link>
+            <description><![CDATA[ 「擁護する人がいるから、マッチングはいつまでも改善されない」——そんな主張が海外公式フォーラムに投稿され、自己責任論を唱える擁護派と改善を求める批判派の本音がぶつかり合っています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.25</pubDate>
+        </item>
+        <item>
             <title>【OW】「ゲンジの風切りリセットはキルのみにすべき？」海外フォーラムで大論争</title>
             <link>https://over-hub.com/articles/genji-dash-reset-debate/</link>
-            <description><![CDATA[ ゲンジの風切りがアシストでもリセットされる仕様に異議を唱えたスレッドが大激論に。賛成派・反対派の本音をまとめました。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.25</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>【OW】コントローラー感度・エイムアシスト設定まとめ</title>
             <link>https://over-hub.com/articles/controller-settings/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチのコントローラー向け感度・エイムアシスト設定を解説。ゲーム内に説明がない項目も含め、各設定が実際にどういった効果をもたらすのかをまとめています。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.24</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 「オーバーウォッチ」開発チームより、シーズン1で登場した5人の新ヒーロー（ジェットパック・キャット、ドミナ、ミズキ、アンラン、エムレ）の勝率やBAN率などの最新統計データが公開されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.07</pubDate>
-        </item>
-        <item>
-            <title>ミズキのストーリー「鎖」公開！キリコの父・山神敏郎との別れを描く</title>
-            <link>https://over-hub.com/articles/mizuki-story-cursebreaker/</link>
-            <description><![CDATA[ 公式XとYouTubeで新ヒーロー・ミズキのショートストーリー「鎖」が公開。ハシモト組に囚われた名匠・山神敏郎との師弟関係、そしてカネザカへの旅立ちが描かれています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.06</pubDate>
         </item>
     </channel>
 </rss>
