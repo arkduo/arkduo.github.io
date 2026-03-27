@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>1週間を振り返る：ジュノ・ドミナのSFX制作の裏側</title>
+            <link>https://over-hub.com/articles/sfx-behind-the-scenes/</link>
+            <description><![CDATA[ シニア・サウンド・デザイナーが語る、ジュノとドミナのサウンドエフェクト制作の哲学と技法。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.03.28</pubDate>
+        </item>
+        <item>
             <title>【OW】「マッチングが改善されないのは擁護するから？」</title>
             <link>https://over-hub.com/articles/matchmaker-horrendous/</link>
-            <description><![CDATA[ 「擁護する人がいるから、マッチングはいつまでも改善されない」——そんな主張が海外公式フォーラムに投稿され、自己責任論を唱える擁護派と改善を求める批判派の本音がぶつかり合っています。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.25</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>【OW】「なんでVCで話さないの？」海外フォーラムで共感の嵐</title>
             <link>https://over-hub.com/articles/why-not-talking-in-vc/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 公式フォーラムで「なぜボイスチャットを使わないのか？」というスレッドが立てられ、100件以上のコメントが寄せられました。監視される恐怖、有害な環境、女性プレイヤーの苦悩など、VCが使われなくなった本当の理由が語られています。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.25</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 「オーバーウォッチ 2」と「ニーア オートマタ（NieR:Automata）」のコラボイベントが3月11日より開催決定！2Bをモチーフにしたキリコや、9S姿のウーヤンなど限定スキンが登場します。 ]]></description>
             <guid></guid>
             <pubDate>更新2026.03.11</pubDate>
-        </item>
-        <item>
-            <title>公式記事「1週間を振り返る：新ヒーローの統計を公開！」まとめ</title>
-            <link>https://over-hub.com/articles/2026-03-07-new-hero-stats/</link>
-            <description><![CDATA[ 「オーバーウォッチ」開発チームより、シーズン1で登場した5人の新ヒーロー（ジェットパック・キャット、ドミナ、ミズキ、アンラン、エムレ）の勝率やBAN率などの最新統計データが公開されました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.07</pubDate>
         </item>
     </channel>
 </rss>
