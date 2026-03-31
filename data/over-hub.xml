@@ -6,23 +6,37 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>『オーバーウォッチ』新作WEBTOON『Overwatch: Undivided』公開。タロン襲撃後の物語を描く40話構成</title>
+            <link>https://over-hub.com/articles/overwatch-undivided-webtoon/</link>
+            <description><![CDATA[ Blizzardが新作WEBTOON『Overwatch: Undivided』を公開。ウォッチポイント・ジブラルタル襲撃後の世界を舞台に、ソジョーンたちOverwatchの再結集とタロンとの戦いが描かれます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.01</pubDate>
+        </item>
+        <item>
+            <title>【OW】2026年4月1日 パッチノート – 不具合修正アップデート（スタジアム、エムレ、マーシー）</title>
+            <link>https://over-hub.com/articles/2026-04-01-bugfixes/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.01</pubDate>
+        </item>
+        <item>
             <title>1週間を振り返る：ジュノ・ドミナのSFX制作の裏側</title>
             <link>https://over-hub.com/articles/sfx-behind-the-scenes/</link>
-            <description><![CDATA[ シニア・サウンド・デザイナーが語る、ジュノとドミナのサウンドエフェクト制作の哲学と技法。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.03.28</pubDate>
         </item>
         <item>
             <title>【OW】「マッチングが改善されないのは擁護するから？」</title>
             <link>https://over-hub.com/articles/matchmaker-horrendous/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 「擁護する人がいるから、マッチングはいつまでも改善されない」——そんな主張が海外公式フォーラムに投稿され、自己責任論を唱える擁護派と改善を求める批判派の本音がぶつかり合っています。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.25</pubDate>
         </item>
         <item>
             <title>【OW】「ゲンジの風切りリセットはキルのみにすべき？」海外フォーラムで大論争</title>
             <link>https://over-hub.com/articles/genji-dash-reset-debate/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ ゲンジの風切りがアシストでもリセットされる仕様に異議を唱えたスレッドが大激論に。賛成派・反対派の本音をまとめました。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.25</pubDate>
         </item>
@@ -74,20 +88,6 @@
             <description><![CDATA[ シーズン1ミッドシーズンの最新情報まとめ。ニーアオートマタコラボ、エイプリルフールイベント「超オーバーウォッチ」、新ミシックスキン、限定モードなど盛りだくさんの内容を解説。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.11</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年3月11日パッチノート – シーズン1ミッドシーズン：サブロール調整とバランス変更</title>
-            <link>https://over-hub.com/articles/2026-03-11/</link>
-            <description><![CDATA[ 2026年3月11日配信のオーバーウォッチ（OW）シーズン1中間パッチノート詳細。メディック・ブルーザー・イニシエーターのサブロール調整に加え、D.Va、ハザード、ラマットラ、ロードホッグ、アンラン、エムレ、ヴェンデッタ、イラリー、ジェットパック・キャット、ミズキのバランス調整が実施されました。 ]]></description>
-            <guid></guid>
-            <pubDate>更新2026.03.11</pubDate>
-        </item>
-        <item>
-            <title>『オーバーウォッチ』×『ニーア オートマタ』コラボが3月11日(水)より開催！ 2Bキリコや9Sウーヤンが登場</title>
-            <link>https://over-hub.com/articles/nier-automata-collab/</link>
-            <description><![CDATA[ 「オーバーウォッチ 2」と「ニーア オートマタ（NieR:Automata）」のコラボイベントが3月11日より開催決定！2Bをモチーフにしたキリコや、9S姿のウーヤンなど限定スキンが登場します。 ]]></description>
-            <guid></guid>
-            <pubDate>更新2026.03.11</pubDate>
         </item>
     </channel>
 </rss>
