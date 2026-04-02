@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>既知の不具合リスト (2026年4月2日更新)</title>
+            <link>https://over-hub.com/articles/2026-04-02-known-issues/</link>
+            <description><![CDATA[ 2026年4月2日時点でのオーバーウォッチの既知の不具合リスト。アンダーウォッチでのジャンカー・クイーンとレッキング・ボールの無効化、ウィンストンとジャンクラットの不具合、ライバル・プレイ報酬、アンランの武器スキン表示不具合など。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.02</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年4月2日 パッチノート – エイプリルフール「アンダーウォッチ」</title>
             <link>https://over-hub.com/articles/2026-04-02/</link>
-            <description><![CDATA[ 2026年4月2日配信のオーバーウォッチ（OW）パッチノート詳細。期間限定アーケードモード「アンダーウォッチ」の公式パッチノートを日本語で掲載。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>更新2026.04.02</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>【OW】2026年4月1日 パッチノート – 不具合修正アップデート（スタジアム、エムレ、マーシー）</title>
             <link>https://over-hub.com/articles/2026-04-01-bugfixes/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 2026年4月1日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。スタジアムUIの非表示、エムレの銃の切り替わり、マーシーのマイシックスキンのダメージブーストビームに関する不具合が修正されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.01</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 2026年3月12日時点でのオーバーウォッチの既知の不具合リスト。ノックバック減衰の問題、SHGYRQモード利用不可、スタジアム報酬説明の誤記など。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.12</pubDate>
-        </item>
-        <item>
-            <title>シーズン1 ヒーローバランス調整まとめ</title>
-            <link>https://over-hub.com/articles/hero-balance-summary/</link>
-            <description><![CDATA[ オーバーウォッチ シーズン1のパッチノート情報を元にした、シーズン内で調整されたヒーローのバランス調整一覧。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.11</pubDate>
         </item>
     </channel>
 </rss>
