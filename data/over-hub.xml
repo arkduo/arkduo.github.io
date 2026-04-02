@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「フィーカは二重スパイ？」Redditで“黒幕説”が盛り上がる</title>
+            <link>https://over-hub.com/articles/fika-double-agent-theory/</link>
+            <description><![CDATA[ Redditで「フィーカはOverwatchに紛れ込んだ二重スパイではないか」という説が話題に。ジブラルタル襲撃やフィーカの素性を手がかりに、さまざまな考察が飛び交っています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.02</pubDate>
+        </item>
+        <item>
             <title>既知の不具合リスト (2026年4月2日更新)</title>
             <link>https://over-hub.com/articles/2026-04-02-known-issues/</link>
-            <description><![CDATA[ 2026年4月2日時点でのオーバーウォッチの既知の不具合リスト。アンダーウォッチでのジャンカー・クイーンとレッキング・ボールの無効化、ウィンストンとジャンクラットの不具合、ライバル・プレイ報酬、アンランの武器スキン表示不具合など。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.02</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>『オーバーウォッチ』新作WEBTOON『Overwatch: Undivided』公開。タロン襲撃後の物語を描く40話構成</title>
             <link>https://over-hub.com/articles/overwatch-undivided-webtoon/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ Blizzardが新作WEBTOON『Overwatch: Undivided』を公開。ウォッチポイント・ジブラルタル襲撃後の世界を舞台に、ソジョーンたちOverwatchの再結集とタロンとの戦いが描かれます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.01</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.13</pubDate>
-        </item>
-        <item>
-            <title>既知の不具合リスト (2026年3月12日更新)</title>
-            <link>https://over-hub.com/articles/2026-03-12-known-issues/</link>
-            <description><![CDATA[ 2026年3月12日時点でのオーバーウォッチの既知の不具合リスト。ノックバック減衰の問題、SHGYRQモード利用不可、スタジアム報酬説明の誤記など。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.12</pubDate>
         </item>
     </channel>
 </rss>
