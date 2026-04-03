@@ -6,23 +6,37 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>OW公式、51番目の新ヒーローのトレーラーを4月9日公開へ。シーズン2関連動画の日程も判明</title>
+            <link>https://over-hub.com/articles/hero-51-trailer-premieres/</link>
+            <description><![CDATA[ Overwatch公式YouTubeで51番目の新ヒーローのトレーラーがプレミア公開予定。説明欄ではゲームプレイトレーラー、シーズン2ローンチトレーラー、モーションコミックの公開日程も案内されています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.03</pubDate>
+        </item>
+        <item>
+            <title>【朗報】FPS低下問題に対応する更新配信、改善報告も</title>
+            <link>https://over-hub.com/articles/2026-04-03-fps-issues-update/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.03</pubDate>
+        </item>
+        <item>
             <title>【OW】「フィーカは二重スパイ？」Redditで“黒幕説”が盛り上がる</title>
             <link>https://over-hub.com/articles/fika-double-agent-theory/</link>
-            <description><![CDATA[ Redditで「フィーカはOverwatchに紛れ込んだ二重スパイではないか」という説が話題に。ジブラルタル襲撃やフィーカの素性を手がかりに、さまざまな考察が飛び交っています。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.02</pubDate>
         </item>
         <item>
             <title>既知の不具合リスト (2026年4月2日更新)</title>
             <link>https://over-hub.com/articles/2026-04-02-known-issues/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 2026年4月2日時点でのオーバーウォッチの既知の不具合リスト。アンダーウォッチでのジャンカー・クイーンとレッキング・ボールの無効化、ウィンストンとジャンクラットの不具合、ライバル・プレイ報酬、アンランの武器スキン表示不具合など。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.02</pubDate>
         </item>
         <item>
             <title>【OW】2026年4月2日 パッチノート – エイプリルフール「アンダーウォッチ」</title>
             <link>https://over-hub.com/articles/2026-04-02/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ 2026年4月2日配信のオーバーウォッチ（OW）パッチノート詳細。期間限定アーケードモード「アンダーウォッチ」の公式パッチノートを日本語で掲載。 ]]></description>
             <guid></guid>
             <pubDate>更新2026.04.02</pubDate>
         </item>
@@ -74,20 +88,6 @@
             <description><![CDATA[ オーバーウォッチのコントローラー向け感度・エイムアシスト設定を解説。ゲーム内に説明がない項目も含め、各設定が実際にどういった効果をもたらすのかをまとめています。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.24</pubDate>
-        </item>
-        <item>
-            <title>公式ブログの更新スケジュールが変更へ――「毎週」から「半定期」に移行</title>
-            <link>https://over-hub.com/articles/2026-03-20-dev-blog-schedule/</link>
-            <description><![CDATA[ オーバーウォッチ公式が開発ブログ「ディレクターの視点」シリーズの更新方針を変更。毎週更新から半定期的な公開へシフトし、品質重視の体制を取ることが発表された。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.20</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年3月13日 パッチノート – 緊急修正（ジェットパック・キャット、ノックバック）</title>
-            <link>https://over-hub.com/articles/2026-03-13-hotfix/</link>
-            <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.13</pubDate>
         </item>
     </channel>
 </rss>
