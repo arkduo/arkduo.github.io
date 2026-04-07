@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>アンランの顔ビジュアルがシーズン2（4月15日）から刷新</title>
+            <link>https://over-hub.com/articles/anran-face-update-season2/</link>
+            <description><![CDATA[ オーバーウォッチ公式がアンランの顔モデル更新を発表。目・眉・口の造形と姿勢を修正し、より成熟したリーダーらしい表情へ。シーズン2開幕の4月15日（日本時間）から適用される。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.07</pubDate>
+        </item>
+        <item>
             <title>【OW】「スキルフロアと天井の差が最大のヒーローは？」みんなの反応</title>
             <link>https://over-hub.com/articles/hero-skill-floor-ceiling-gap/</link>
-            <description><![CDATA[ Redditで「簡単に触れるのに極めると別物になるヒーローは誰か」という話題が盛り上がり、ルシオを筆頭にジャンクラット、メイ、マーシーなどの名前が多く挙がっています。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.05</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>OW公式、エイプリルフール限定モードの開発舞台裏を公開。ジョーク調整も綿密に設計</title>
             <link>https://over-hub.com/articles/april-fools-mode-behind-the-scenes/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチ公式ブログ『1週間を振り返る：ジョークをひたすらマジメに』が公開。今年の「超オーバーウォッチ」が、ブレインストーミングや反復テスト、バランス検証を重ねて作られていることが明かされました。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.03</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ シニア・サウンド・デザイナーが語る、ジュノとドミナのサウンドエフェクト制作の哲学と技法。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.28</pubDate>
-        </item>
-        <item>
-            <title>【OW】「マッチングが改善されないのは擁護するから？」</title>
-            <link>https://over-hub.com/articles/matchmaker-horrendous/</link>
-            <description><![CDATA[ 「擁護する人がいるから、マッチングはいつまでも改善されない」——そんな主張が海外公式フォーラムに投稿され、自己責任論を唱える擁護派と改善を求める批判派の本音がぶつかり合っています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.25</pubDate>
         </item>
     </channel>
 </rss>
