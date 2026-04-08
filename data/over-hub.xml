@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【速報】新DPSヒーロー『シエラ』トレーラー公開。飛行ドローンや高火力射撃を確認</title>
+            <link>https://over-hub.com/articles/sierra-trailer-released/</link>
+            <description><![CDATA[ オーバーウォッチの新ダメージヒーロー『シエラ』のヒーロートレーラーが公開。鳥型ドローンによる飛行、高火力の射撃、刺さった弾に追撃するようなアクションが映像内で確認できます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.09</pubDate>
+        </item>
+        <item>
             <title>アンランの顔ビジュアルがシーズン2（4月15日）から刷新</title>
             <link>https://over-hub.com/articles/anran-face-update-season2/</link>
-            <description><![CDATA[ オーバーウォッチ公式がアンランの顔モデル更新を発表。目・眉・口の造形と姿勢を修正し、より成熟したリーダーらしい表情へ。シーズン2開幕の4月15日（日本時間）から適用される。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.07</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>【OW】「ライフグリップはジェットパック・キャット式にすべき？」海外フォーラムで議論</title>
             <link>https://over-hub.com/articles/lifeweaver-grip-jetpack-cat-debate/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ ライフウィーバーのライフグリップを、ジェットパック・キャットのような任意受諾式にしてほしいという提案が海外公式フォーラムで議論に。救助性能を優先する声も多く集まっています。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.05</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 2026年4月1日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。スタジアムUIの非表示、エムレの銃の切り替わり、マーシーのマイシックスキンのダメージブーストビームに関する不具合が修正されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.01</pubDate>
-        </item>
-        <item>
-            <title>1週間を振り返る：ジュノ・ドミナのSFX制作の裏側</title>
-            <link>https://over-hub.com/articles/sfx-behind-the-scenes/</link>
-            <description><![CDATA[ シニア・サウンド・デザイナーが語る、ジュノとドミナのサウンドエフェクト制作の哲学と技法。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.03.28</pubDate>
         </item>
     </channel>
 </rss>
