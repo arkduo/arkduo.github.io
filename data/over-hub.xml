@@ -6,9 +6,16 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】ドライブ仕様まとめ</title>
+            <link>https://over-hub.com/articles/drive-system/</link>
+            <description><![CDATA[ オーバーウォッチ(OW)のドライブイベントの仕様や報酬、シグネチャーの獲得方法について解説します。 ]]></description>
+            <guid></guid>
+            <pubDate>更新2026.04.10</pubDate>
+        </item>
+        <item>
             <title>新ヒーロー『シエラ』のゲームプレイトレーラー公開。リコンのアビリティとパークが判明</title>
             <link>https://over-hub.com/articles/sierra-gameplay-trailer-released/</link>
-            <description><![CDATA[ オーバーウォッチの新ヒーロー『シエラ』のゲームプレイトレーラーが公開。サブロールはリコンで、ヘリックスライフル、敵マーキング、アンカードローン、衝撃波ボム、爆撃ドローン型アルティメットの概要が明らかになりました。 ]]></description>
+            <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.10</pubDate>
         </item>
@@ -22,7 +29,7 @@
         <item>
             <title>アンランの顔ビジュアルがシーズン2（4月15日）から刷新</title>
             <link>https://over-hub.com/articles/anran-face-update-season2/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチ公式がアンランの顔モデル更新を発表。目・眉・口の造形と姿勢を修正し、より成熟したリーダーらしい表情へ。シーズン2開幕の4月15日（日本時間）から適用される。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.07</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 2026年4月2日配信のオーバーウォッチ（OW）パッチノート詳細。期間限定アーケードモード「アンダーウォッチ」の公式パッチノートを日本語で掲載。 ]]></description>
             <guid></guid>
             <pubDate>更新2026.04.02</pubDate>
-        </item>
-        <item>
-            <title>『オーバーウォッチ』新作WEBTOON『Overwatch: Undivided』公開。タロン襲撃後の物語を描く40話構成</title>
-            <link>https://over-hub.com/articles/overwatch-undivided-webtoon/</link>
-            <description><![CDATA[ Blizzardが新作WEBTOON『Overwatch: Undivided』を公開。ウォッチポイント・ジブラルタル襲撃後の世界を舞台に、ソジョーンたちOverwatchの再結集とタロンとの戦いが描かれます。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.01</pubDate>
         </item>
     </channel>
 </rss>
