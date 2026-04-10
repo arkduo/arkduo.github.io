@@ -6,23 +6,30 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>【OW】ドライブ仕様まとめ</title>
-            <link>https://over-hub.com/articles/drive-system/</link>
-            <description><![CDATA[ オーバーウォッチ(OW)のドライブイベントの仕様や報酬、シグネチャーの獲得方法について解説します。 ]]></description>
+            <title>新ヒーロー『シエラ』のゲームプレイトレーラー公開。アビリティとパークが判明</title>
+            <link>https://over-hub.com/articles/sierra-gameplay-trailer-released/</link>
+            <description><![CDATA[ オーバーウォッチの新ヒーロー『シエラ』のゲームプレイトレーラーが公開。サブロールはリコンで、ヘリックス・ライフル、トラッキング・ショット、アンカー・ドローン、トレマー・チャージ、トレイルブレイザーの概要が明らかになりました。 ]]></description>
             <guid></guid>
             <pubDate>更新2026.04.10</pubDate>
         </item>
         <item>
-            <title>新ヒーロー『シエラ』のゲームプレイトレーラー公開。リコンのアビリティとパークが判明</title>
-            <link>https://over-hub.com/articles/sierra-gameplay-trailer-released/</link>
+            <title>シーズン1「ドライブ」開幕。日本時間4月15日まで限定開催</title>
+            <link>https://over-hub.com/articles/drive-season1/</link>
             <description><![CDATA[  ]]></description>
             <guid></guid>
             <pubDate>2026.04.10</pubDate>
         </item>
         <item>
+            <title>【OW】ドライブ仕様まとめ</title>
+            <link>https://over-hub.com/articles/drive-system/</link>
+            <description><![CDATA[  ]]></description>
+            <guid></guid>
+            <pubDate>更新2026.04.10</pubDate>
+        </item>
+        <item>
             <title>【速報】新DPSヒーロー『シエラ』トレーラー公開。飛行ドローンや高火力射撃を確認</title>
             <link>https://over-hub.com/articles/sierra-trailer-released/</link>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ オーバーウォッチの新ダメージヒーロー『シエラ』のヒーロートレーラーが公開。鳥型ドローンによる飛行、高火力の射撃、刺さった弾に追撃するようなアクションが映像内で確認できます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.09</pubDate>
         </item>
@@ -81,13 +88,6 @@
             <description><![CDATA[ 2026年4月2日時点でのオーバーウォッチの既知の不具合リスト。アンダーウォッチでのジャンカー・クイーンとレッキング・ボールの無効化、ウィンストンとジャンクラットの不具合、ライバル・プレイ報酬、アンランの武器スキン表示不具合など。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.02</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年4月2日 パッチノート – エイプリルフール「アンダーウォッチ」</title>
-            <link>https://over-hub.com/articles/2026-04-02/</link>
-            <description><![CDATA[ 2026年4月2日配信のオーバーウォッチ（OW）パッチノート詳細。期間限定アーケードモード「アンダーウォッチ」の公式パッチノートを日本語で掲載。 ]]></description>
-            <guid></guid>
-            <pubDate>更新2026.04.02</pubDate>
         </item>
     </channel>
 </rss>
