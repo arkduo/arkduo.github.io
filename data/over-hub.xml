@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「次にベースキット化されるべきパークは？」みんなの反応</title>
+            <link>https://over-hub.com/articles/base-kit-perks-debate/</link>
+            <description><![CDATA[ マーシー、リーパー、ファラの一部パークがベースキット化される流れを受け、Redditでは次に通常キットへ組み込むべきパークは何かという議論が活発化。ライフウィーバーやベンチャーの案に加え、パーク選択UIそのものへの不満も多く集まっています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.12</pubDate>
+        </item>
+        <item>
             <title>【OW】マーシー・リーパー・ファラの一部パークが基本アビリティ化へ 投票カード復活やマップ投票改善も</title>
             <link>https://over-hub.com/articles/directors-take-small-steps/</link>
             <description><![CDATA[ オーバーウォッチ公式がシーズン2とそれ以降の改善方針を公開。マーシー・リーパー・ファラの一部パーク基本アビリティ化、マッチ後投票カード復活、ポストマッチVC追加、マップ投票改善、今後のヒーローリワーク検討を整理する。 ]]></description>
@@ -81,13 +88,6 @@
             <description><![CDATA[ シーズン1開始以降に発生していたFPS低下問題に対応する更新が配信されました。公式は改善を検証中としており、すべての環境で解消するかは引き続き確認が必要です。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.03</pubDate>
-        </item>
-        <item>
-            <title>【OW】「フィーカは二重スパイ？」Redditで“黒幕説”が盛り上がる</title>
-            <link>https://over-hub.com/articles/fika-double-agent-theory/</link>
-            <description><![CDATA[ Redditで「フィーカはOverwatchに紛れ込んだ二重スパイではないか」という説が話題に。ジブラルタル襲撃やフィーカの素性を手がかりに、さまざまな考察が飛び交っています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.02</pubDate>
         </item>
     </channel>
 </rss>
