@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【お知らせ】アビリティの「キーワード」説明を追加</title>
+            <link>https://over-hub.com/articles/keyword-pages-added/</link>
+            <description><![CDATA[ ゲーム内で表示される「キーワード」の説明を追加しました。ヒーローページ・一覧ページ・詳細ページから、意味や該当アビリティを確認できます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.17</pubDate>
+        </item>
+        <item>
             <title>既知の不具合リスト (2026年4月16日更新)</title>
             <link>https://over-hub.com/articles/2026-04-16-known-issues/</link>
             <description><![CDATA[ 2026年4月16日時点でのオーバーウォッチの既知の不具合リスト。スコアボード表示中のジャンプ不可、Nintendo Switch 2版のFPS制限、Xbox Oneのキーボード・マウス操作不具合、未配信コスメ、スタジアムでのマップ無効化などを整理。 ]]></description>
@@ -20,11 +27,11 @@
             <pubDate>2026.04.15</pubDate>
         </item>
         <item>
-            <title>【OW超大型アップデートまとめ】2026年4月15日 パッチノート：シーズン2「大いなる頂」</title>
-            <link>https://over-hub.com/articles/2026-04-15/</link>
-            <description><![CDATA[ 2026年4月15日配信のオーバーウォッチ パッチノート。シーズン2「大いなる頂」開幕、新ヒーロー「シエラ」、戦績称賛の復活、南極半島リワーク、スタジアム更新、ヒーロー調整、不具合修正を掲載。 ]]></description>
+            <title>【お知らせ】アビリティの「キーワード」説明を追加</title>
+            <link>https://over-hub.com/articles/keyword-pages-added/</link>
+            <description><![CDATA[ ゲーム内で表示される「キーワード」の説明を追加しました。ヒーローページ・一覧ページ・詳細ページから、意味や該当アビリティを確認できます。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.15</pubDate>
+            <pubDate>2026.04.17</pubDate>
         </item>
         <item>
             <title>既知の不具合リスト (2026年4月16日更新)</title>
@@ -39,13 +46,6 @@
             <description><![CDATA[ オーバーウォッチのシーズン2『大いなる頂』判明した内容を整理。新ヒーロー「シエラ」、オペレーション：グランド・メサ、マッチ後投票機能、ANTARCTIC PENINSULA、バトルパス、スタジアム更新などをまとめて紹介します。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.14</pubDate>
-        </item>
-        <item>
-            <title>【OW】マーシー・リーパー・ファラの一部パークが基本アビリティ化へ 投票カード復活やマップ投票改善も</title>
-            <link>https://over-hub.com/articles/directors-take-small-steps/</link>
-            <description><![CDATA[ オーバーウォッチ公式がシーズン2とそれ以降の改善方針を公開。マーシー・リーパー・ファラの一部パーク基本アビリティ化、マッチ後投票カード復活、ポストマッチVC追加、マップ投票改善、今後のヒーローリワーク検討を整理する。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.11</pubDate>
         </item>
         <item>
             <title>1週間を振り返る：ジュノ・ドミナのSFX制作の裏側</title>
@@ -111,6 +111,13 @@
             <pubDate>2026.04.01</pubDate>
         </item>
         <item>
+            <title>【OW超大型アップデートまとめ】2026年4月15日 パッチノート：シーズン2「大いなる頂」</title>
+            <link>https://over-hub.com/articles/2026-04-15/</link>
+            <description><![CDATA[ 2026年4月15日配信のオーバーウォッチ パッチノート。シーズン2「大いなる頂」開幕、新ヒーロー「シエラ」、戦績称賛の復活、南極半島リワーク、スタジアム更新、ヒーロー調整、不具合修正を掲載。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.15</pubDate>
+        </item>
+        <item>
             <title>【OW】シーズン2『大いなる頂』事前情報まとめ！シエラ、オペレーション：グランド・メサ、スタジアム更新など詳細公開</title>
             <link>https://over-hub.com/articles/season2-grand-summit-overview/</link>
             <description><![CDATA[ オーバーウォッチのシーズン2『大いなる頂』判明した内容を整理。新ヒーロー「シエラ」、オペレーション：グランド・メサ、マッチ後投票機能、ANTARCTIC PENINSULA、バトルパス、スタジアム更新などをまとめて紹介します。 ]]></description>
@@ -167,11 +174,11 @@
             <pubDate>2026.04.10</pubDate>
         </item>
         <item>
-            <title>【速報】新DPSヒーロー『シエラ』トレーラー公開。飛行ドローンや高火力射撃を確認</title>
-            <link>https://over-hub.com/articles/sierra-trailer-released/</link>
-            <description><![CDATA[ オーバーウォッチの新ダメージヒーロー『シエラ』のヒーロートレーラーが公開。鳥型ドローンによる飛行、高火力の射撃、刺さった弾に追撃するようなアクションが映像内で確認できます。 ]]></description>
+            <title>【OW】マーシー・リーパー・ファラの一部パークが基本アビリティ化へ 投票カード復活やマップ投票改善も</title>
+            <link>https://over-hub.com/articles/directors-take-small-steps/</link>
+            <description><![CDATA[ オーバーウォッチ公式がシーズン2とそれ以降の改善方針を公開。マーシー・リーパー・ファラの一部パーク基本アビリティ化、マッチ後投票カード復活、ポストマッチVC追加、マップ投票改善、今後のヒーローリワーク検討を整理する。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.09</pubDate>
+            <pubDate>2026.04.11</pubDate>
         </item>
         <item>
             <title>新ヒーロー『シエラ』のゲームプレイトレーラー公開。アビリティとパークが判明</title>
@@ -228,13 +235,6 @@
             <description><![CDATA[ シーズン1開始以降に発生していたFPS低下問題に対応する更新が配信されました。公式は改善を検証中としており、すべての環境で解消するかは引き続き確認が必要です。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.03</pubDate>
-        </item>
-        <item>
-            <title>既知の不具合リスト (2026年4月2日更新)</title>
-            <link>https://over-hub.com/articles/2026-04-02-known-issues/</link>
-            <description><![CDATA[ 2026年4月2日時点でのオーバーウォッチの既知の不具合リスト。アンダーウォッチでのジャンカー・クイーンとレッキング・ボールの無効化、ウィンストンとジャンクラットの不具合、ライバル・プレイ報酬、アンランの武器スキン表示不具合など。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.02</pubDate>
         </item>
         <item>
             <title>【OWガイド】3大チーム構成を解説 — ダイブ・ラッシュ・ポーク</title>
