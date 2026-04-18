@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】2026年4月18日 パッチノート – シエラ強化のバランス・ホットフィックス</title>
+            <link>https://over-hub.com/articles/2026-04-18-sierra-hotfix/</link>
+            <description><![CDATA[ 2026年4月18日配信のオーバーウォッチ（OW）パッチノート。新ダメージヒーロー「シエラ」に対するバランス・ホットフィックスが実施され、メイン火力、トラッキング・ショット、アンカー・ドローン、メディドローンが強化されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.18</pubDate>
+        </item>
+        <item>
             <title>【OW】「機動力ナーフは楽しさを削る」サポート弱体化をめぐり議論</title>
             <link>https://over-hub.com/articles/support-movement-nerfs-debate/</link>
             <description><![CDATA[ 海外公式フォーラムで、サポートの機動力ナーフをめぐる議論が続いています。マーシー周辺の関連スレや Reddit の反応も含め、「強さ」以上に「楽しさを削られた」という受け止めが目立っています。 ]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[ ゲーム内で表示される「キーワード」の説明を追加しました。ヒーローページ・一覧ページ・詳細ページから、意味や該当アビリティを確認できます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.17</pubDate>
-        </item>
-        <item>
-            <title>既知の不具合リスト (2026年4月16日更新)</title>
-            <link>https://over-hub.com/articles/2026-04-16-known-issues/</link>
-            <description><![CDATA[ 2026年4月16日時点でのオーバーウォッチの既知の不具合リスト。スコアボード表示中のジャンプ不可、Nintendo Switch 2版のFPS制限、Xbox Oneのキーボード・マウス操作不具合、未配信コスメ、スタジアムでのマップ無効化などを整理。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.16</pubDate>
         </item>
         <item>
             <title>【お知らせ】アビリティの「キーワード」説明を追加</title>
@@ -90,6 +90,13 @@
             <pubDate>2026.04.13</pubDate>
         </item>
         <item>
+            <title>【OW】2026年4月18日 パッチノート – シエラ強化のバランス・ホットフィックス</title>
+            <link>https://over-hub.com/articles/2026-04-18-sierra-hotfix/</link>
+            <description><![CDATA[ 2026年4月18日配信のオーバーウォッチ（OW）パッチノート。新ダメージヒーロー「シエラ」に対するバランス・ホットフィックスが実施され、メイン火力、トラッキング・ショット、アンカー・ドローン、メディドローンが強化されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.18</pubDate>
+        </item>
+        <item>
             <title>【OW超大型アップデートまとめ】2026年4月15日 パッチノート：シーズン2「大いなる頂」</title>
             <link>https://over-hub.com/articles/2026-04-15/</link>
             <description><![CDATA[ 2026年4月15日配信のオーバーウォッチ パッチノート。シーズン2「大いなる頂」開幕、新ヒーロー「シエラ」、戦績称賛の復活、南極半島リワーク、スタジアム更新、ヒーロー調整、不具合修正を掲載。 ]]></description>
@@ -104,11 +111,11 @@
             <pubDate>2026.04.02</pubDate>
         </item>
         <item>
-            <title>【OW】2026年4月1日 パッチノート – 不具合修正アップデート（スタジアム、エムレ、マーシー）</title>
-            <link>https://over-hub.com/articles/2026-04-01-bugfixes/</link>
-            <description><![CDATA[ 2026年4月1日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。スタジアムUIの非表示、エムレの銃の切り替わり、マーシーのマイシックスキンのダメージブーストビームに関する不具合が修正されました。 ]]></description>
+            <title>既知の不具合リスト (2026年4月16日更新)</title>
+            <link>https://over-hub.com/articles/2026-04-16-known-issues/</link>
+            <description><![CDATA[ 2026年4月16日時点でのオーバーウォッチの既知の不具合リスト。スコアボード表示中のジャンプ不可、Nintendo Switch 2版のFPS制限、Xbox Oneのキーボード・マウス操作不具合、未配信コスメ、スタジアムでのマップ無効化などを整理。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.01</pubDate>
+            <pubDate>2026.04.16</pubDate>
         </item>
         <item>
             <title>【OW】「アンランの顔かなり良くなった？」更新前後アイコン比較</title>
@@ -163,13 +170,6 @@
             <title>新ヒーロー『シエラ』のゲームプレイトレーラー公開。アビリティとパークが判明</title>
             <link>https://over-hub.com/articles/sierra-gameplay-trailer-released/</link>
             <description><![CDATA[ オーバーウォッチの新ヒーロー『シエラ』のゲームプレイトレーラーが公開。サブロールはリコンで、ヘリックス・ライフル、トラッキング・ショット、アンカー・ドローン、トレマー・チャージ、トレイルブレイザーの概要が明らかになりました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.10</pubDate>
-        </item>
-        <item>
-            <title>シーズン1「ドライブ」開幕。日本時間4月15日まで限定開催</title>
-            <link>https://over-hub.com/articles/drive-season1/</link>
-            <description><![CDATA[ シーズン1のドライブイベントが日本時間4月15日まで開催。今シーズンのドライブ・シグネチャーと参加前に押さえたい要点をまとめています。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.10</pubDate>
         </item>
@@ -363,6 +363,13 @@
             <pubDate>2026.03.01</pubDate>
         </item>
         <item>
+            <title>【OW】2026年4月1日 パッチノート – 不具合修正アップデート（スタジアム、エムレ、マーシー）</title>
+            <link>https://over-hub.com/articles/2026-04-01-bugfixes/</link>
+            <description><![CDATA[ 2026年4月1日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。スタジアムUIの非表示、エムレの銃の切り替わり、マーシーのマイシックスキンのダメージブーストビームに関する不具合が修正されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.01</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年3月13日 パッチノート – 緊急修正（ジェットパック・キャット、ノックバック）</title>
             <link>https://over-hub.com/articles/2026-03-13-hotfix/</link>
             <description><![CDATA[ 2026年3月13日配信のオーバーウォッチ（OW）緊急修正パッチノート。ジェットパック・キャットのパーク「ひっかき攻撃」のクールダウンが意図した6秒ではなく8秒になっていた不具合と、一部のノックバック・引き寄せ効果の距離が短くなっていた不具合が修正されました。 ]]></description>
@@ -415,13 +422,6 @@
             <title>【超大型アップデートまとめ】2026年2月11日 パッチノート：シーズン1「タロンの台頭」</title>
             <link>https://over-hub.com/articles/2026-02-11/</link>
             <description><![CDATA[ オーバーウォッチの2026年2月11日パッチノート。シーズン1「タロンの台頭」、コンクエスト・イベント、コミュニケーション機能の刷新、不具合修正など。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.11</pubDate>
-        </item>
-        <item>
-            <title>【超大型アップデートまとめ: スタジアム】2026年2月11日 スタジアム・アップデート：シーズン1「タロンの台頭」</title>
-            <link>https://over-hub.com/articles/2026-02-11-stadium/</link>
-            <description><![CDATA[ オーバーウォッチの2026年2月11日スタジアム・パッチノート。新ヒーロー、アイテム調整、マップ追加など。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.11</pubDate>
         </item>
