@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【お知らせ】アンチピック検索ページを追加</title>
+            <link>https://over-hub.com/articles/anti-pick-search-added/</link>
+            <description><![CDATA[ ヒーローを選ぶだけで、アンチピック候補と不利なヒーローを確認できる「アンチピック検索」ページを追加しました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.26</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年4月24日 パッチノート – ロードホッグ、ソンブラ、ヴェンデッタ調整とスタジアム更新</title>
             <link>https://over-hub.com/articles/2026-04-24-hotfix/</link>
             <description><![CDATA[ 2026年4月24日配信のオーバーウォッチ（OW）パッチノート。ロードホッグ、ソンブラ、ヴェンデッタのバランス・ホットフィックスに加え、ハザード、ジャンカー・クイーン、ラマットラなどのスタジアム調整と不具合修正が実施されました。 ]]></description>
@@ -20,11 +27,11 @@
             <pubDate>2026.04.24</pubDate>
         </item>
         <item>
-            <title>OW新コミック『クロスロード』公開。アッシュとの再会とグランド・メサ襲撃の裏側が描かれる</title>
-            <link>https://over-hub.com/articles/crossroads-comic-released/</link>
-            <description><![CDATA[ オーバーウォッチの新ストーリーコミック『クロスロード』日本語版が公開。デッドロック・ギャングによるグランド・メサ襲撃を追うキャスディとアッシュの再会、そしてタロンの関与が示唆される一連の流れが描かれます。 ]]></description>
+            <title>【お知らせ】アンチピック検索ページを追加</title>
+            <link>https://over-hub.com/articles/anti-pick-search-added/</link>
+            <description><![CDATA[ ヒーローを選ぶだけで、アンチピック候補と不利なヒーローを確認できる「アンチピック検索」ページを追加しました。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.24</pubDate>
+            <pubDate>2026.04.26</pubDate>
         </item>
         <item>
             <title>【OW】『オーバーウォッチ』×『ディアブロ』コラボ第2弾「憎悪の審判」が4月29日より開催</title>
@@ -39,13 +46,6 @@
             <description><![CDATA[ オーバーウォッチの新ストーリーコミック『クロスロード』日本語版が公開。デッドロック・ギャングによるグランド・メサ襲撃を追うキャスディとアッシュの再会、そしてタロンの関与が示唆される一連の流れが描かれます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.24</pubDate>
-        </item>
-        <item>
-            <title>【OW】ドイツ語版では声優交代が相次ぐ</title>
-            <link>https://over-hub.com/articles/german-dub-ai-clause-voice-actors/</link>
-            <description><![CDATA[ オーバーウォッチのドイツ語版で、原担当声優のストや降板、代替音声の混在が発生しているとみられています。争点はAI音声そのものではなく、MicrosoftのAI学習利用条項をめぐる契約問題だと説明されています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.19</pubDate>
         </item>
         <item>
             <title>【OW】ライフウィーバー、ついに環境入り？勝率が急上昇</title>
@@ -111,6 +111,13 @@
             <pubDate>2026.04.15</pubDate>
         </item>
         <item>
+            <title>OW新コミック『クロスロード』公開。アッシュとの再会とグランド・メサ襲撃の裏側が描かれる</title>
+            <link>https://over-hub.com/articles/crossroads-comic-released/</link>
+            <description><![CDATA[ オーバーウォッチの新ストーリーコミック『クロスロード』日本語版が公開。デッドロック・ギャングによるグランド・メサ襲撃を追うキャスディとアッシュの再会、そしてタロンの関与が示唆される一連の流れが描かれます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.24</pubDate>
+        </item>
+        <item>
             <title>【OW】ライフウィーバー、ついに環境入り？勝率が急上昇</title>
             <link>https://over-hub.com/articles/lifeweaver-win-rate-regions-2026-04-19/</link>
             <description><![CDATA[ シーズン2の強化を受け、ライフウィーバーの勝率がマスター帯で上昇。南北アメリカでは53%でサポート2位、ヨーロッパでも51.5%で4位に入り、地域差のある伸びが見えています。 ]]></description>
@@ -167,11 +174,11 @@
             <pubDate>2026.04.15</pubDate>
         </item>
         <item>
-            <title>【OW】シーズン2『大いなる頂』事前情報まとめ！シエラ、オペレーション：グランド・メサ、スタジアム更新など詳細公開</title>
-            <link>https://over-hub.com/articles/season2-grand-summit-overview/</link>
-            <description><![CDATA[ オーバーウォッチのシーズン2『大いなる頂』判明した内容を整理。新ヒーロー「シエラ」、オペレーション：グランド・メサ、マッチ後投票機能、ANTARCTIC PENINSULA、バトルパス、スタジアム更新などをまとめて紹介します。 ]]></description>
+            <title>【OW】ドイツ語版では声優交代が相次ぐ</title>
+            <link>https://over-hub.com/articles/german-dub-ai-clause-voice-actors/</link>
+            <description><![CDATA[ オーバーウォッチのドイツ語版で、原担当声優のストや降板、代替音声の混在が発生しているとみられています。争点はAI音声そのものではなく、MicrosoftのAI学習利用条項をめぐる契約問題だと説明されています。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.14</pubDate>
+            <pubDate>2026.04.19</pubDate>
         </item>
         <item>
             <title>【お知らせ】アビリティの「キーワード」説明を追加</title>
@@ -228,13 +235,6 @@
             <description><![CDATA[ オーバーウォッチの新ダメージヒーロー『シエラ』のヒーロートレーラーが公開。鳥型ドローンによる飛行、高火力の射撃、刺さった弾に追撃するようなアクションが映像内で確認できます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.09</pubDate>
-        </item>
-        <item>
-            <title>アンランの顔ビジュアルがシーズン2（4月15日）から刷新</title>
-            <link>https://over-hub.com/articles/anran-face-update-season2/</link>
-            <description><![CDATA[ オーバーウォッチ公式がアンランの顔モデル更新を発表。目・眉・口の造形と姿勢を修正し、より成熟したリーダーらしい表情へ。シーズン2開幕の4月15日（日本時間）から適用される。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.07</pubDate>
         </item>
         <item>
             <title>「ジェットパック・キャット」実装までの軌跡：開発チームが語る舞台裏</title>
