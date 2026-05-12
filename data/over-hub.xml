@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】2026年5月13日 パッチノート – 10周年アニバーサリー、マーシー調整、スタジアムにジェットパック・キャット登場</title>
+            <link>https://over-hub.com/articles/2026-05-13/</link>
+            <description><![CDATA[ 2026年5月13日配信のオーバーウォッチ（OW）パッチノート。10周年アニバーサリーの開始、マーシーやルシオなどのヒーロー調整、ライバル・プレイ参加要件の変更、スタジアムへのジェットパック・キャット追加と各種調整を掲載。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.13</pubDate>
+        </item>
+        <item>
             <title>OW公式、南極マップ大型リワークの舞台裏を公開。暗さ・狭さ・分かりにくさを改善</title>
             <link>https://over-hub.com/articles/antarctic-peninsula-rework-behind-the-scenes/</link>
             <description><![CDATA[ オーバーウォッチ公式ブログ『1週間を振り返る：「新南極マップ」の裏側を大冒険』が公開。ANTARCTIC PENINSULAのリワーク理由や、掘削リグ・砕氷船・アノマリー各エリアの具体的な改修内容が紹介されています。 ]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[ 2026年4月29日配信のオーバーウォッチ（OW）パッチノート。スコアボード表示中にジャンプできない不具合と、ラマットラのアルティメット音量不具合が修正され、期間限定モード「4v4 Evolved」も開始されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.29</pubDate>
-        </item>
-        <item>
-            <title>OW公式、新ヒーロー「シエラ」の誕生秘話を公開。母の失踪と強化兵計画のつながりが明らかに</title>
-            <link>https://over-hub.com/articles/sierra-origin-story-weekly-recall/</link>
-            <description><![CDATA[ オーバーウォッチ公式ブログ『1週間を振り返る：新ヒーロー「シエラ」誕生秘話』が公開。シエラの母ケンドラが強化兵計画の最初の被験者だったことや、文化監修と声優起用を通じたキャラクター作りの背景が語られています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.28</pubDate>
         </item>
         <item>
             <title>OW公式、南極マップ大型リワークの舞台裏を公開。暗さ・狭さ・分かりにくさを改善</title>
@@ -90,6 +90,13 @@
             <pubDate>2026.04.13</pubDate>
         </item>
         <item>
+            <title>【OW】2026年5月13日 パッチノート – 10周年アニバーサリー、マーシー調整、スタジアムにジェットパック・キャット登場</title>
+            <link>https://over-hub.com/articles/2026-05-13/</link>
+            <description><![CDATA[ 2026年5月13日配信のオーバーウォッチ（OW）パッチノート。10周年アニバーサリーの開始、マーシーやルシオなどのヒーロー調整、ライバル・プレイ参加要件の変更、スタジアムへのジェットパック・キャット追加と各種調整を掲載。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.13</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年4月29日 パッチノート – ジャンプ不具合修正と「4v4 Evolved」</title>
             <link>https://over-hub.com/articles/2026-04-29/</link>
             <description><![CDATA[ 2026年4月29日配信のオーバーウォッチ（OW）パッチノート。スコアボード表示中にジャンプできない不具合と、ラマットラのアルティメット音量不具合が修正され、期間限定モード「4v4 Evolved」も開始されました。 ]]></description>
@@ -104,11 +111,11 @@
             <pubDate>2026.04.24</pubDate>
         </item>
         <item>
-            <title>【OW】2026年4月18日 パッチノート – シエラ強化のバランス・ホットフィックス</title>
-            <link>https://over-hub.com/articles/2026-04-18-sierra-hotfix/</link>
-            <description><![CDATA[ 2026年4月18日配信のオーバーウォッチ（OW）パッチノート。新ダメージヒーロー「シエラ」に対するバランス・ホットフィックスが実施され、メイン火力、トラッキング・ショット、アンカー・ドローン、メディドローンが強化されました。 ]]></description>
+            <title>OW公式、新ヒーロー「シエラ」の誕生秘話を公開。母の失踪と強化兵計画のつながりが明らかに</title>
+            <link>https://over-hub.com/articles/sierra-origin-story-weekly-recall/</link>
+            <description><![CDATA[ オーバーウォッチ公式ブログ『1週間を振り返る：新ヒーロー「シエラ」誕生秘話』が公開。シエラの母ケンドラが強化兵計画の最初の被験者だったことや、文化監修と声優起用を通じたキャラクター作りの背景が語られています。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.18</pubDate>
+            <pubDate>2026.04.28</pubDate>
         </item>
         <item>
             <title>【お知らせ】アンチピック検索ページを追加</title>
@@ -165,13 +172,6 @@
             <description><![CDATA[ 海外公式フォーラムで、サポートの機動力ナーフをめぐる議論が続いています。マーシー周辺の関連スレや Reddit の反応も含め、「強さ」以上に「楽しさを削られた」という受け止めが目立っています。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.18</pubDate>
-        </item>
-        <item>
-            <title>【お知らせ】アビリティの「キーワード」説明を追加</title>
-            <link>https://over-hub.com/articles/keyword-pages-added/</link>
-            <description><![CDATA[ ゲーム内で表示される「キーワード」の説明を追加しました。ヒーローページ・一覧ページ・詳細ページから、意味や該当アビリティを確認できます。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.17</pubDate>
         </item>
         <item>
             <title>【OW】『オーバーウォッチ』×『ディアブロ』コラボ第2弾「憎悪の審判」が4月29日より開催</title>
@@ -363,6 +363,13 @@
             <pubDate>2026.03.01</pubDate>
         </item>
         <item>
+            <title>【OW】2026年4月18日 パッチノート – シエラ強化のバランス・ホットフィックス</title>
+            <link>https://over-hub.com/articles/2026-04-18-sierra-hotfix/</link>
+            <description><![CDATA[ 2026年4月18日配信のオーバーウォッチ（OW）パッチノート。新ダメージヒーロー「シエラ」に対するバランス・ホットフィックスが実施され、メイン火力、トラッキング・ショット、アンカー・ドローン、メディドローンが強化されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.18</pubDate>
+        </item>
+        <item>
             <title>【OW超大型アップデートまとめ】2026年4月15日 パッチノート：シーズン2「大いなる頂」</title>
             <link>https://over-hub.com/articles/2026-04-15/</link>
             <description><![CDATA[ 2026年4月15日配信のオーバーウォッチ パッチノート。シーズン2「大いなる頂」開幕、新ヒーロー「シエラ」、戦績称賛の復活、南極半島リワーク、スタジアム更新、ヒーロー調整、不具合修正を掲載。 ]]></description>
@@ -417,13 +424,6 @@
             <description><![CDATA[ 2026年2月25日配信のオーバーウォッチ（OW）パッチノート詳細。ジェットパック・キャット、ヴェンデッタ、エムレ、アンラン等のバランス調整に加え、多数の不具合修正が行われました。 ]]></description>
             <guid></guid>
             <pubDate>2026.02.25</pubDate>
-        </item>
-        <item>
-            <title>【OW】最新パッチノート（2026年2月19日）– トールビョーン、レッキング・ボール等のバグ修正</title>
-            <link>https://over-hub.com/articles/2026-02-19/</link>
-            <description><![CDATA[ 2026年2月19日配信のオーバーウォッチ（OW）最新パッチノート詳細。トールビョーン、レッキング・ボール等のバグ修正。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.19</pubDate>
         </item>
     </channel>
 </rss>
