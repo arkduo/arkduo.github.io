@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】Aaron Keller氏、10周年に初期開発の舞台裏を公開。Titan後の試作からTemple of Anubisまで</title>
+            <link>https://over-hub.com/articles/aaron-keller-overwatch-10th-development-story/</link>
+            <description><![CDATA[ オーバーウォッチ開発ディレクターのAaron Keller氏が、10周年にあわせて初期開発の舞台裏を公開。Project Titan後の試作、コードネームPrometheus、Temple of Anubis、2013年から2014年の開発節目を整理します。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.25</pubDate>
+        </item>
+        <item>
             <title>【OW】10周年テーマの舞台裏動画が公開。フルオーケストラ収録の様子を紹介</title>
             <link>https://over-hub.com/articles/10th-anniversary-theme-behind-the-scenes/</link>
             <description><![CDATA[ オーバーウォッチ公式が、10周年テーマ『10周年記念組曲』の舞台裏動画を公開。フルオーケストラで収録された記念テーマの制作風景を確認できます。 ]]></description>
@@ -20,11 +27,11 @@
             <pubDate>2026.05.22</pubDate>
         </item>
         <item>
-            <title>【OW】新ストーリー『進歩』。モイラの実験記録からヴェンデッタの強化剤計画が描かれる</title>
-            <link>https://over-hub.com/articles/story-progress/</link>
-            <description><![CDATA[ オーバーウォッチの新ストーリー『進歩』日本語版が公開。モイラの音声記録を通じて、グランド・メサから奪われた強化剤、ヴェンデッタの出資、プロジェクト・キマイラの実験が描かれます。 ]]></description>
+            <title>【OW】Aaron Keller氏、10周年に初期開発の舞台裏を公開。Titan後の試作からTemple of Anubisまで</title>
+            <link>https://over-hub.com/articles/aaron-keller-overwatch-10th-development-story/</link>
+            <description><![CDATA[ オーバーウォッチ開発ディレクターのAaron Keller氏が、10周年にあわせて初期開発の舞台裏を公開。Project Titan後の試作、コードネームPrometheus、Temple of Anubis、2013年から2014年の開発節目を整理します。 ]]></description>
             <guid></guid>
-            <pubDate>2026.05.21</pubDate>
+            <pubDate>2026.05.25</pubDate>
         </item>
         <item>
             <title>【OW】10周年テーマの舞台裏動画が公開。フルオーケストラ収録の様子を紹介</title>
@@ -39,13 +46,6 @@
             <description><![CDATA[ オーバーウォッチの新ストーリー『進歩』日本語版が公開。モイラの音声記録を通じて、グランド・メサから奪われた強化剤、ヴェンデッタの出資、プロジェクト・キマイラの実験が描かれます。 ]]></description>
             <guid></guid>
             <pubDate>2026.05.21</pubDate>
-        </item>
-        <item>
-            <title>【OW】アナの日本語版声優が交代。榊原良子さんが卒業し、後任ははやみけいさんに</title>
-            <link>https://over-hub.com/articles/ana-japanese-voice-actor-change/</link>
-            <description><![CDATA[ オーバーウォッチ公式が、アナ・アマリの日本語音声担当について、榊原良子さんの卒業とはやみけいさんへの引き継ぎを発表しました。発表内容を整理します。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.05.15</pubDate>
         </item>
         <item>
             <title>1週間を振り返る：ジュノ・ドミナのSFX制作の裏側</title>
@@ -111,6 +111,13 @@
             <pubDate>2026.04.29</pubDate>
         </item>
         <item>
+            <title>【OW】新ストーリー『進歩』。モイラの実験記録からヴェンデッタの強化剤計画が描かれる</title>
+            <link>https://over-hub.com/articles/story-progress/</link>
+            <description><![CDATA[ オーバーウォッチの新ストーリー『進歩』日本語版が公開。モイラの音声記録を通じて、グランド・メサから奪われた強化剤、ヴェンデッタの出資、プロジェクト・キマイラの実験が描かれます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.21</pubDate>
+        </item>
+        <item>
             <title>【OW】アナの日本語版声優が交代。榊原良子さんが卒業し、後任ははやみけいさんに</title>
             <link>https://over-hub.com/articles/ana-japanese-voice-actor-change/</link>
             <description><![CDATA[ オーバーウォッチ公式が、アナ・アマリの日本語音声担当について、榊原良子さんの卒業とはやみけいさんへの引き継ぎを発表しました。発表内容を整理します。 ]]></description>
@@ -167,11 +174,11 @@
             <pubDate>2026.04.28</pubDate>
         </item>
         <item>
-            <title>【お知らせ】アンチピック検索ページを追加</title>
-            <link>https://over-hub.com/articles/anti-pick-search-added/</link>
-            <description><![CDATA[ ヒーローを選ぶだけで、アンチピック候補と不利なヒーローを確認できる「アンチピック検索」ページを追加しました。 ]]></description>
+            <title>【OW】アナの日本語版声優が交代。榊原良子さんが卒業し、後任ははやみけいさんに</title>
+            <link>https://over-hub.com/articles/ana-japanese-voice-actor-change/</link>
+            <description><![CDATA[ オーバーウォッチ公式が、アナ・アマリの日本語音声担当について、榊原良子さんの卒業とはやみけいさんへの引き継ぎを発表しました。発表内容を整理します。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.26</pubDate>
+            <pubDate>2026.05.15</pubDate>
         </item>
         <item>
             <title>【OW】トレーサー、マーシー、ゲンジ、D.Vaが『フォートナイト』に登場。6月5日までの期間限定コラボ</title>
@@ -228,13 +235,6 @@
             <description><![CDATA[ オーバーウォッチの新ストーリーコミック『クロスロード』日本語版が公開。デッドロック・ギャングによるグランド・メサ襲撃を追うキャスディとアッシュの再会、そしてタロンの関与が示唆される一連の流れが描かれます。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.24</pubDate>
-        </item>
-        <item>
-            <title>【OW】ライフウィーバー、ついに環境入り？勝率が急上昇</title>
-            <link>https://over-hub.com/articles/lifeweaver-win-rate-regions-2026-04-19/</link>
-            <description><![CDATA[ シーズン2の強化を受け、ライフウィーバーの勝率がマスター帯で上昇。南北アメリカでは53%でサポート2位、ヨーロッパでも51.5%で4位に入り、地域差のある伸びが見えています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.19</pubDate>
         </item>
         <item>
             <title>【OWガイド】3大チーム構成を解説 — ダイブ・ラッシュ・ポーク</title>
