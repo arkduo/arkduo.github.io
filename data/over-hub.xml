@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】2026年5月27日 パッチノート – 不具合修正アップデート（ショップ、バトルパス、ナノ・ブースト）</title>
+            <link>https://over-hub.com/articles/2026-05-27-bugfixes/</link>
+            <description><![CDATA[ 2026年5月27日配信のオーバーウォッチ（OW）不具合修正パッチノート。ショップの通貨選択、マッチ後推薦のジャンカー・クイーンのスタッツ、バトルパスの残り時間、ナノ・ブーストのVFXに関する不具合が修正され、リプレイ・コードはリセットされています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.27</pubDate>
+        </item>
+        <item>
             <title>【OW】Aaron Keller氏、10周年に初期開発の舞台裏を公開。Titan後の試作からTemple of Anubisまで</title>
             <link>https://over-hub.com/articles/aaron-keller-overwatch-10th-development-story/</link>
             <description><![CDATA[ オーバーウォッチ開発ディレクターのAaron Keller氏が、10周年にあわせて初期開発の舞台裏を公開。Project Titan後の試作、コードネームPrometheus、Temple of Anubis、2013年から2014年の開発節目を整理します。 ]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[ オーバーウォッチ公式が、10周年テーマ『10周年記念組曲』の舞台裏動画を公開。フルオーケストラで収録された記念テーマの制作風景を確認できます。 ]]></description>
             <guid></guid>
             <pubDate>2026.05.23</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年5月22日 パッチノート – ジェットパック・キャットのスタジアム強化</title>
-            <link>https://over-hub.com/articles/2026-05-22/</link>
-            <description><![CDATA[ 2026年5月22日配信のオーバーウォッチ（OW）パッチノート。スタジアムのジェットパック・キャットに対するホットフィックスとして、バウンシング・ショット、ダブル・パウ・ショット、トイ・ボム、肉球スタンプが強化され、不具合修正も実施されました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.05.22</pubDate>
         </item>
         <item>
             <title>【OW】Aaron Keller氏、10周年に初期開発の舞台裏を公開。Titan後の試作からTemple of Anubisまで</title>
@@ -90,6 +90,13 @@
             <pubDate>2026.04.13</pubDate>
         </item>
         <item>
+            <title>【OW】2026年5月27日 パッチノート – 不具合修正アップデート（ショップ、バトルパス、ナノ・ブースト）</title>
+            <link>https://over-hub.com/articles/2026-05-27-bugfixes/</link>
+            <description><![CDATA[ 2026年5月27日配信のオーバーウォッチ（OW）不具合修正パッチノート。ショップの通貨選択、マッチ後推薦のジャンカー・クイーンのスタッツ、バトルパスの残り時間、ナノ・ブーストのVFXに関する不具合が修正され、リプレイ・コードはリセットされています。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.05.27</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年5月22日 パッチノート – ジェットパック・キャットのスタジアム強化</title>
             <link>https://over-hub.com/articles/2026-05-22/</link>
             <description><![CDATA[ 2026年5月22日配信のオーバーウォッチ（OW）パッチノート。スタジアムのジェットパック・キャットに対するホットフィックスとして、バウンシング・ショット、ダブル・パウ・ショット、トイ・ボム、肉球スタンプが強化され、不具合修正も実施されました。 ]]></description>
@@ -104,11 +111,11 @@
             <pubDate>2026.05.13</pubDate>
         </item>
         <item>
-            <title>【OW】2026年4月29日 パッチノート – ジャンプ不具合修正と「4v4 Evolved」</title>
-            <link>https://over-hub.com/articles/2026-04-29/</link>
-            <description><![CDATA[ 2026年4月29日配信のオーバーウォッチ（OW）パッチノート。スコアボード表示中にジャンプできない不具合と、ラマットラのアルティメット音量不具合が修正され、期間限定モード「4v4 Evolved」も開始されました。 ]]></description>
+            <title>【OW】2026年5月22日 パッチノート – ジェットパック・キャットのスタジアム強化</title>
+            <link>https://over-hub.com/articles/2026-05-22/</link>
+            <description><![CDATA[ 2026年5月22日配信のオーバーウォッチ（OW）パッチノート。スタジアムのジェットパック・キャットに対するホットフィックスとして、バウンシング・ショット、ダブル・パウ・ショット、トイ・ボム、肉球スタンプが強化され、不具合修正も実施されました。 ]]></description>
             <guid></guid>
-            <pubDate>2026.04.29</pubDate>
+            <pubDate>2026.05.22</pubDate>
         </item>
         <item>
             <title>【OW】新ストーリー『進歩』。モイラの実験記録からヴェンデッタの強化剤計画が描かれる</title>
@@ -165,13 +172,6 @@
             <description><![CDATA[ 2026年4月29日配信のオーバーウォッチ（OW）パッチノート。スコアボード表示中にジャンプできない不具合と、ラマットラのアルティメット音量不具合が修正され、期間限定モード「4v4 Evolved」も開始されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.04.29</pubDate>
-        </item>
-        <item>
-            <title>OW公式、新ヒーロー「シエラ」の誕生秘話を公開。母の失踪と強化兵計画のつながりが明らかに</title>
-            <link>https://over-hub.com/articles/sierra-origin-story-weekly-recall/</link>
-            <description><![CDATA[ オーバーウォッチ公式ブログ『1週間を振り返る：新ヒーロー「シエラ」誕生秘話』が公開。シエラの母ケンドラが強化兵計画の最初の被験者だったことや、文化監修と声優起用を通じたキャラクター作りの背景が語られています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.04.28</pubDate>
         </item>
         <item>
             <title>【OW】アナの日本語版声優が交代。榊原良子さんが卒業し、後任ははやみけいさんに</title>
@@ -363,6 +363,13 @@
             <pubDate>2026.03.01</pubDate>
         </item>
         <item>
+            <title>【OW】2026年4月29日 パッチノート – ジャンプ不具合修正と「4v4 Evolved」</title>
+            <link>https://over-hub.com/articles/2026-04-29/</link>
+            <description><![CDATA[ 2026年4月29日配信のオーバーウォッチ（OW）パッチノート。スコアボード表示中にジャンプできない不具合と、ラマットラのアルティメット音量不具合が修正され、期間限定モード「4v4 Evolved」も開始されました。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.04.29</pubDate>
+        </item>
+        <item>
             <title>【OW】2026年4月24日 パッチノート – ロードホッグ、ソンブラ、ヴェンデッタ調整とスタジアム更新</title>
             <link>https://over-hub.com/articles/2026-04-24-hotfix/</link>
             <description><![CDATA[ 2026年4月24日配信のオーバーウォッチ（OW）パッチノート。ロードホッグ、ソンブラ、ヴェンデッタのバランス・ホットフィックスに加え、ハザード、ジャンカー・クイーン、ラマットラなどのスタジアム調整と不具合修正が実施されました。 ]]></description>
@@ -417,13 +424,6 @@
             <description><![CDATA[ 2026年3月11日配信のオーバーウォッチ（OW）シーズン1中間パッチノート詳細。メディック・ブルーザー・イニシエーターのサブロール調整に加え、D.Va、ハザード、ラマットラ、ロードホッグ、アンラン、エムレ、ヴェンデッタ、イラリー、ジェットパック・キャット、ミズキのバランス調整が実施されました。 ]]></description>
             <guid></guid>
             <pubDate>2026.03.11</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年2月26日 パッチノート – 不具合修正アップデート（ドミナ、ファラ、6v6）</title>
-            <link>https://over-hub.com/articles/2026-02-26-bugfixes/</link>
-            <description><![CDATA[ 2026年2月26日配信のオーバーウォッチ（OW）不具合修正パッチノート詳細。ドミナのビーム・ダメージ計算やファラのパーク、6v6モードにおけるタンクの耐性などに関する不具合が修正されました。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.02.26</pubDate>
         </item>
     </channel>
 </rss>
