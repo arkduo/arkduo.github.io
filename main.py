@@ -98,17 +98,17 @@ def generate_rss_xml(articles, title, link, description, xml_filename):
 # --- メイン処理 ---
 if __name__ == "__main__":
     # サイトごとに記事取得
-    articles_d3watch = fetch_articles_d3watch()
+    # articles_d3watch = fetch_articles_d3watch()
     articles_over_hub = fetch_articles_over_hub()
 
     # サイトごとに個別RSS生成
-    generate_rss_xml(
-        articles_d3watch,
-        title='d3watch',
-        link='https://d3watch.gg',
-        description='',
-        xml_filename="data/d3watch.xml"
-    )
+    # generate_rss_xml(
+    #     articles_d3watch,
+    #     title='d3watch',
+    #     link='https://d3watch.gg',
+    #     description='',
+    #     xml_filename="data/d3watch.xml"
+    # )
     generate_rss_xml(
         articles_over_hub,
         title='over-hub',
