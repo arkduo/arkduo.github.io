@@ -6,6 +6,20 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】トップ500のプレイを学べる「ライブ・リプレイ」！見方と活用ポイントを解説</title>
+            <link>https://over-hub.com/articles/top-500-live-replay-guide/</link>
+            <description><![CDATA[ オーバーウォッチでトップ500プレイヤーの進行中マッチを視聴できる「ライブ・リプレイ」の見方と活用ポイントを解説。ポジショニングや交戦判断など、トッププレイヤーのプレイから学べるポイントを紹介します。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.06.20</pubDate>
+        </item>
+        <item>
+            <title>【OW】2026年6月19日 パッチノート – 不具合修正アップデート（シオン、キリコ、スタジアム）</title>
+            <link>https://over-hub.com/articles/2026-06-19-bugfixes/</link>
+            <description><![CDATA[ 2026年6月19日配信のオーバーウォッチ（OW）不具合修正パッチノート。シオン、キリコ、ラマットラ、ドミナとスタジアムに関する不具合が修正され、リプレイ・コードはリセットされていません。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.06.19</pubDate>
+        </item>
+        <item>
             <title>【OW】ウルトラ・スキンとミシック・スキンの違いは？公式が両者の特徴を解説</title>
             <link>https://over-hub.com/articles/ultra-skins-weekly-recall/</link>
             <description><![CDATA[ オーバーウォッチの新コスメ「ウルトラ・スキン」は、ミシック・スキンと何が違うのか。カスタマイズ性と専用演出の違い、「にゃんカフェ」のVFX・効果音、敵側での見え方を公式ブログから整理します。 ]]></description>
@@ -13,25 +27,11 @@
             <pubDate>2026.06.19</pubDate>
         </item>
         <item>
-            <title>【OW】ロスター機能の仕様・設定方法｜ヒーローBANのマイナス3票も解説</title>
-            <link>https://over-hub.com/articles/roster-system/</link>
-            <description><![CDATA[ オーバーウォッチのロスター機能を解説。希望ヒーローの設定場所、3枠の仕様、試合前の表示、ヒーローBANで適用されるマイナス3票をまとめています。 ]]></description>
+            <title>【OW】2026年6月19日 パッチノート – 不具合修正アップデート（シオン、キリコ、スタジアム）</title>
+            <link>https://over-hub.com/articles/2026-06-19-bugfixes/</link>
+            <description><![CDATA[ 2026年6月19日配信のオーバーウォッチ（OW）不具合修正パッチノート。シオン、キリコ、ラマットラ、ドミナとスタジアムに関する不具合が修正され、リプレイ・コードはリセットされていません。 ]]></description>
             <guid></guid>
-            <pubDate>2026.06.18</pubDate>
-        </item>
-        <item>
-            <title>【OW】ヒーローBANの仕様・投票ルール｜ロビーBANも解説</title>
-            <link>https://over-hub.com/articles/hero-ban-system/</link>
-            <description><![CDATA[ オーバーウォッチのヒーローBANを解説。投票の重み、通常4BANの決定順、ロール上限、5人目のロビーBANが発生する条件をまとめています。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.06.18</pubDate>
-        </item>
-        <item>
-            <title>【OWスタジアムアップデートまとめ】2026年6月17日 パッチノート：シーズン3「虎の住処へ」</title>
-            <link>https://over-hub.com/articles/2026-06-17-stadium/</link>
-            <description><![CDATA[ 2026年6月17日配信のオーバーウォッチ（OW）シーズン3「虎の住処へ」スタジアム・パッチノート。スタジアム・ライバルのグループ制限撤廃、スタジアム登場ヒーロー33名の調整、一般アイテム変更、新マップ Oasis University、不具合修正を掲載。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.06.17</pubDate>
+            <pubDate>2026.06.19</pubDate>
         </item>
     </channel>
 </rss>
