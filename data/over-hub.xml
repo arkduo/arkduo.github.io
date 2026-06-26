@@ -6,25 +6,18 @@
         <description></description>
         <language>ja</language>
         <item>
-            <title>【OW】2026年6月24日 パッチノート – NEON JUNCTION調整ホットフィックス</title>
-            <link>https://over-hub.com/articles/2026-06-24-hotfix/</link>
-            <description><![CDATA[ 2026年6月24日配信のオーバーウォッチ（OW）ホットフィックス。新ハイブリッド用マップ「NEON JUNCTION」のペイロード移動速度と待機時間が調整され、6月16日パッチのリプレイ・コードは引き続き利用できます。 ]]></description>
+            <title>【OW】シーズン3序盤の勝率ランキングまとめ</title>
+            <link>https://over-hub.com/articles/season3-early-stat-leaders-2026-06-26/</link>
+            <description><![CDATA[ Blizzard公式統計をもとに、シーズン3序盤の勝率ランキングと分布マップを全ランク・マスター帯、キーボード&マウス・コントローラー別にまとめます。 ]]></description>
             <guid></guid>
-            <pubDate>2026.06.24</pubDate>
+            <pubDate>2026.06.26</pubDate>
         </item>
         <item>
-            <title>【OWスタジアムアップデートまとめ】2026年6月17日 パッチノート：シーズン3「虎の住処へ」</title>
-            <link>https://over-hub.com/articles/2026-06-17-stadium/</link>
-            <description><![CDATA[ 2026年6月17日配信のオーバーウォッチ（OW）シーズン3「虎の住処へ」スタジアム・パッチノート。スタジアム・ライバルのグループ制限撤廃、スタジアム登場ヒーロー33名の調整、一般アイテム変更、新マップ Oasis University、不具合修正を掲載。 ]]></description>
+            <title>【OW】2026年6月26日 パッチノート – シオン〈罰〉調整とスタジアム・ホットフィックス</title>
+            <link>https://over-hub.com/articles/2026-06-26/</link>
+            <description><![CDATA[ 2026年6月26日配信のオーバーウォッチ（OW）ホットフィックス。通常モードのシオン〈罰〉下方修正、スタジアムのハザード・ゲンジ・モイラなど複数ヒーローのパワー調整、共通アイテム変更、不具合修正を掲載。 ]]></description>
             <guid></guid>
-            <pubDate>2026.06.24</pubDate>
-        </item>
-        <item>
-            <title>【OWアップデートまとめ】2026年6月17日 パッチノート：シーズン3「虎の住処へ」</title>
-            <link>https://over-hub.com/articles/2026-06-17/</link>
-            <description><![CDATA[ 2026年6月17日配信のオーバーウォッチ（OW）シーズン3「虎の住処へ」開幕パッチノート。新ダメージヒーロー「シオン」、精霊抗争奇譚、ヒーローBAN更新、ロスター機能、通常モードのヒーロー調整、不具合修正を掲載。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.06.24</pubDate>
+            <pubDate>2026.06.26</pubDate>
         </item>
         <item>
             <title>【OW】2026年6月24日 パッチノート – NEON JUNCTION調整ホットフィックス</title>
@@ -32,6 +25,13 @@
             <description><![CDATA[ 2026年6月24日配信のオーバーウォッチ（OW）ホットフィックス。新ハイブリッド用マップ「NEON JUNCTION」のペイロード移動速度と待機時間が調整され、6月16日パッチのリプレイ・コードは引き続き利用できます。 ]]></description>
             <guid></guid>
             <pubDate>2026.06.24</pubDate>
+        </item>
+        <item>
+            <title>【OW】2026年6月26日 パッチノート – シオン〈罰〉調整とスタジアム・ホットフィックス</title>
+            <link>https://over-hub.com/articles/2026-06-26/</link>
+            <description><![CDATA[ 2026年6月26日配信のオーバーウォッチ（OW）ホットフィックス。通常モードのシオン〈罰〉下方修正、スタジアムのハザード・ゲンジ・モイラなど複数ヒーローのパワー調整、共通アイテム変更、不具合修正を掲載。 ]]></description>
+            <guid></guid>
+            <pubDate>NEW</pubDate>
         </item>
     </channel>
 </rss>
