@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】2026年7月1日 パッチノート – コミュニティ企画が実装！</title>
+            <link>https://over-hub.com/articles/2026-07-01-community-crafted/</link>
+            <description><![CDATA[ 2026年7月1日配信のオーバーウォッチ（OW）パッチノート。アーケードの期間限定モード「コミュニティ企画」、シオンを除く全ヒーローのイベント専用変更、サポート・サブロール変更、リプレイコード削除、不具合修正を掲載。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.07.01</pubDate>
+        </item>
+        <item>
             <title>【OW】YOASOBIコラボのゲームプレイ・トレーラー公開！6人のコラボ・スキンを紹介</title>
             <link>https://over-hub.com/articles/yoasobi-collab-gameplay-trailer/</link>
             <description><![CDATA[ 「オーバーウォッチ」×「YOASOBI」のゲームプレイ・トレーラーが公開。7月1日開幕のコラボで確認できるキリコ、ハンゾー、ゲンジ、ミズキ、ジュノ、アンランのスキンをムービーのスクショとコンセプトアートで紹介します。 ]]></description>
@@ -20,18 +27,11 @@
             <pubDate>2026.06.26</pubDate>
         </item>
         <item>
-            <title>【OW】2026年6月26日 パッチノート – シオン〈罰〉調整とスタジアム・ホットフィックス</title>
-            <link>https://over-hub.com/articles/2026-06-26/</link>
-            <description><![CDATA[ 2026年6月26日配信のオーバーウォッチ（OW）ホットフィックス。通常モードのシオン〈罰〉下方修正、スタジアムのハザード・ゲンジ・モイラなど複数ヒーローのパワー調整、共通アイテム変更、不具合修正を掲載。 ]]></description>
+            <title>【OW】2026年7月1日 パッチノート – コミュニティ企画が実装！</title>
+            <link>https://over-hub.com/articles/2026-07-01-community-crafted/</link>
+            <description><![CDATA[ 2026年7月1日配信のオーバーウォッチ（OW）パッチノート。アーケードの期間限定モード「コミュニティ企画」、シオンを除く全ヒーローのイベント専用変更、サポート・サブロール変更、リプレイコード削除、不具合修正を掲載。 ]]></description>
             <guid></guid>
-            <pubDate>2026.06.26</pubDate>
-        </item>
-        <item>
-            <title>【OW】2026年6月26日 パッチノート – シオン〈罰〉調整とスタジアム・ホットフィックス</title>
-            <link>https://over-hub.com/articles/2026-06-26/</link>
-            <description><![CDATA[ 2026年6月26日配信のオーバーウォッチ（OW）ホットフィックス。通常モードのシオン〈罰〉下方修正、スタジアムのハザード・ゲンジ・モイラなど複数ヒーローのパワー調整、共通アイテム変更、不具合修正を掲載。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.06.26</pubDate>
+            <pubDate>NEW</pubDate>
         </item>
     </channel>
 </rss>
