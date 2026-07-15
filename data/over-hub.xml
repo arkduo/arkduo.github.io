@@ -6,6 +6,13 @@
         <description></description>
         <language>ja</language>
         <item>
+            <title>【OW】「ディレクターの視点：未来のフォーマット」 6v6実験とスタジアム方針まとめ</title>
+            <link>https://over-hub.com/articles/directors-take-future-formats/</link>
+            <description><![CDATA[ オーバーウォッチ公式の「ディレクターの視点：未来のフォーマット」の内容を整理。フレックス・キュー／ダイナミック・キューの6v6実験、試合スピードと公平感の話、スタジアムの今後の方針をまとめます。 ]]></description>
+            <guid></guid>
+            <pubDate>2026.07.16</pubDate>
+        </item>
+        <item>
             <title>【OW】シーズン3ミッドシーズン情報まとめ！サマー・ゲーム、マウガ新ミシック、6v6 HACKEDなど公開</title>
             <link>https://over-hub.com/articles/season3-midseason-overview/</link>
             <description><![CDATA[ オーバーウォッチ公式がシーズン3「虎の住処へ」ミッドシーズン情報を公開。サマー・ゲーム2026、クイック・プレイ：HACKED、マウガ用ミシック「創造神」、ショップ新スキン、ドライブ、トレジャー・ハント、Twitch Dropsを整理します。 ]]></description>
@@ -20,18 +27,11 @@
             <pubDate>2026.07.15</pubDate>
         </item>
         <item>
-            <title>【OW】ストーリー『私たちの道』。ミズキの潜入発覚とオーバーウォッチ加入</title>
-            <link>https://over-hub.com/articles/story-paths-we-choose/</link>
-            <description><![CDATA[ オーバーウォッチのストーリー『私たちの道』を整理。キリコが幼少期ぶりに父・山神敏郎と再会する一方、ミズキがヨーカイへ潜入していたことがバレ、ソジョーンとの握手からオーバーウォッチ加入が読み取れます。 ]]></description>
-            <guid></guid>
-            <pubDate>2026.07.15</pubDate>
-        </item>
-        <item>
             <title>【OW】2026年7月15日 パッチノート – シーズン3ミッドシーズン：サマー・ゲームとヒーロー調整</title>
             <link>https://over-hub.com/articles/2026-07-15/</link>
             <description><![CDATA[ 2026年7月15日配信のオーバーウォッチ（OW）シーズン3ミッドシーズン・パッチノート。サマー・ゲーム2026の開始、通常モードのヒーロー調整、スタジアムのクラッシュ・パワー・アイテム調整、不具合修正を掲載。 ]]></description>
             <guid></guid>
-            <pubDate>NEW</pubDate>
+            <pubDate>2026.07.15</pubDate>
         </item>
     </channel>
 </rss>
